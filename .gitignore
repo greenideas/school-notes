@@ -1,0 +1,7 @@
+*.doc
+*.docx
+*.pdf
+*.mmap
+*.txt
+tags
+.DS_Store

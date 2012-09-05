@@ -1,0 +1,133 @@
+- [Civil Procedure Class Notes](#civilprocedureclassnotes)
+	- [August 27](#august27)
+		- [Introductions](#introductions)
+		- [Personal Jurisdiction](#personaljurisdiction)
+	- [August 28](#august28)
+		- [Personal Jurisdiction (cont'd)](#personaljurisdictioncont'd)
+	- [August 29](#august29)
+		- [Personal Jurisdiction (cont'd)](#personaljurisdictioncont'd)
+			- [After Pennoyer](#afterpennoyer)
+	- [August 30](#august30)
+		- [Personal Jurisdiction (cont'd)](#personaljurisdictioncont'd)
+			- [Hess v. Pawloski](#hessv.pawloski)
+	- [September 4](#september4)
+			- [International Shoe](#internationalshoe)
+
+# Civil Procedure Class Notes
+
+## August 27
+### Introductions
+* Mark Weisburd, Rm 5118, 919.962.8515, amw@email.unc.edu
+* Civil procedure - Everything that happens in a civil lawsuit *outside* the courtroom.
+* A rule must be neither too broad nor too narrow.
+
+### Personal Jurisdiction
+* People assume they are not beholden to governments to which they have no connection.
+* Look at p. 138 in the rulebook. Federal form 3, summons.
+* Many states (incl. NC) have adopted the Federal rules.
+* Form book has forms describing the structure of various types of legal documents.
+* Writ of execution - Order to the sherif from the judge to execute a judgment. E.g. seizing property, auctioning it off, giving the proceeds from the sale to the plaintiff in the amount of the judgment, and returning to the defendant anything in excess of that judgment.
+* Summons - Assertion of authority by the government. The gov't presents a complaint that must be answered within some number of days before a judgment of default.
+* Government exercises authority in settling disputes between private citizens. A citizen initiates the process, but then it becomes a government power.
+* 53 US court systems, including federal court systems, and one for each state & territory (Guam & PR)
+* A case from the state courts will only be heard in a federal court only if that case goes to SCOTUS which it will only if it involves a matter of federal law. Otherwise state supreme court has supreme authority.
+* pg. 9, Full faith & credit
+* Say a judgment is made in NC against a resident of TN without any property in NC. Full faith & credit requires that a TN sheriff execute that judgment.
+* pg 213, title 28 sec 1738 3rd para. FF&C
+* Title 28 is the judiciary code.
+* Warrantee deed - Seller claims good title & pledges to defend that title in court
+* Quick claim deed - Seller makes no claim of good title on the property
+
+## August 28
+### Personal Jurisdiction (cont'd)
+* Pennoyer didn't have good title because Mitchell didn't have good title because the Sherriff didn't have good title because the initial judgment was invalid.
+* Full faith & credit only applies where there is jurisdiction. (cf. Field p. 26)
+* **Subject matter jurisdiction** - what kinds of suits a court may hear
+* n1, pg 29.: The lawsuit is about a specific piece of property & who will own it at the end of the proceeding. In rem.
+* In personam - No particular item will be covered in the judgment--rather a particular person will be affected by the judgment.
+* In an in personal case, any property may be executed in a judgment.
+* An in rem case regarding property in NC may only be heard in NC.
+* An in personam case involving NC residents may be heard in any court that has personal jurisdiction over the participants.
+* Service of process:
+	* informs the defendant what the lawsuit says
+	* formally brings the defendant under the power of the court
+* Without serving process, the court doesn't really "have its hooks" in the defendant
+* In order to have in rem jurisdiction on some property, a court in the state in which the property is located has to attach the property
+* Different types of In Rem:
+	* Pure in rem: The government says something about a piece of property that is true for anybody in the world (Condemning a building).
+	* Quasi-in-rem type 1: Binds only the people given notice in the suit. If there's a 3rd party not involved in the suit who wants to make a claim on that property, this does not cover that party.
+	* Quasi-in-rem type 2: Not about the property at all. The property is treated only as a fund to serve as payment in another judgment.
+* The state may address the legal status of any resident of that state
+	* A marriage is a thing (res) so a divorce is essentially an in rem case, and so may be decided in the state where either spouse lives.
+* Suits in which the defendant is domiciled in a particular state (domicile vs. residence--domicile is stronger than residence--it's where you think of as home)
+* A domiciliary is always subject to the courts of the domicile.
+* Neff was not domiciled in OR when service of process by publication was conducted in OR therefore the service was void
+* Even if Neff had known about the suit (if service had been published in CA) service would still have been invalid
+* 14th amendment was not part of the constitution when the OR state court heard it (so why did Field cite it in his opinion)
+* 14th amdmt supersedes state law
+* The relevant rule was 28 U.S.C., § 1738. Though that didn't apply since OR didn't have personal jurisdiction over Neff
+* At the time of Pennoyer, "common law" was what judges reasoned it to be. There was a presumption that there would be only one thing for reason to demand in a given case.
+* Field is taking as law what he derives through reason from first principles, where those first principles are stated laws.
+
+## August 29
+### Personal Jurisdiction (cont'd)
+* Takeaways from Pennoyer
+	* If someone in one state wants to sue someone in that state who does not reside there, he must serve process in that state. Connection b/w in personam jurisdiction and the territory
+	* Full faith & credit does not apply when process is not served in the state where the suit is originated
+ * Standard for personal jurisdiction and the standard for whether full faith & credit must be given should be the same.
+* Most states that have answered the question have said that if a defendant was forcibly brought into jurisdiction in order to serve process there, then that process is valid.
+* This is not the case if the defendant was tricked.
+* It's important to remember the facts of a case in addition to the holding. The holding depends on the factual context in which the case was decided.
+* A later court can re-characterize the reasoning of an earlier ruling
+* To be able to impose a condition such that "if we permit you to do X, you must do Y" the state must be able to forbid doing X.
+* Privileges & immunities: Article IV §2 & 14th Amendment §1
+
+#### After Pennoyer
+* A corporation is distinct from anyone involved in that corporation
+* Asserting personal distinction over a corporation...
+* Once states started recognizing corporations incorporated in other states...
+* Corporations may do business in states other than where they were incorporated
+* "Foreign" corporations mean from another state
+* Since states may forbid foreign corporations from doing business inside them, they can also impose conditions on them.
+* SCOTUS said that states cannot keep corporations from doing interstate commerce in their borders.
+* If the corporation is "doing business" in the state, it is present in the state
+* A NC-ian in a traffic accident in Siberia can be sued for that accident in Siberia
+
+## August 30
+### Personal Jurisdiction (cont'd)
+* How fast is the potential defendant moving through the state?
+* Automobile travel increased the possibility & likelihood of interstate travel.
+* How do legal realities change when a non-resident can move through a jurisdiction at speed, if you have to serve process when that person is in the jurisdiction?
+
+#### Hess v. Pawloski
+* Some terminological notes:
+	* Writ of error. Someone thinks the lower court made a mistake & files a writ of error. As Pawloski.
+	* In MA, the name of the state legislature is the "General Court"
+	* Highest court is the "Supreme Judicial Court"
+* Pennoyer is about the location of the defendant when process is served
+* MA wants to regulate the underlying activity -- the use of roads wherever the user happens to reside
+* MA invents consent to jurisdiction in order to satisfy the standard of Pennoyer.
+* MA is within its rights to deny people the right to drive on its roads without an MA license, which allows it to impose conditions for allowing the same, such as that about appointing the registrar as an agent.
+* In Pennoyer, the Court thought it was in familiar territory (i.e. a contract dispute) and the rules about asserting jurisdiction over nonresidents.
+* In Hess, the activity appears novel, as evidenced by the court's description of the dangers of motor vehicles (p.35)
+
+## September 4
+* Bases for personal jurisdiction circa *Pennoyer* - 
+	* Personal jurisdiction can only be asserted over domiciliaries of that jurisdiction
+	* Consent - Opting into jurisdiction.
+	* Waiver - Opting not to defend against claim of jurisdiction
+	* Service of process while the defendant is inside the territory controlled by that jurisdiction
+* That the plaintiff sought the intervention of the court is sufficient to establish jurisdiction over that plaintiff
+* Challenges to *Pennoyer* understanding of personal jurisdiction:
+	* Technological advances in transportation - people can move more quickly and so can leave territories before service of process
+	* Service of process depending on presence in a state doesn't do much good when the defendant doesn't have a physical presence (e.g. corporations)
+	* Limits on states power - if the states cannot exclude corporations from their borders, there's no basis for asserting jurisdiction based on implied consent due to their presence.
+* "doing business" was a standard that arose out of these challenges.
+* "doing business" had to meet a threshold of activity before jurisdiction kicked in.
+* *Pennoyer* turned on where the defendant was when process was served.
+* In *Hess*, the focus wasn't on where the defendant was when process was served--it was on the activity he was performing & where he performed it.
+
+#### International Shoe
+* "doing business" used to colloquially mean presence before it became a term of art.
+* J. Stone: "presence" isn't a useful thing to state in arguing one way or the other whether WA may assert jurisdiction--whether ISC's activity in WA constitutes "presence" precisely *is* the question.
+* Minimum contact with a state is sufficient to establish personal jurisdiction
