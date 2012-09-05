@@ -6,7 +6,7 @@
 		- [McGee v. International Life](#mcgee-v-international-life)
 		- [Hanson v. Denckla](#hanson-v-denckla)
 		- [Gray v. American Radiator & Standard Sanitary Corp.](#gray-v-american-radiator-&-standard-sanitary-corp)
-			- [World-Wide Volkswagen v. Woodson](#world-wide-volkswagen-v-woodson)
+		- [World-Wide Volkswagen v. Woodson](#world-wide-volkswagen-v-woodson)
 
 # Civil Procedure: Cases, Materials, and Questions
 
@@ -177,7 +177,7 @@ SCOTUS 1878, J. Field
 * Manufacturers must be accountable for damage caused by their products in any state in which those products are used.
 * New transportation technology makes it easier to travel to court in other states, lowering that burden.
 
-#### World-Wide Volkswagen v. Woodson
+### World-Wide Volkswagen v. Woodson
 * SCOTUS 1980, J. White
 
 * **Parties**
