@@ -337,7 +337,7 @@
 	* **Two arguments**:
 		* *Consensus against capital child rape*:
 			* Only 5 other states besides LA have capital child rape
-			* LA argues that 6 states making child rape a capital offense in 13 yearsconstitutes a trend.
+			* LA argues that 6 states making child rape a capital offense in 13 years constitutes a trend.
 			* Court says 6 states does not a trend make.
 			* No one has been executed for child rape since 1964 and no one has been executed for any other non-homicide crime since 1963. (we're in 2008 now)
 		* *Execution for child rape is disproportionate punishment (main argument)*:
@@ -359,9 +359,6 @@
 
 * **Holding**
 	* Death is not a proportionate punishment for child rape, and is therefore unconstitutional under the 8th Amendment
-
-* **Rule**
-	* 
  
 * **Dissent**
 	* Alito, joined by Roberts, Scalia, & Thomas

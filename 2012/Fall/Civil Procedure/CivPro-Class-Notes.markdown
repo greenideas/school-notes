@@ -131,3 +131,8 @@
 * "doing business" used to colloquially mean presence before it became a term of art.
 * J. Stone: "presence" isn't a useful thing to state in arguing one way or the other whether WA may assert jurisdiction--whether ISC's activity in WA constitutes "presence" precisely *is* the question.
 * Minimum contact with a state is sufficient to establish personal jurisdiction
+* In *Pennoyer*, the transaction is irrelevant. We just care about the location of service.
+* In ISC, the contacts support personal jurisdiction because the contacts relate to the content of the suit.
+* Shepard's citations tell you what cases cite a particular case.
+* Statute of limitations doesn't begin to run for corporations until they meet qualifications to do business.
+* Fairness in ISC means the extent to which it's fair to see a party having a connection with a state in respect of its contacts with that state.

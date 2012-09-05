@@ -6,6 +6,7 @@
 		- [McGee v. International Life](#mcgee-v-international-life)
 		- [Hanson v. Denckla](#hanson-v-denckla)
 		- [Gray v. American Radiator & Standard Sanitary Corp.](#gray-v-american-radiator-&-standard-sanitary-corp)
+			- [World-Wide Volkswagen v. Woodson](#world-wide-volkswagen-v-woodson)
 
 # Civil Procedure: Cases, Materials, and Questions
 
@@ -129,12 +130,12 @@ SCOTUS 1878, J. Field
 	* ISC in each court argued that the compensation law violated the due process clause of the 14th amendment and was a burden on interstate commerce.
 	* SCOTUS rejects argument about interstate commerce noting that other states have unemployment insurance funds structured like WA's.
  
-* **Issue**s
+* **Issue**
 	* Can WA claim jurisdiction over a DE corporation doing business in WA without violating the 14th Amendment?
 	* Can WA extract compensation from that company without violating the 14th Amendment?
 
 * **Holding**
-	* Affirmed.
+	* Affirmed. Due process for jurisdiction is satisfied by the extent of the party's contact with the state and the relationship between that contact and the content of the suit.
 
 * **Reasoning**
 	* ISC did enough interstate business in WA that it "enjoys the benefits and protections of the laws of that state" and is so obligated to abide by those laws.
@@ -175,3 +176,57 @@ SCOTUS 1878, J. Field
 * The use of a product in a particular state is sufficient contact to establish jurisdiction.
 * Manufacturers must be accountable for damage caused by their products in any state in which those products are used.
 * New transportation technology makes it easier to travel to court in other states, lowering that burden.
+
+#### World-Wide Volkswagen v. Woodson
+* SCOTUS 1980, J. White
+
+* **Parties**
+	* π: World-Wide Volkswagen 
+	* ∂: Woodson
+
+* **Facts**
+	* Robinsons bought an Audi in NY & passed through OK on their way to move to AZ.
+	* While in AZ, the Audi was rear-ended, which caused it to catch fire & severely burn Mrs. Robinson & her two children.
+	* WWVW was incorporated & had its offices in NY 
+	* WWVW & Seaway have only contractual connection with Audi & VW.
+	* Neither WWVW nor Seaway sells or advertises anything in OK or has any agent to receive process there.
+
+* **Procedural History**
+	* Robinsons sued Audi (mfr), VW of America (importer), World-Wide VW (regional distributor), & Seaway (retailer) in OK.
+	* VW of America & Seaway put in special appearances saying that giving OK jurisdiction over them would go against 8th amendment due process
+	* District ct. rejected the 8th amendment claim
+	* WWVW sought a writ of prohibition from OK Supreme Court to keep District Judge Woodson from exercising personal jurisdiction.
+	* WWVW argued (again) that due process was violated since they didn't have minimal contacts in the state
+	* OK Supreme Ct. said jurisdiction was valid under OK's "long-arm" statute
+	* OK Supreme Ct.: Given the retail value of a car, WWVW probably gets substantial income from cars that are sometimes used in OK.
+	* SCOTUS granted cert.
+
+* **Issue**
+	* Can a state claim in personam jurisdiction over a nonresident manufacturer and a nonresident distributor for a product sold in another state, when that product causes injury in the first state.
+
+* **Reasoning**
+	* Requiring minimum contact for personal jurisdiction does two things:
+		1. Protects defendant from having to litigate in distant, inconvenient forums.
+			* "fair play and substantial justice"
+			*  fairness has to be balanced against: 
+				* the interest of the state in adjudicating the suit (like CA ensuring its citizens can sue insurance companies, *McGee*)
+				* the plaintiff's interest in getting speedy, convenient relief
+				* the interstate judicial system's interest in resolving conflicts efficiently
+				* the states' interests in furthering policy
+		2. Ensures that states don't encroach upon the sovereignty of coequal states.
+	* Technological & economic change are forcing the loosening of 8th amendment restrictions.
+	* The lower bound on loosening 8th amendment due process is interstate federalism.
+	* Foreseeability is too low a bar for minimum contact
+	* Due process needs to give potential defendants predictability in where they might expect to be sued and allow them to structure their conduct accordingly. 
+
+* **Holding**
+	* Appellant did not have minimum contact with OK--no personal jurisdiction
+
+* **Rule**
+	* Due process needs to give potential defendants predictability in where they might expect to be sued and allow them to structure their conduct accordingly
+ 
+* **Dissent/Concurrence**
+	* 
+
+* **Notes**
+	* 
