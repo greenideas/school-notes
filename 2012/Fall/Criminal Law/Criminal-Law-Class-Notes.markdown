@@ -1,17 +1,17 @@
 - [Criminal Law Class Notes](#criminallawclassnotes)
 	- [August 28](#august28)
 		- [What is criminal law?](#whatiscriminallaw?)
-		- [Regina v. Dudley and Stephens](#reginav.dudleyandstephens)
+		- [Regina v. Dudley and Stephens](#reginavdudleyandstephens)
 		- [Practice Tips](#practicetips)
 	- [August 29](#august29)
-		- [Regina v. Dudley and Stephens (cont'd)](#reginav.dudleyandstephenscont'd)
+		- [Regina v. Dudley and Stephens (cont'd)](#reginavdudleyandstephenscont'd)
 	- [August 31](#august31)
-		- [People v. Suitte](#peoplev.suitte)
+		- [People v. Suitte](#peoplevsuitte)
 	- [September 4](#september4)
-		- [Papachristou v. City of Jacksonville](#papachristouv.cityofjacksonville)
+		- [Papachristou v. City of Jacksonville](#papachristouvcityofjacksonville)
 	- [September 5](#september5)
-		- [Kolender v. Lawson](#kolenderv.lawson)
-		- [City of Chicago v. Morales](#cityofchicagov.morales)
+		- [Kolender v. Lawson](#kolendervlawson)
+		- [City of Chicago v. Morales](#cityofchicagovmorales)
 
 # Criminal Law Class Notes
 

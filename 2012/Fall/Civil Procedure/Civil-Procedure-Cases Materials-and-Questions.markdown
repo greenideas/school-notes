@@ -1,11 +1,11 @@
-- [Civil Procedure: Cases, Materials, and Questions](#civilprocedure:cases,materials,andquestions)
+- [Civil Procedure: Cases, Materials, and Questions](#civilprocedure:casesmaterialsandquestions)
 	- [Personal Jurisdiction](#personaljurisdiction)
-		- [Pennoyer v. Neff](#pennoyerv.neff)
-		- [Hess v. Pawloski](#hessv.pawloski)
-		- [International Shoe Co. v. Washington](#internationalshoeco.v.washington)
-		- [McGee v. International Life](#mcgeev.internationallife)
-		- [Hanson v. Denckla](#hansonv.denckla)
-		- [Gray v. American Radiator & Standard Sanitary Corp.](#grayv.americanradiator&standardsanitarycorp.)
+		- [Pennoyer v. Neff](#pennoyervneff)
+		- [Hess v. Pawloski](#hessvpawloski)
+		- [International Shoe Co. v. Washington](#internationalshoecovwashington)
+		- [McGee v. International Life](#mcgeevinternationallife)
+		- [Hanson v. Denckla](#hansonvdenckla)
+		- [Gray v. American Radiator & Standard Sanitary Corp.](#grayvamericanradiator&standardsanitarycorp)
 
 # Civil Procedure: Cases, Materials, and Questions
 

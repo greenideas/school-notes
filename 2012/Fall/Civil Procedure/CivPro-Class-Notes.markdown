@@ -9,7 +9,7 @@
 			- [After Pennoyer](#afterpennoyer)
 	- [August 30](#august30)
 		- [Personal Jurisdiction (cont'd)](#personaljurisdictioncont'd)
-			- [Hess v. Pawloski](#hessv.pawloski)
+			- [Hess v. Pawloski](#hessvpawloski)
 	- [September 4](#september4)
 			- [International Shoe](#internationalshoe)
 

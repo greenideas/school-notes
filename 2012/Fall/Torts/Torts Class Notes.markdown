@@ -9,14 +9,14 @@
 			- [NC](#nc)
 			- [NY](#ny)
 			- [Federal](#federal)
-		- [Holden v. Wal-Mart](#holdenv.wal-mart)
+		- [Holden v. Wal-Mart](#holdenvwal-mart)
 		- [Damages](#damages)
 	- [August 30](#august30)
-		- [Snyder v. Turk](#snyderv.turk)
-		- [Cohen v. Smith](#cohenv.smith)
-		- [Van Camp v. McAfoos](#vancampv.mcafoos)
+		- [Snyder v. Turk](#snydervturk)
+		- [Cohen v. Smith](#cohenvsmith)
+		- [Van Camp v. McAfoos](#vancampvmcafoos)
 	- [September 4](#september4)
-		- [Garratt v. Dailey](#garrattv.dailey)
+		- [Garratt v. Dailey](#garrattvdailey)
 
 # Torts
 
