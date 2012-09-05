@@ -1,11 +1,11 @@
-- [Updating the Study of Punishment](#updatingthestudyofpunishment)
-	- [Punishment & Social Science](#punishment&socialscience)
-		- [Substitution Effects](#substitutioneffects)
-		- [Decision Framing](#decisionframing)
-		- [Educational Impact](#educationalimpact)
-		- [Inverse Sentencing Effect](#inversesentencingeffect)
-		- [Social Control](#socialcontrol)
-		- [Punishment Practice & Legitimacy](#punishmentpractice&legitimacy)
+- [Updating the Study of Punishment](#updating-the-study-of-punishment)
+	- [Punishment & Social Science](#punishment-&-social-science)
+		- [Substitution Effects](#substitution-effects)
+		- [Decision Framing](#decision-framing)
+		- [Educational Impact](#educational-impact)
+		- [Inverse Sentencing Effect](#inverse-sentencing-effect)
+		- [Social Control](#social-control)
+		- [Punishment Practice & Legitimacy](#punishment-practice-&-legitimacy)
 
 ## Updating the Study of Punishment
 ### Punishment & Social Science

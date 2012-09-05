@@ -1,5 +1,5 @@
-- [Legal Writing](#legalwriting)
-	- [Writing & Professional Work [Chapter1]](#writing&professionalwork[chapter1])
+- [Legal Writing](#legal-writing)
+	- [Writing & Professional Work [Chapter1]](#writing-&-professional-work-[chapter1])
 
 # Legal Writing
 1. [Writing & Professional Work - Types of memos & briefs][Chapter1]

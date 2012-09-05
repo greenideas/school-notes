@@ -1,8 +1,8 @@
-- [RRWA Class Notes](#rrwaclassnotes)
+- [RRWA Class Notes](#rrwa-class-notes)
 	- [8/27/2012[8-27-2012]](#8/27/2012[8-27-2012])
 	- [8/30/2012[8-30-2012]](#8/30/2012[8-30-2012])
-		- [Citation & Attribution](#citation&attribution)
-		- [Legal rules](#legalrules)
+		- [Citation & Attribution](#citation-&-attribution)
+		- [Legal rules](#legal-rules)
 
 # RRWA Class Notes
 * [8/27/2012][8-27-2012]

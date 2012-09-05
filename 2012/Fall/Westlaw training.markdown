@@ -1,3 +1,3 @@
-- [Westlaw training](#westlawtraining)
+- [Westlaw training](#westlaw-training)
 
 # Westlaw training

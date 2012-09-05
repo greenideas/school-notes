@@ -1,5 +1,5 @@
-- [A Personal Statement, Autobiography, and Travelogue in Song](#apersonalstatementautobiographyandtravelogueinsong)
-	- [by Matt Henry](#bymatthenry)
+- [A Personal Statement, Autobiography, and Travelogue in Song](#a-personal-statement-autobiography-and-travelogue-in-song)
+	- [by Matt Henry](#by-matt-henry)
 
 # A Personal Statement, Autobiography, and Travelogue in Song
 ## by Matt Henry
