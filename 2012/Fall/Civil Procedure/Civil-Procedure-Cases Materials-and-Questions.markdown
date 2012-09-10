@@ -274,25 +274,77 @@ SCOTUS 1878, J. Field
 	* ∂:  Superior Court of California, Solano County (Cheng Shin Rubber Industrial Co, Ltd, Real Party in Interest)
 
 * **Facts**
-	* 
+	* Zurcher, riding his motorcycle in CA with his wife as passenger, lost control of the motorcycle and hit a tractor.
+	* Zurcher was seriously injured & his wife was killed.
+	* Zurcher claimed the rear tire was defective and sued for product liability in CA
 
 * **Procedural History**
-	* 
+	* Suit for product liability re: the rear tire was brought in CA against Cheng Shin (Taiwanese tube mfr.), among others.
+	* Cheng Shin countersued for indemnification from codefs & from Asahi, the mfr of the tube's valve assembly.
+	* Zurcher settled with Cheng Shin.
+	* Only remaining question was Cheng Shin's indemnification claim against Asahi
+	* CA's long-arm allows jurisdiction whenever it is constitutional in CA & US.
+	* Asahi argued jurisdiction would violate 14th amendment.
+	* Asahi argued:
+		* It is a Japanese corp.
+		* It mfrs tire valve assemblies in JP and sells them to Cheng Shin (& other tire mfrs)
+		* Sales occurred in TW.
+		* Shipments were from JP to TW.
+		* Tires were mfrd in TW.
+		* 20% of Cheng Shin's US sales are in CA.
+		* Cheng Shin gets valves from companies other than Asahi and sells tubes globally.
+	* In one store in Solano County, 21 of 115 tubes had Asahi valves. 12 of those were Cheng Shin tubes.
+	* Cheng Shin employee swore in an affidavit that Asahi knew its valves would end up in CA.
+	* Pres of Asahi swore an affidavit saying it never contemplated where its valves would end up after TW such that it could anticipate being sued in CA.
+	* CA Ct. of App. denied Asahi's motion for dismissal of summons saying it's reasonable for an int'l mfr to expect to be sued int'lly.
+	* CA Supreme Ct. reversed, saying Asahi had no office, property or agent in CA, & does no business directly in CA.
+	* Neither did Asahi establish the distribution channel by which its valves ended up in CA.
+	* Still CA Supreme Ct. *did* say that jurisdiction was not a 14th amendment violation since Asahi knew its valves would end up in tubes in CA & it indirectly benefitted from CA business.
+	* CA Supreme Ct. thought that intentionally placing valves into the market plus the knowledge that some valves would end up in CA was sufficient for jurisdiction under 14h amendment Due Process.
+	* SCOTUS granted cert.
 
 * **Issue**
-	* 
+	* Does a foreign firm's awareness that products it manufactures, sells, and delivers outside of the US will end up in a US state constitute "minimum contacts" for the purpose of establishing personal jurisdiction.
 
 * **Reasoning**
-	* 
+	* "Minimum contacts" is still the bar for judging whether jurisdiction passes muster with 14th amendment due process
+	* Minimum contacts have to be established through actions initiated by the D himself.
+	* From *Volkswagen*, it's not sufficient for minimum contact for the customer to have brought the product in the cause of action into the forum state.
+	* Some courts say putting a product into the stream of commerce is enough, while others say the introduction of the product must be directed at the forum state.
+	* The CA Supreme Ct's reasoning was along the former line--i.e., putting a product into the stream of commerce & hence making lawsuits "foreseeable" is enough for personal jurisdiction.
+	* The latter interpretation of *Volkswagen* is correct. That is, D's activity must be directed at the forum state in order to satisfy due process.
+	* Asahi, though it put its valves into the market, didn't: advertise in CA, do customer support in CA, have salespeople in CA, etc., and so didn't establish minimum contact with CA.
+	* Reasonableness of jurisdiction depends on:
+		* Burden to the defendant
+		* Interests of the forum state
+		* Plaintiff's interest in obtaining relief
+		* Judicial system's interest in efficiency
+		* The shared interest of all states in fulfilling their policy goals
+	* Addressing these in turn:
+		* High burden for Asahi--long distance, foreign judicial system.
+		* CA has little interest here.
+		* Cheng Shin didn't prove why it should litigate in CA instead of TW or JP.
+		* Both judicial efficiency & states' policy goals are served by balancing the burden on the plaintiff and the interests of the forum state. Presumption should be be against bringing foreign D's into state cts.
+		* Int'l context, heavy burden on D, & little state interest collectively go against due process.
 
 * **Holding**
-	* 
+	* Minimum contact requirement is not met, so awarding personal jurisdiction goes against fair play and substantial justice.
 
 * **Rule**
 	* 
  
-* **Dissent/Concurrence**
-	* 
+* **Concurrence**
+	* *Part II-B--Rehnquist, Brennan, White, Marshall, Blackmun, Powell, Stevens*
+		* Don't agree with II-A's assertion that Asahi didn't purposefully avail itself of the CA mkt.
+		* Putting products into the mkt without any additional effort directed at a forum state is sufficient for jurisdiction as long as other factors don't undercut due process.
+		* Litigation is a burden, but it has attendant benefits.
+		* Do agree that fair play & substantial justice are harmed by granting jurisdiction here. 
+		* Minimum contact requirement *is* met, but jurisdiction goes against due process for other reasons.
+	* *Part II-A and III--Rehnquist, Powell, Scalia*
+	* *Part I and II-B--Stevens, White, Blackmun*
+		* Two problems with II-A
+			1. It's unnecessary for the ct's decision--minimum contact need not always be established to determine constitutionality of jurisdiction.
+			2. Ct's finding in II-B that jurisdiction would be "unreasonable & unfair" is enough to say it's unconstitutional. If jurisdiction violated fair play & substantial justice, that trumps whatever activity occurs in the forum state.
 
 * **Notes**
 	* 
