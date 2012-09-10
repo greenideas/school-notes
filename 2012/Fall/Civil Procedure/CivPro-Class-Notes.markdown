@@ -183,3 +183,4 @@
 * The marginal revenue WWVW got from the car due its use in OK was very small and thus not sufficient for minimum contact - Marginal revenue here would be the difference in cost between a car that could not go to OK and one that could.
 * WWVW wasn't setting out to sell cars in OK. OK wasn't a factor in WWVW's operations.
 * *WWVW* was a reaffirmation of the rule in *Hanson*
+* Rephrase of White's principle, rather than saying whether a party could anticipate being sued somewhere, might be more apt to put it in terms of a party's knowing whether they were going to establish a connection with w forum by their presence there and activities conducted.
