@@ -99,3 +99,26 @@
 * Substantive due process right to loiter for innocent purposes--right to remain in place. Rights are implicit in the concept of ordered liberty.
 * Court: Either loitering is the conduct that is prohibited & there is a notice problem or loitering isn't a problem, and then the order to disperse is unlawful.
 * Too much discretion for law enforcement in discerning "apparent reason" & you can't know if there's apparent reason if you don't ask.
+
+## September 7
+* Due process limitations are about v4v. Assume everyone has read the law. Then you need to meet the requirements of sufficient notice & limiting discretion in enforcement.
+
+### 8th amendment basics
+* Modes of punishment - no torture, no drawing & quartering
+	* Scalia & Thomas think this is the *only* thing covered by 8th amendment
+* Proportionality - 
+	* Kennedy, Roberts - *narrow proportionality* - only "grossly disproportionate" sentences are prohibited
+* Evolving v. Static - Cruel & unusual is a standard, but the behavior that meets that standard changes along with public morality.
+* Death is different - death is categorically different from any other kind of punishment
+* Varieties of 8th amendment remedies
+	* Term of years cases
+	* Categorical exclusions
+		* DP based on characteristics of offense (Robbery? No. Adult rape? No. Child rape? No.)
+		* DP based on characteristics of the offender
+
+### Kennedy v. Louisiana
+* *Furman v. Georgia* (1972) strikes down DP. Reinstates in 1976.
+* DP has to be assigned in an individual determination, so it can only be applied to the worst of the worst
+* LA Stat. Ann. 14:42
+* Basic aggravated rape statute
+* Has to be some aggravating factor in order to be eligible for DP.

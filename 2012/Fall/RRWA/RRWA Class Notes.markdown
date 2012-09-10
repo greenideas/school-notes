@@ -71,6 +71,7 @@
 	* title, section, subsection
 	* date of codification or publication
 * NC requires parallel citation of the state and regional reporters
+
 ### Legal rules
 * Rule - A formula used to predict the outcome of a dispute
 * Components of a rule
@@ -82,3 +83,29 @@
 	1. Deconstruct
 	2. Analyze
 	3. Reconstruct
+
+### Bluebook overview
+* Don't use small caps
+
+### Research exercise notes 
+* Dr. Field important client
+* on the verge of retirement
+* bought a big farmhouse in Hillsb
+* open a b&b there
+* there's a bbq restaurant there
+* biker joint
+* owners are nice, but too popular
+* bbq pork smell is strong
+* lots of ash--covers property
+* noisy till 2AM
+* lots of vegans are canceling & leaving early
+* net loss in sales
+* wants to work out an agreement with 
+* Food network covered Ruckus & business is booming
+* cause of action: property rights? trespassing? nuisance?
+
+## September 10
+### CREAC
+* **Golden rule:** Explain the law before you apply the law
+* **CREAC**: **C**onclusion **R**ule **E**xplanation **A**pplication **C**onclusion
+* Use "Under/Does/When" jurisdiction, cause of action, trigger facts--most relevant facts--"*Under* NC law, *does* it constitute a nuisance *when* adjacent property is noisy & smoky"

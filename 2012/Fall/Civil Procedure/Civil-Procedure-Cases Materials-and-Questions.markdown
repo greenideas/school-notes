@@ -55,7 +55,7 @@ SCOTUS 1878, J. Field
 	* The land could not be brought under control of the state without proper notice and proper notice was not given.
 
 * **Reasoning**
-	* If notice of a suit didn't have to be in person, and the judgment could also be executed without the defendant present, people could be sued without ever knowing it was happening. 
+	* If notice of a suit didn't have to be in person, and the judgment could also be executed without the defendant present, people could be sued without ever knowing it was happening.
 	* Proceedings in rem, in a general enough sense, are really proceedings involving people.
 
 * **Notes**
@@ -142,6 +142,8 @@ SCOTUS 1878, J. Field
 
 * **Dissent**
 	* J. Black
+	* Centers on 'fair play & substantial justice'
+	* 'doing business' is no better defined in the Constitution than 'fair play' or 'substantial justice'
 
 ### McGee v. International Life
 * SCOTUS, 1957
@@ -224,6 +226,65 @@ SCOTUS 1878, J. Field
 
 * **Rule**
 	* Due process needs to give potential defendants predictability in where they might expect to be sued and allow them to structure their conduct accordingly
+ 
+* **Dissent**
+	* J. Brennan
+	* *Forseeability*
+		* States interests in adjudicating were strong (witnesses were there, it was their highway system they want to keep safe, etc.)
+		* An automobile by its nature is directly inserted into interstate commerce.
+		* A car gets a lot of its value from the highway system, which is comprised of roads in each state that maintains them, so a car dealer in NY really does benefit from the laws of OK
+	* *Defendants' rights/convenience*
+		* "Orderly administration of the laws" is as much an argument in favor of plaintiffs' and states' interests as it is for defendants'.
+	* Brennan's standard for asserting jurisdiction: If the forum state has an interest in the case and there's nothing unfair about that jurisdiction besides distance and borders, presumption should be in favor of granting jurisdiction.
+
+### Personal Jurisdiction in Federal Court
+* A federal district court generally only has personal jurisdiction if the state courts in which the fed court is located could do so. Rule 4(k)(1)(A)
+	* *Exceptions*
+		* A federal statute specifically authorizes it--"nationwide service of process" Rule 4(k)(1)(C)
+		* The claim is based on federal law **and** jurisdiction is constitutional **and** there is no state that can claim personal jurisdiction. Rule 4(k)(2)
+			* *Graduate Management Admissions Council v. Raju* - D did not have a substantial connection with any one state, but did so have with the US as a whole
+* Nationwide service of process falls under 5th amendment due process instead of 14th amendment
+
+### *Keeton* and *Calder*
+* In *Keeton v. Hustler Magazine, Inc.*, Keeton, a NYer, sued Hustler for libel in NH because it was the only state in which the statute of limitations of her libel had not run. 
+* Her claim was based on damage to her reputation in NH as well as nationwide.
+* Plaintiff doesn't need any connection with the forum state.
+* NH jurisdiction over Hustler was still limited to the extent of its activities in NH	
+* In *Calder v. Jones* SCOTUS affirmed CA's award of personal jurisdiction for similar reasons.
+* P & D were both in FL, but D was a TV entertainer whose career was based in CA.
+* P published a defamatory article in CA (among other states) that could have harmed D's career. This was enough of a connection to CA to award jurisdiction.
+* Based on the connection between the content of the article and the location of D's career, P could "reasonably anticipate being haled into court there"
+
+### Why Litigants Care About Where Litigation Occurs
+* If jurisdiction isn't granted in one state, it doesn't mean litigation won't proceed against D, since it will likely be granted somewhere.
+* Thus any costs to D for litigation outside of where D is domiciled will only be the additional costs for litigating elsewhere
+* Main reason litigants care about venue is the particular laws of the forum state.
+* A state with no connection to the parties or activity in the cause of action cannot apply its laws *even if it has personal jurisdiction*--that state can adjudicate, but must apply the law of whatever state has those connections.
+
+### Asahi Metal Industry Co. Ltd v. Superior Court of California, Solano County (Cheng Shin Rubber Industrial Co, Ltd, Real Party in Interest)
+* SCOTUS 1987, J. O'Connor
+
+* **Parties**
+	* π: Asahi Metal Industry Co. Ltd
+	* ∂:  Superior Court of California, Solano County (Cheng Shin Rubber Industrial Co, Ltd, Real Party in Interest)
+
+* **Facts**
+	* 
+
+* **Procedural History**
+	* 
+
+* **Issue**
+	* 
+
+* **Reasoning**
+	* 
+
+* **Holding**
+	* 
+
+* **Rule**
+	* 
  
 * **Dissent/Concurrence**
 	* 

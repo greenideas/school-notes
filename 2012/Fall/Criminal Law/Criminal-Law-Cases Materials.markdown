@@ -328,7 +328,7 @@
 	* SCOTUS granted cert.
 
 * **Issue**
-	* Can the death penalty be imposed for crimes that did not result in death and that were not intended to result in death?
+	* Under the 8th amendment, can the death penalty be imposed for crimes that did not result in death and that were not intended to result in death?
 
 * **Reasoning**
 	* *Furman* says that 8th amdmt is based on the principle that punishment should be proportional to the crime.

@@ -113,4 +113,18 @@ Insurance is an alternative to the tort system
 	* knowledge that contact is substantially certain
 * No volition, no fault.
 * Subjective inquiry - determining what a party was thinking.
+* Eggshell skull doctrine - If I make harmful intentional contact with your skull, and your skull caves in even if I didn't intend to harm you that much, I'm liable for the full extent of the harm.
 
+### White v. Muniz
+* Bench trial - no jury
+* *Dual intent* - Defendant must not only intend contact, but also that that contact be harmful or offensive.
+* It's the jury's job to determine the defendant's mental state.
+* Most states have a dual intent standard.
+
+### Wagner v. State
+* *Single intent* - Defendant only needs to intend to make contact
+* In the kissing hypo, the kiss is still not consented to
+* Mentally ill & immature don't automatically get a free pass
+
+## Outlining tips
+* Should be concise, but have enough info to help you understand

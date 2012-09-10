@@ -113,6 +113,7 @@
 
 ## September 4
 * Bases for personal jurisdiction circa *Pennoyer* - 
+	* Domicile
 	* Personal jurisdiction can only be asserted over domiciliaries of that jurisdiction
 	* Consent - Opting into jurisdiction.
 	* Waiver - Opting not to defend against claim of jurisdiction
@@ -136,3 +137,35 @@
 * Shepard's citations tell you what cases cite a particular case.
 * Statute of limitations doesn't begin to run for corporations until they meet qualifications to do business.
 * Fairness in ISC means the extent to which it's fair to see a party having a connection with a state in respect of its contacts with that state.
+* International Shoe's criteria for personal jurisdiction: 
+	* Quality & nature of the contact with the state, and 
+	* the relationship between those contacts and the case.
+* Courts view equation of tax jurisdiction with personal jurisdiction as an exercise of state power.
+	
+##### Black's dissent
+* Hugo Black was a great supporter of the New Deal
+* *Freedom of contract* - doctrine that forbade government interference in contractual agreements between two parties
+* Black was a strict constructionist.
+
+#### McGee v. International Life
+* Full faith & credit case.
+* McGee won a judgment in CA and wanted the TX courts to give it full faith & credit
+* Just because the state asserts an interest doesn't mean that the interest is sufficient to assert jurisdiction.
+* In *McGee*, CA's interest was related to the connection at issue.
+
+#### Hanson v. Denckla
+* *Trust* - Transfer of property from on party to another (the trustee), where the trustee must administer the property in the interests of a third party. The third party has no control over the property, but received profits from it.
+* Beneficiary of a trust has recourse in a court of equity.
+* Donner trust didn't specify who would be the beneficiary after she died.
+* Her will did not explicitly address the trust.
+* She created a power of appointment that named beneficiaries of the trust.
+* Parallel suits in DE in FL. (FL was the wicked aunts, and DE was the mother of the two nephews)
+* FL court made a judgment for the aunts.
+* SCOTUS case was about whether DE needed to give full faith & credit to the FL decision.
+
+#### Gray v. American Radiator & Stanford Sanitary Corp.
+* "long arm" statutes: states "reach out" to defendants that aren't in that state.
+* Why would Titan assume that American Radiator wanted its valves? Fair to say that Titan knew its valves would end up in water heaters that it would then sell to people who wanted them.
+* Titan not only knew this would happen, but their business depends on American Radiator's ability to sell water heaters. End user was going to be a consumer who needed a water heater.
+* Ultimate customers of valves are the IL purchasers of water heaters.
+* Titan thus benefits from protection IL laws.
