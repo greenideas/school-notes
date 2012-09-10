@@ -195,6 +195,7 @@ SCOTUS 1878, J. Field
 
 * **Procedural History**
 	* Robinsons sued Audi (mfr), VW of America (importer), World-Wide VW (regional distributor), & Seaway (retailer) in OK.
+	* Audi & VW of America didn't contest personal jurisdiction.
 	* VW of America & Seaway put in special appearances saying that giving OK jurisdiction over them would go against 8th amendment due process
 	* District ct. rejected the 8th amendment claim
 	* WWVW sought a writ of prohibition from OK Supreme Court to keep District Judge Woodson from exercising personal jurisdiction.

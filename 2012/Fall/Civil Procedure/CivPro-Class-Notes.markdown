@@ -169,3 +169,17 @@
 * Titan not only knew this would happen, but their business depends on American Radiator's ability to sell water heaters. End user was going to be a consumer who needed a water heater.
 * Ultimate customers of valves are the IL purchasers of water heaters.
 * Titan thus benefits from protection IL laws.
+
+#### World-Wide Volkswagen v. Woodson
+* In OK, if a trial ct does something outside of its discretion, one can appeal to the OK Supreme Court for a "writ of mandate"
+* Defendant in such a proceeding is the trial judge (here, Woodson)
+* Audi & VW of America didn't contest personal jurisdiction.
+* Subject matter jurisdiction of federal courts depends on the citizenship of the litigants. No plaintiff can be a citizen of the same state as any of the defendants.
+* Robinsons were technically still domiciled in NY (where Seaway & WWVW were incorporated).
+* A suit brought in a state ct that could have been brought in fed ct may be removed to the federal ct.
+* If VW & Audi could get WWVW & Seaway out of the suit, they could thus get the case removed to federal court (OK was friendly to plaintiffs).
+* Hence VW & Audi paying to attack personal jurisdiction over WWVW & Seaway.
+* "Foreseeable" - not an extraordinary occurrence
+* The marginal revenue WWVW got from the car due its use in OK was very small and thus not sufficient for minimum contact - Marginal revenue here would be the difference in cost between a car that could not go to OK and one that could.
+* WWVW wasn't setting out to sell cars in OK. OK wasn't a factor in WWVW's operations.
+* *WWVW* was a reaffirmation of the rule in *Hanson*
