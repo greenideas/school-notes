@@ -17,6 +17,9 @@
 		- [Van Camp v. McAfoos](#van-camp-v-mcafoos)
 	- [September 4](#september-4)
 		- [Garratt v. Dailey](#garratt-v-dailey)
+		- [White v. Muniz](#white-v-muniz)
+		- [Wagner v. State](#wagner-v-state)
+	- [Outlining tips](#outlining-tips)
 
 # Torts
 

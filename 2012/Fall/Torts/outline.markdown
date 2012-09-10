@@ -1,3 +1,5 @@
+- [Battery](#battery)
+
 # Battery
 1. An **act** such that:
 	* **Requires volition**: voluntary contraction of muscles

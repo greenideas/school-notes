@@ -12,6 +12,9 @@
 	- [September 5](#september-5)
 		- [Kolender v. Lawson](#kolender-v-lawson)
 		- [City of Chicago v. Morales](#city-of-chicago-v-morales)
+	- [September 7](#september-7)
+		- [8th amendment basics](#8th-amendment-basics)
+		- [Kennedy v. Louisiana](#kennedy-v-louisiana)
 
 # Criminal Law Class Notes
 

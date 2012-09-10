@@ -12,6 +12,11 @@
 			- [Hess v. Pawloski](#hess-v-pawloski)
 	- [September 4](#september-4)
 			- [International Shoe](#international-shoe)
+				- [Black's dissent](#black's-dissent)
+			- [McGee v. International Life](#mcgee-v-international-life)
+			- [Hanson v. Denckla](#hanson-v-denckla)
+			- [Gray v. American Radiator & Stanford Sanitary Corp.](#gray-v-american-radiator-&-stanford-sanitary-corp)
+			- [World-Wide Volkswagen v. Woodson](#world-wide-volkswagen-v-woodson)
 
 # Civil Procedure Class Notes
 

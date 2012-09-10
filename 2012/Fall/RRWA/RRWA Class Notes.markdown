@@ -3,6 +3,10 @@
 	- [8/30/2012[8-30-2012]](#8/30/2012[8-30-2012])
 		- [Citation & Attribution](#citation-&-attribution)
 		- [Legal rules](#legal-rules)
+		- [Bluebook overview](#bluebook-overview)
+		- [Research exercise notes ](#research-exercise-notes)
+	- [September 10](#september-10)
+		- [CREAC](#creac)
 
 # RRWA Class Notes
 * [8/27/2012][8-27-2012]
