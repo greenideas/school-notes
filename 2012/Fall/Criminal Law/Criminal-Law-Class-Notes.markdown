@@ -134,4 +134,19 @@
 * *Miller* doesn't care very much about the number of jurisdictions that offer a particular sentence.
 
 ## September 12
-* 
+* Biggest problem with *McKlesky* is the lack of a limiting principle.
+* Statistics can be used as eviidence in:
+	* Jury Venire cases - if the composition of a jury doesn't match the local demography
+	* Title VII Civil Rights Claims
+	* Why not capital sentencing?
+		* By this point, jury is legitimately composed
+		* Way too many variables go into jurors' reasoning in determining guilt and sentencing.
+		* Too many actors, too many factors. It's way simpler in Title VII or Venire cases.
+		* State can't practically defend against statistical arguments.
+	* 8th amendment argument
+		* If the race of the victim is a factor in the application of the DP, then we're not getting "the worst of the worst"
+		* Rejoinder to argument that discrimination has to be shown in the particular case is that, while that might be a good argument that sentence is valid under the 14th, it's still not okay under the 8th.
+	* Missing response to the "tell it to the legislature" argument: It's the job of the judiciary to protect the minority against the majority.
+	* Scalia's memo: There could never be enough empirical proof.
+	* Powell: If I could change one vote, it would be this one
+	* Race & DP today: 

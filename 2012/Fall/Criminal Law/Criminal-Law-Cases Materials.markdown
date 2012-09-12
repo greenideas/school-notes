@@ -585,7 +585,7 @@
 		* Black Ds 1.1x more likely to get DP
 
 * **Issue**
-	* 
+	* Can statistical evidence of sentencing discrepancies be used to demonstrate equal protection violation?
 
 * **Reasoning**
 	* **II-A** - McK's claim that the court discriminated
@@ -597,7 +597,7 @@
 			2. Statistics can only be used when the decisionmaker can tell the court why no bias exists, but since the decisionmakers here are jurors, that can't happen. (Jurors can't be called to testify why they voted how they did.)
 		* Also, under US & GA law, McK's crime is one that may carry a death sentence (me: this is either question-begging or vacuous)
 	* **II-B** - McK's claim that the state discriminated
-		* McK claims the state violated the EPC because it knew of the discriminatory application of DP but kept the DP in place, but for this McK would have to show that GA kept the DP *because of* the disparity rather than in spite of it.
+		* McK claims the state violated the EPC because it knew of the discriminatory application of DP but kept the DP in place, but for this McK would have to show that GA kept the DP *because of* the disparity rather than in spite of it (*Rational basis scrutiny*)
 	* **III** - McK's claim that the sentencing system discriminated
 		* Discretion in sentencing isn't unconstitutional. A jury can use its discretion to not convict, to convict of a lesser offense, or to give a non-capital punishment.
 		* Decisions that go against a D can be contested, but decisions that go for D are final.
@@ -615,7 +615,7 @@
 * **Holding**
 	* Evidence of racial disparity in sentencing does not constitute an Equal Protection violation
  
-* **Dissent/Concurrence**
+* **Dissent**
 	*  JJ. Brennan, Marshall, Blackmun, Stevens
 	* Brennan & Marshall: DP is given so arbitrarily that it should be abandoned alltogether
 	* All dissenters for the remainder below.
@@ -626,6 +626,7 @@
 			* When race influences that discretion, this directly undermines that goal. If it looks like that discrimination is present, there should be a lower standard for determining if that is indeed the case.
 		2. Safeguards against abuse of discretion [response omitted]
 		3. Perils of broader challenges to fairness of sentencing
+			* "[F]ear of too much justice" 
 			* If there are other instances where discrepancies like this exist, why *wouldn't* we want to know about them and get rid of them?
 			* Race is different from other characteristics. The court has gone to great lengths throughout its history in order to promote fairness in matters of race. Any racial bias is bad, and if it's in DP cases, it's especially bad.
 			* Yes, no system of punishment will be perfect, but when the DP is at stake, we should hold the process to a higher standard.
