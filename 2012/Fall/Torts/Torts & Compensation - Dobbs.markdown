@@ -108,7 +108,7 @@
 * Process should enable some predictability of outcomes
 
 ### Applying Some Approaches
-* *Conversion* - A tort in which one person uses another person's property as if it were their own or representing that the property was their own. Conversion may occur even though the party using the property or claiming ownership is unaware of the property's status.
+* *Conversion* - A tort in which one person uses another person's property as if it were their own or represents that the property was their own. Conversion may occur even though the party using the property or claiming ownership is unaware of the property's status.
 * When policy & justice are in conflict, which should prevail?
 
 ### Implementing Tort Law Purposes with Damage Awards 
@@ -609,7 +609,7 @@
 	* He answered the door & could see there was someone there, & heard a female voice say she needed to talk to him.
 	* He returned to his room to get dressed.
 	* When he arrived back in the living room, Sandy Medley, her father Ernest, brother Ron, mother Doris, and brother-in-law Terry Simmons were standing there.
-	* Ernest was on cruthches & had a revolver holstered on his thigh.
+	* Ernest was on crutches & had a revolver holstered on his thigh.
 	* Sandy & her mother called Cullison "sick" and "pervert" and otherwise verbally berated him.
 	* Doris kept her hand in her pocket in such a way that it indicated to Cullison that she had a gun as well.
 	* Ernest kept rattling the gun as if he were going to pull it.
@@ -627,10 +627,11 @@
 	* Appeals court affirmed the decision, saying that since the gun stayed in the holster & the threat to "jump astraddle" of Cullison was conditional on Cullison interacting further with Sandy.
 
 * **Issue**
-	* Did the Medley's verbal threats and menacing behavior toward Cullison constitute assault
+	* Did the Medleys verbal threats and menacing behavior toward Cullison constitute assault even though no physical contact occurred.
 
 * **Reasoning**
 	* Assault occurs when someone acts intending to cause battery or the fear of imminent battery.
+	* "It is [a] right to be free from the apprehension of battery"
 
 * **Holding**
 	* The jury should have determined whether the Medleys verbal threats and rattling of handguns would have given a reasonable person fear of imminent harmful contact.
@@ -669,23 +670,21 @@
 	* Wal-mart appealed.
 
 * **Issue**
-	* Did the wal-mart employees' detention of the mccanns constitute confinement and false imprisonment.
+	* Did the wal-mart employees' detention of the McCanns constitute confinement and false imprisonment.
 
 * **Reasoning**
-		* Neither physical restraint nor physical boundaries are required to establish confinement.
+	* Neither physical restraint nor physical boundaries are required to establish confinement.
 	* Threat of physical force or implied threat of physical force may establish confinement.
 	* Incorrect assertion of legal authority to confine also suffices.
 	* All of the above constitute "duress"
 	* The reference to the police, the instruction given to the McCanns, and continued presence of the employees are enough to make a reasonable person believe either that the employees would physically restrain the McCanns if they attempted to leave, that the store had the legal authority to detain them, or both.
 
 * **Holding**
-	* The wal-mart employees confined the McCanns in the store and the McCanns were aware of it.
+	* False imprisonment. The wal-mart employees confined the McCanns in the store and the McCanns were aware of it.
 
 * **Rule**
 	* False imprisonment occurs when an actor "confines" someone "within boundaries fixed by the actor" and the victim is aware of or harmed by the confinement.
 	* The threat of physical force, or the implication of legal authority to detain is sufficient to establish confinement (there needn't be any physical contact).
 
 * **Notes**
-	* ? Are there cases of false imprisonment where the victim was confined and
-	  harmed but not aware? Presumably.
 	* Being *excluded* from a place isn't confinement

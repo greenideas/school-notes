@@ -15,6 +15,8 @@
 	- [September 7](#september-7)
 		- [8th amendment basics](#8th-amendment-basics)
 		- [Kennedy v. Louisiana](#kennedy-v-louisiana)
+	- [September 11](#september-11)
+	- [September 12](#september-12)
 
 # Criminal Law Class Notes
 
@@ -125,3 +127,11 @@
 * LA Stat. Ann. 14:42
 * Basic aggravated rape statute
 * Has to be some aggravating factor in order to be eligible for DP.
+
+## September 11
+* One-way ratchet argument - Judicial decisions that restricting DP create uncertainty about whether new laws will be struck down which creates a disincentive to creating new DP laws, and the court then takes the lack of new DP laws as evidence of consensus against DP.
+* Juve transfer - A defendant in the age range where there's discretion for whether to try as an adult is put into the adult judicial system.
+* *Miller* doesn't care very much about the number of jurisdictions that offer a particular sentence.
+
+## September 12
+* 

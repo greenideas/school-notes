@@ -17,6 +17,12 @@
 			- [Hanson v. Denckla](#hanson-v-denckla)
 			- [Gray v. American Radiator & Stanford Sanitary Corp.](#gray-v-american-radiator-&-stanford-sanitary-corp)
 			- [World-Wide Volkswagen v. Woodson](#world-wide-volkswagen-v-woodson)
+	- [September 11](#september-11)
+		- [Federal Jurisdiction](#federal-jurisdiction)
+		- [*Keeton v. Hustler Magazine Inc.*](#keeton-v-hustler-magazine-inc)
+		- [*Keeton v. Calder*](#keeton-v-calder)
+		- [Why litigants care about where litigation occurs](#why-litigants-care-about-where-litigation-occurs)
+		- [*Burger King Corp. v. Rudzewicz*](#burger-king-corp-v-rudzewicz)
 
 # Civil Procedure Class Notes
 
@@ -189,3 +195,31 @@
 * WWVW wasn't setting out to sell cars in OK. OK wasn't a factor in WWVW's operations.
 * *WWVW* was a reaffirmation of the rule in *Hanson*
 * Rephrase of White's principle, rather than saying whether a party could anticipate being sued somewhere, might be more apt to put it in terms of a party's knowing whether they were going to establish a connection with w forum by their presence there and activities conducted.
+
+## September 11
+* The basic idea of personal jurisdiction is that it is an individual's right that a sovereign ought not to be able to control an individual.
+
+### Federal Jurisdiction
+* Personal jurisdiction of a federal trial court in a state is no greater than that of the containing state
+* General jurisdiction: subject matter jurisdiction over any kind of suit that is not prohibited through a statute
+* Fed jurisdiction is subject to the same minimum contact reqs as states.
+* Fed cts are bound by the state laws regarding jurisdiction in that state.
+* Fed rule 4(k) covers the rules for federal jurisdiction
+* A few fed statutes permitting nationwide service of process 4(k)(C)
+* 4(k)(2): D has no minimum contact with a particular state but does with the US as a whole, such as when a state has narrow personal jurisdiction statutes, and that is the only state a D has contact with (*Graduate Management Admissions Council v. Raju*).
+
+### *Keeton v. Hustler Magazine Inc.*
+* Equal protection says that if you have the right to sue in one state you have the right to sue in any state.
+
+### *Keeton v. Calder*
+* Shirley Jones sued the National Enquirer
+* Only way to interpret P's actions was that they intended to defame D in CA.
+
+### Why litigants care about where litigation occurs
+* Back in *Pennoyer*, it mattered a great deal, since travel was so limited.
+* For a breach of contract suit regarding a contract drawn in NC, any court would apply NC contract law in adjudicating the dispute.
+
+### *Burger King Corp. v. Rudzewicz*
+* BK wanted to sue MI franchises in FL (where BK HQ was located)
+* MI, by becoming franchisees, had a contractual relationship to a FL entity & so had minimum contact.
+* There could be a suit that was so inconvenient to litigate in a particular venue that it would violate due process.

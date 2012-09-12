@@ -20,6 +20,14 @@
 		- [White v. Muniz](#white-v-muniz)
 		- [Wagner v. State](#wagner-v-state)
 	- [Outlining tips](#outlining-tips)
+	- [September 10](#september-10)
+		- [Assault](#assault)
+			- [Cullison v. Medley](#cullison-v-medley)
+	- [September 11](#september-11)
+		- [False Imprisonment](#false-imprisonment)
+			- [McCann v. Wal-Mart Stores, Inc.](#mccann-v-wal-mart-stores-inc)
+		- [Property Torts](#property-torts)
+			- [Trespass to land](#trespass-to-land)
 
 # Torts
 
@@ -131,3 +139,35 @@ Insurance is an alternative to the tort system
 
 ## Outlining tips
 * Should be concise, but have enough info to help you understand
+
+## September 10
+### Assault
+#### Cullison v. Medley
+* Assault is effectuated when one acts intending to cause harmful or offensive contact with the person of the other or an imminent apprehension of such contact
+	* Apprehension must be one which would normally be aroused in the mind of a reasonable person.
+* Battery often co-occurs with assault, but battery can occur without assault, as in the case where someone is tackled from behind, or if I punch someone in the back of the head.
+* "Words alone" are insufficient, but words don't occur in a vacuum. Circumstances always come into play.
+
+## September 11
+### False Imprisonment
+#### McCann v. Wal-Mart Stores, Inc.
+* Conduct by an actor intended to confine, and that does confine another within boundaries fixed by the actor.
+	* Physical constraint
+	* **OR** the threat of force
+		* Physical restraint isn't necessary as long as a reasonable person (objective test) believed they were confined.
+	* **OR** the false implication of legal authority to confine
+	* Extent of confinement
+		* Confinement can be for any appreciable amount of time, however short
+		* Confinement must be in a specific area
+* **AND** P is
+	* Conscious of the confinement
+	* **OR** is harmed by it
+* **Policy rationale** - Autonomy and freedom of movement should be respected.
+
+* Damages may be awarded for false imprisonment.
+
+### Property Torts
+#### Trespass to land
+* Intent to enter upon land of another
+* **AND** D actually enters the land
+* **OR** D causes an object to enter P's land
