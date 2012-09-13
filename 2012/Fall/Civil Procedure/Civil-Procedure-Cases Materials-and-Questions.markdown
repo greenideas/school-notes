@@ -11,6 +11,7 @@
 		- [*Keeton* and *Calder*](#keeton-and-calder)
 		- [Why Litigants Care About Where Litigation Occurs](#why-litigants-care-about-where-litigation-occurs)
 		- [Asahi Metal Industry Co. Ltd v. Superior Court of California, Solano County (Cheng Shin Rubber Industrial Co, Ltd, Real Party in Interest)](#asahi-metal-industry-co-ltd-v-superior-court-of-california-solano-county-cheng-shin-rubber-industrial-co-ltd-real-party-in-interest)
+		- [J. McIntyre Machinery vs. Nicastro](#j-mcintyre-machinery-vs-nicastro)
 
 # Civil Procedure: Cases, Materials, and Questions
 
@@ -329,9 +330,6 @@ SCOTUS 1878, J. Field
 
 * **Holding**
 	* Minimum contact requirement is not met, so awarding personal jurisdiction goes against fair play and substantial justice.
-
-* **Rule**
-	* 
  
 * **Concurrence**
 	* *Part II-B--Rehnquist, Brennan, White, Marshall, Blackmun, Powell, Stevens*
@@ -346,5 +344,72 @@ SCOTUS 1878, J. Field
 			1. It's unnecessary for the ct's decision--minimum contact need not always be established to determine constitutionality of jurisdiction.
 			2. Ct's finding in II-B that jurisdiction would be "unreasonable & unfair" is enough to say it's unconstitutional. If jurisdiction violated fair play & substantial justice, that trumps whatever activity occurs in the forum state.
 
-* **Notes**
-	* 
+### J. McIntyre Machinery vs. Nicastro
+* SCOTUS 2011, J. Kennedy
+
+* **Parties**
+	* π: J. McIntyre Machinery - British scrap metal machine nfr
+	* ∂: Nicastro - NJian, injured by JMM machine
+
+* **Facts**
+	* Nicastro injured his hand using a JMM metal shearer in NJ.
+	* Machine mfrd in UK.
+	* JMM had a US distributor for its machines & sold some to that distributor on consignment
+	* JMM appeared next to the distributor at trade shows in the US (but not NJ) 
+	* No more than 4 JMM machines in NJ at the time of the accident.
+	* JMM had US & EU patents on its machine
+	* Distributor advertised under the direction of JMM
+	* JMM never owned property in, sent reps to, or paid taxes in NJ.
+
+* **Procedural History**
+	* Nicastro sued JMM in NJ trial ct.
+	* NJ Supreme ct held that NJ cts could claim jurisdiction over a foreign mfr if "knows or reasonably should know that its products are distributed through a nationwide distribution system that might lead to those products being sold in any of the fifty states"
+	* SCOTUS granted cert.
+
+* **Issue**
+	* Can a state ct claim jurisdiction over a foreign company that has never shipped goods nor marketed to that state?
+
+* **Reasoning**
+	* Generally neither laws nor judges can assert authority over parties not connected to the state.
+	* Contact between state & foreigner must be sufficient for jurisdiction not to offend "fair play and substantial justice" *International Shoe*
+	* Foreigner must avail itself of the benefits & protections of forum state's laws. *International Shoe*, *Hanson*
+	* Unless the foreigner deliberately attempts to evade a state's laws.
+	* Domicile, presence at time of service, or consent are traditionally how jurisdiction is established.
+	* *International Shoe* introduced the standard of a party availing itself of the benefits & protections of forum state's laws
+	* *World-Wide Volkswagen* introduced the standard of putting goods in the stream of commerce knowing they would end up in the forum state (though the standard wasn't met in that case)
+	* Sending goods instead of agents only counts when the goods are targeted at the forum state
+	* *Asahi* introduced the idea (in Brennan's concurrence--not the opinion) that putting goods into the stream of commerce was sufficient as long as the mfr knew they would end up in the forum state--foreseeability
+	* O'Connor's opinion in *Asahi* said that putting goods in the stream of commerce was not, by itself, enough of a connection with the forum state
+	* Expectations are insufficient for jurisdiction--there must me action
+	* Fairness isn't the standard. Otherwise opinions would take into account difficulty in a plaintiff appearing in a foreign venue or defendants' interests could replace a lack of purposeful availment.
+	* Two principles here:
+		1. There must be sufficient activity directed at a forum
+			* Jurisdiction is there to protect individual liberty--not the power of the State
+		2. A D may be subject to the jurisdiction of the US but not to any one state
+			* Jurisdiction protects states from encroaching on the power of other states
+	* Foreseeability is too low a bar. Can't sue local farmers in FL for veggies sold locally to a distributor & re-sold in AK.
+	* JMM *did* purposefully direct its products & marketing to the US.
+	* NJ has a strong interest on protecting its citizens from defective machinery, but that's not enough by itself.
+
+* **Holding**
+	* "Stream-of-commerce" doctrine is insufficient for personal jurisdiction. Foreign company must direct its activity toward the state such that it benefits from that state's laws. *Hanson*
+ 
+* **Concurrence**
+	* Breyer, joined by Alito
+	* Does selling a product on Amazon constitute directed activity? A pop-up ad a mfr knows will be seen in a particular forum? Plurality didn't address that.
+	* There's a rule established without enough thought to the consequences.
+	* Could've & should've overturned jurisdiction based on precedent alone.
+	* The promiscuous jurisdiction that NJ suggests would require a mfr to be familiar with the product liability laws of any state in which it could foresee its goods being sold.
+
+* **Dissent**
+	* Ginsburg, joined by Sotomayor, Kagan
+	* Majority will let foreign mfr launder their death machines of liability by selling them through a distributor (me: but isn't the distributor liable? and if so, isn't there a disincentive for mfrs to make poorly constructed death machines since distributors wouldn't buy them?)
+	* *International Shoe* should be the standard ("fair play and substantial justice")
+	* NJ should have specific jurisdiction over the injury, which did happen there.
+	* Plurality's decision rests on implied consent, which has been dismissed as being sufficient for jurisdiction since *International Shoe* (*Burger King* grants jurisdiction when consent was not given)
+	* Presence, doing business, and consent, are all outmoded as ways of establishing jurisdiction.
+	* The fact that choice-of-law and litigational convenience are factors in decisions shows that fairness & reasonableness is the de facto standard
+	* More fair to make JMM come to NJ than to make Nicastro go to Nottingham
+	* Audi, the mfr in *WWVV*, *did not* object to OK jurisdiction & in dicta, the court said it wouldn't have worked if they had tried.
+	* *Asahi* doesn't control here, since it was a case about a transaction between two foreign companies, and Asahi had never made any effort to sell its valve assemblies in the US
+

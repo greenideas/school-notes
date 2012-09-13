@@ -23,6 +23,8 @@
 		- [*Keeton v. Calder*](#keeton-v-calder)
 		- [Why litigants care about where litigation occurs](#why-litigants-care-about-where-litigation-occurs)
 		- [*Burger King Corp. v. Rudzewicz*](#burger-king-corp-v-rudzewicz)
+	- [September 12](#september-12)
+		- [Asahi Metal Industry Co. Ltd v. Superior Court of California, Solano County (Cheng Shin Rubber Industrial Co, Ltd, Real Party in Interest)](#asahi-metal-industry-co-ltd-v-superior-court-of-california-solano-county-cheng-shin-rubber-industrial-co-ltd-real-party-in-interest)
 
 # Civil Procedure Class Notes
 
@@ -223,3 +225,15 @@
 * BK wanted to sue MI franchises in FL (where BK HQ was located)
 * MI, by becoming franchisees, had a contractual relationship to a FL entity & so had minimum contact.
 * There could be a suit that was so inconvenient to litigate in a particular venue that it would violate due process.
+
+## September 12
+### Asahi Metal Industry Co. Ltd v. Superior Court of California, Solano County (Cheng Shin Rubber Industrial Co, Ltd, Real Party in Interest)
+* Cross-complaint (in Fed Ct., impleader) - trial procedure wherein a party against who a claim is made alleges that if he is liable on that claim, then there is a third party liable for some or all of any judgment
+* Indemnification - a kind of remedy that can be sought in impleader where the third party pays the totality of the judgment.
+* Any indemnification right Asahi has against Cheng Shin is through contract.
+* "Choice of law" clause in a contract specifies which laws will apply should a dispute arise.
+* CA: "Interest analysis" choose the law that benefits the CA resident in a dispute. If neither party is a CA resident, choose the CA law since the judge will be most familiar with it.
+* Scalia dissented here because he doesn't like balancing tests.
+* O'Connor's reasoning essentially means you can *never* reach a component manufacturer.
+* Starting with the language of WWVW, you should end up at the opposite result from where O'Connor got.
+* McIntyre 77-94

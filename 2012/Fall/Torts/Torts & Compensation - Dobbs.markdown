@@ -35,6 +35,16 @@
 			- [Notes on Assault](#notes-on-assault)
 		- [False imprisonment](#false-imprisonment)
 			- [McCann v. Wal-Mart Stores, Inc.](#mccann-v-wal-mart-stores-inc)
+	- [Property Torts](#property-torts)
+		- [Trespass to land](#trespass-to-land)
+		- [Conversion of chattels--Trover](#conversion-of-chattels--trover)
+		- [Trespass to chattels](#trespass-to-chattels)
+	- [Emotional Harm](#emotional-harm)
+		- [Intentional infliction of emotional distress](#intentional-infliction-of-emotional-distress)
+			- [GTE Southwest Inc. v. Bruce](#gte-southwest-inc-v-bruce)
+			- [Notes](#notes)
+			- [1st Amendment considerations](#1st-amendment-considerations)
+			- [Homer v. Long](#homer-v-long)
 
 # Torts & Compensation - Dobbs
 
@@ -688,3 +698,108 @@
 
 * **Notes**
 	* Being *excluded* from a place isn't confinement
+
+## Property Torts
+### Trespass to land
+* Intent to enter upon land of another
+* **AND** D actually enters the land
+* **OR** D causes an object to enter P's land
+
+### Conversion of chattels--Trover
+* *Trover*: Tortfeasor intends to exercise "substantial dominion"
+* Intent to convert does *not* require awareness of wrongdoing as long as conversion interferes with the rightful owner's right to exercise control over the chattel
+* "substantial dominion" takes into account:
+	* extent & duration of control
+	* D's intent to claim the property
+	* D's good faith
+	* Harm done
+	* Expense or inconvenience caused
+* Liability in trover is for the full value of the chattel
+* Applies *mostly* to tangible & not symbolic or notional goods, but there are exceptions. No trover with money, but yes for stocks.
+* A claim of trover re: embryos survived demurrer (i.e. is a legitimate cause of action). Court said because it was genetic material.
+* A different court said no conversion for blood.
+* Aiding & abetting conversion counts as conversion.
+* Conversions can be chained. I convert a watch & sell it to you, you're now a converter, too. Rightful owner could sure either or both of us, but could only get one damage award.
+* Uniform Commercial Code gives businesses the ability to transfer ownership rights from the "entrustor" to a purchaser.
+* Sometimes, if the price of chattel goes up, a damage award may be for the current market value. Or it may be awarded in kind or as an injunction.
+
+### Trespass to chattels
+* Even if I don't take substantial dominion of your chattel, but cause harm to you by preventing you from using it or interfering with your enjoyment of it, that is a tort. (DDoS)
+* Interference must result in harm to the physical condition, quality, or value of the chattel
+
+## Emotional Harm
+### Intentional infliction of emotional distress
+* D's **extreme and outrageous behavior** recklessly or intentionally causes **severe** emotional disturbance to another. D is liable for that disturbance as well as for any physical damage that results.
+	* Intent: D acts with the purpose of bringing about the emotional disturbance. 
+	* **OR** Recklessness: D has to know that his actions may cause emotional disturbance (or know facts that will make it obvious--disturbance is **substantially certain** to result) and doesn't do anything to mitigate that risk.
+* *Scienter* - knowledge of wrongdoing. Here, scienter is broad than battery, since the act doesn't have to have to purpose of harming.
+* Three reasons this broad scienter is okay:
+	1. Conduct has to be extreme & outrageous--high bar
+		* Recklessness involves balancing the risk of the harm with the difficulty in preventing it. A reckless actor can be more culpable that one who acted with intent if the risk was great but the harm was very easily preventable.
+	2. "Severe" is also a high bar.
+	3. Unlike battery, there isn't really a fallback to negligence if intent can't be proved, so we want to include recklessness so those victims can recover something.
+
+#### GTE Southwest Inc. v. Bruce
+* TX 1999
+* Morris Shields engaged in routine threatening, vulgar, degrading behavior towards his employees at GTE.
+* Trial ct said his behavior was intentional infliction of emotional distress. TX affirmed.
+* Context & relationship between the parties has to be considered when determining whether conduct was extreme & outrageous.
+* This was a workplace.
+* The behavior was repeated, and continued after victims objected.
+
+#### Notes
+* Fact patterns for "extreme & outrageous" often include:
+	* repeated or prolonged behavior
+	* authority of D over P
+	* D knows P to be especially vulnerable
+	* One come-on isn't sufficient (*cough*Clinton*cough*), but many can be. 
+* Can't be claimed against someone asserting a legal right (e.g. to divorce or fire)
+* Has to be a clear, demonstrable causal connection between D's behavior & P's distress.
+* Distress has to be very severe, possibly even debilitating.
+* Originally created as a catch-all for when no existing tort fit the actual wrongdoing.
+* Related statutes:
+	* Protection from discrimination against the disabled
+	* Sexual harassment
+	* Employment discrimination under the Civil Rights Act
+
+#### 1st Amendment considerations
+* Intentional or even negligent misstatements may be libelous.
+
+#### Homer v. Long
+* MD Ct. Spec. App. 1992, Wilner
+
+* **Parties**
+	* π: Homer - aggrieved ex-husband
+	* ∂: Long - seducing therapist
+
+* **Facts**
+	* P & wife were married for many years before she was hospitalized for depression.
+	* Wife's therapist took advantage of her condition & seduced her.
+	* Wife's personality changed & she left P.
+
+* **Procedural History**
+	* Homer sues Long for intentional infliction of emotional distress.
+
+* **Issue**
+	* Can a D be liable for intentional infliction of emotional distress when behavior was directed at a 3rd party when P was not present?
+
+* **Reasoning**
+	* D's behavior was extreme & outrageous towards the hospital, inasmuch as it violated codes of professional conduct, and to Mrs. Homer, but not to Homer.
+	* No intent directed at Homer.
+	* Intent can be transferred to a 3rd party if behavior is directed at:
+		* a member of P's immediate family while P is present (whether or not there is bodily harm to P as a result of the distress)
+		* any 3rd party if the distress causes bodily harm to P.
+	* It is substantially certain that if a husband is murdered in front of his wife that the wife will suffer severe a emotional disturbance.
+	* 3rd parties in such cases have to be present **and** known by D to be present
+	* In extreme circumstances, presence requirement may be lessened, as in the parents of a child who is molested.
+	* The trauma to Homer wasn't any different than if anyone else has seduced his wife.
+
+* **Holding**
+	* No liability for intentional infliction of emotional distress when behavior was directed at a 3rd party when P was not present.
+
+* **Notes**
+	* Exceptions to presence reqment:
+		* Relationship of 3rd party to P
+		* Relationship of D to P
+		* Egregiousness of the behavior
+	* Also, when a 3rd party is involved & P is not present, D must act towards 3rd party *intending* to cause P's distress.
