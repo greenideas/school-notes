@@ -12,6 +12,8 @@
 		- [Why Litigants Care About Where Litigation Occurs](#why-litigants-care-about-where-litigation-occurs)
 		- [Asahi Metal Industry Co. Ltd v. Superior Court of California, Solano County (Cheng Shin Rubber Industrial Co, Ltd, Real Party in Interest)](#asahi-metal-industry-co-ltd-v-superior-court-of-california-solano-county-cheng-shin-rubber-industrial-co-ltd-real-party-in-interest)
 		- [J. McIntyre Machinery vs. Nicastro](#j-mcintyre-machinery-vs-nicastro)
+		- [General Jurisdiction](#general-jurisdiction)
+			- [Goodyear Dunlop Tires Operations, S.A. v. Brown](#goodyear-dunlop-tires-operations-sa-v-brown)
 
 # Civil Procedure: Cases, Materials, and Questions
 
@@ -355,7 +357,8 @@ SCOTUS 1878, J. Field
 	* Nicastro injured his hand using a JMM metal shearer in NJ.
 	* Machine mfrd in UK.
 	* JMM had a US distributor for its machines & sold some to that distributor on consignment
-	* JMM appeared next to the distributor at trade shows in the US (but not NJ) 
+	* JMM appeared next to the distributor at trade shows in the US (but not NJ)
+	* JMM encouraged distributor to sell machines anywhere in the USA
 	* No more than 4 JMM machines in NJ at the time of the accident.
 	* JMM had US & EU patents on its machine
 	* Distributor advertised under the direction of JMM
@@ -413,3 +416,43 @@ SCOTUS 1878, J. Field
 	* Audi, the mfr in *WWVV*, *did not* object to OK jurisdiction & in dicta, the court said it wouldn't have worked if they had tried.
 	* *Asahi* doesn't control here, since it was a case about a transaction between two foreign companies, and Asahi had never made any effort to sell its valve assemblies in the US
 
+### General Jurisdiction
+#### Goodyear Dunlop Tires Operations, S.A. v. Brown
+* SCOTUS 2011, J. Ginsburg
+
+* **Parties**
+	* π: Goodyear Dunlop Tires Operations, S.A.
+	* ∂: Brown
+
+* **Facts**
+	* Bus accident outside Paris killed 2 13-year-old NC boys.
+	* Bus had a defective tire mfrd at a Goodyear plant in Turkey.
+	* Plant was a subsidiary of Goodyear USA
+	* Foreign subsidiaries market to Europe & Asia and their tires are different sizes & shapes than US tires.
+	* Subsidiaries' tires did make it into NC via an organized distribution process.
+	* The tire the caused the accident met US DoT standards & had appropriate markings to be sold in the US.
+
+* **Procedural History**
+	* Parents sued in NC ct, Goodyear USA (an OH corp), and 3 of its subsidiaries in Turkey, Luxembourg, and France.
+	* Goodyear USA has plants in NC & didn't contest jurisdiction there.
+	* Foreign subsidiaries all contested jurisdiction.
+	* NC ct of appeals said NC had general jurisdiction over Goodyear's foreign subsidiaries since some of their tires came to NC in the stream of commerce.
+	* NC ct of appeals claimed that NC had an interest in providing a forum for suit.
+
+* **Issue**
+	* Is a foreign corporation subject to general jurisdiction in a forum where its goods end up via the stream of commerce?
+
+* **Reasoning**
+	* General jurisdiction requires that D's connection with the forum state be "consistent and systematic" to the point that D is effectively home there.
+	* Specific (case-linked) jurisdiction requires that the cause of action be related to the forum state. Adjudication may only cover issues that established jurisdiction.
+	* Accident was in France & tires were mfrd & sold outside NC, so NC doesn't have specific jurisdiction.
+	* NC ct of appeals was wrong. "Stream of commerce" != "consistent & systematic"
+	* Due process reqs that D have minimum contacts & that the suit doesn't offend standards of fair play & substantial justice. *Shoe*
+	* Jurisdiction is  obviously valid when D's activity in the forum state is "continuous and systematic" and the cause of action is a consequence of that activity 
+	* For "single or occasional acts," specific jurisdiction may be valid if the cause of action stems from that activity.
+	* Only twice between 1945 (*Shoe*) & 2011 (*Goodyear*) has the court considered general jurisdiction for out-of-state corps, and only once granted it.
+	* Stream of commerce is never sufficient for general jurisdiction.
+	* Can't say (as NC cts did) that a corp is subject to general jurisdiction anywhere its goods happen to end up.
+
+* **Holding**
+	* Unanimous(!) No, a foreign corporation may only be subject to general jurisdiction in a forum with which they have consistent & systematic contact.

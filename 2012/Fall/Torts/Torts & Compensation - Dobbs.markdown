@@ -45,6 +45,25 @@
 			- [Notes](#notes)
 			- [1st Amendment considerations](#1st-amendment-considerations)
 			- [Homer v. Long](#homer-v-long)
+	- [Defenses to Intentional Torts--Privileges](#defenses-to-intentional-torts--privileges)
+		- [Protecting against the apparent misconduct of the plaintiff](#protecting-against-the-apparent-misconduct-of-the-plaintiff)
+			- [Self-defense](#self-defense)
+			- [Defense of third persons](#defense-of-third-persons)
+			- [Arrest & Detention](#arrest-&-detention)
+				- [Peters v. Menard, Inc.](#peters-v-menard-inc)
+			- [Defense & repossession of property](#defense-&-repossession-of-property)
+				- [Katko v. Briney](#katko-v-briney)
+				- [Brown v. Martinez](#brown-v-martinez)
+			- [Discipline](#discipline)
+			- [Observing privileges](#observing-privileges)
+		- [The Special Case of Consent](#the-special-case-of-consent)
+			- [Robins v. Harris](#robins-v-harris)
+			- [Ashcraft v. King](#ashcraft-v-king)
+			- [Exceeding scope of consent](#exceeding-scope-of-consent)
+			- [Kennedy v. Parrott](#kennedy-v-parrott)
+				- [Notes](#notes)
+			- [Doe v. Johnson](#doe-v-johnson)
+				- [Notes](#notes)
 
 # Torts & Compensation - Dobbs
 
@@ -740,7 +759,7 @@
 	3. Unlike battery, there isn't really a fallback to negligence if intent can't be proved, so we want to include recklessness so those victims can recover something.
 
 #### GTE Southwest Inc. v. Bruce
-* TX 1999
+* TX 1999, boss from hell
 * Morris Shields engaged in routine threatening, vulgar, degrading behavior towards his employees at GTE.
 * Trial ct said his behavior was intentional infliction of emotional distress. TX affirmed.
 * Context & relationship between the parties has to be considered when determining whether conduct was extreme & outrageous.
@@ -803,3 +822,207 @@
 		* Relationship of D to P
 		* Egregiousness of the behavior
 	* Also, when a 3rd party is involved & P is not present, D must act towards 3rd party *intending* to cause P's distress.
+
+## Defenses to Intentional Torts--Privileges
+* Affirmative defense: D has to explicitly raise & prove defense, and jury must agrees that defense is valid
+
+### Protecting against the apparent misconduct of the plaintiff
+#### Self-defense
+* Privilege to defend against harmful or offensive contact or confinement.
+	* Amount of force allowed is however much D believes necessary to protect himself.
+	* Privilege depends on apparent need for self-defense--not actual need.
+* Privilege extends to killing someone if doing so is reasonably necessary to prevent one's own death or serious bodily harm.
+* D who is attacked is not required to retreat, though some states require a reasonable attempt to retreat before using deadly force when D is not at home.
+* Excessive force (over & above what is necessary for protection) is not privileged.
+* Threats or verbal provocations are not sufficient to invoke self-def.
+* One may be privileged to perform assault or false imprisonment in self-def.
+
+#### Defense of third persons
+* D may use same amount of force to protect a 3rd party that he may use to defend himself.
+
+#### Arrest & Detention
+##### Peters v. Menard, Inc.
+* WI 1999, J. Crooks
+
+* **Parties**
+	* π: Peters - family of drowned shoplifter
+	* ∂: Menard, Inc. - store
+
+* **Facts**
+	* Wright, a security guard, was patrolling at Menard, a store.
+	* Wright saw Peters put a drill in his cart and push it through an exit.
+	* Wright watched Peters push the cart to a truck & put the drill in the truck.
+	* Peters brought the cart back into the store, went back to the truck & sat in the back seat.
+	* Wright went out to the truck to ask Peters about the drill, which was visible. 
+	* The driver of the truck said Wright was clearly upset.
+	* Peters denied knowing about the drill & took off running when Wright asked him to come back to the store.
+	* Wright & Kind, another guard, shouted for Peters to stop & pursued him for about 100 yds before giving up.
+	* Wright & Kind heard splashing and saw that Peters had entered the La Crosse River.
+	* Peters died in the river
+
+* **Issue**
+	* Is a store or its agents liable for actions they take in trying to detain a suspected shoplifter when the pursuit leaves the store's property?
+
+* **Reasoning**
+	* WI law says a store can detain a suspected shoplifter until the police arrive & no civil or criminal liability can be assigned for actions taken in good faith toward this end.
+	* Such immunity is only valid when "reasonableness" requirements are met:
+		* Must be reasonable cause to believe there was shoplifting.
+		* Actions taken towards detention must be reasonable.
+		* Detention must be for reasonable period.
+	* ALI doesn't offer opinion as to whether privilege extends outside of store's property.
+	* WI law doesn't mention "premises" so court assumes the law is intended to authorize pursuit beyond store's' property.
+	* Policy goals would require that detention includes pursuit
+	* Detention without pursuit would lead to more shoplifting, higher prices, and collisions between running shoplifters & store patrons resulting in injury.
+	* Therefore, the guards' behavior in pursuit of Peters was reasonable.
+	
+* **Holding**
+	* No liability when actions taken in pursuit are reasonable.
+
+* **Notes**
+	* Common law doesn't allow citizen's arrest for misdemeanors (e.g. shoplifting items of minor value)
+	* Shopkeeper is liable if the suspected shoplifter didn't actually shoplift.
+
+#### Defense & repossession of property
+##### Katko v. Briney
+* IA 1971, Chief Justice Moore
+
+* **Parties**
+	* π: Katko - jar thief with his leg shot off
+	* ∂: Briney - gun trap farm owner
+
+* **Facts**
+	* D inherited a farmhouse that had been broken into multiple times over the previous 10 years causing damage.
+	* D boarded up the windows, posted 'no trespassing' signs, & set up a shotgun trap in one of the rooms. No warning of the gun.
+	* Gun was aimed such that it would hit an intruder in the leg.
+	* P entered the booby-trapped room & was shot in the right leg, blowing most of it away.
+
+* **Procedural History**
+	* Trial ct awarded P $20k in actual damages & $10k in punitive damages.
+	* D said it was legal to use a gun trap to prevent burglary
+
+* **Issue**
+	* Can D inflict death or serious bodily harm to defend their property.
+
+* **Reasoning**
+	* Law says gun traps can't set traps that may kill or cause serious bodily harm to trespassers (unless D reasonably believed trespasser presented risk of death or serious bodily harm).
+	* Value of life & limb outweighs the interest of a property holder.
+
+* **Holding**
+	* D can't inflict death or serious bodily harm to defend their property.
+
+* **Notes**
+	* TX & AZ allow deadly force to prevent burglary
+
+##### Brown v. Martinez
+* NM 1961
+
+* **Parties**
+	* π: Brown - 15-yo watermelon thief
+	* ∂: Martinez - watermelon patch owner
+
+* **Facts**
+	* One night, Brown & friends stole some watermelons.
+	* They went back to the patch the next night & D heard them, brought his rifle, told them to leave & fired a warning shot.
+	* D saw two boys to the SE and so fired to the SW, not intending to hit them, but P was in the SW and was hit in the leg.
+
+* **Procedural History**
+	* Trial ct. dismissed P's claim.
+
+* **Issue**
+	* Can one use a firearm to prevent trespassing or misdemeanor?
+
+* **Reasoning**
+	* Human safety is more important than property.
+	* No evidence that D felt threatened.
+
+* **Holding**
+	* No, one may not use a firearm to prevent trespassing or misdemeanor (sub-felony offense).
+
+* **Rule**
+	* No privilege to use deadly force or cause serious bodily injury where only threat is to property.
+ 
+* **Notes**
+	* Store can't forcibly recapture goods that were previously stolen.
+	* Even if default, a car owner can forcibly defend property against repossession. Repo man can't take property unless they can do so peaceably.
+	* Some cts say the same about land & others say reasonable force may be used to reacquire land.
+
+#### Discipline
+* Restatement says parents can use reasonable force to discipline children.
+* Teachers have the privilege too, but may not get the same latitude in court as parents.
+
+#### Observing privileges
+* The extent to which the above privileges may be used as a defense are a matter of reasonableness & degree.
+
+### The Special Case of Consent
+* Context is important for establishing consent
+* Relationship of the parties matters (Employer-employee, etc.)
+
+#### Robins v. Harris
+* IN 2002
+
+* **Parties**
+	* π: Robins - inmate in county jail
+	* ∂: Harris 
+
+* **Facts**
+	* Soules was a corrections officer on 3rd shift.
+	* Soules claimed Robins & another inmate flashed him.
+	* Soules brought the other inmate out of her cell & brought her back.
+	* Soules then grabbed Robins by the arm, took her to the shower room where she fellated him.
+	* Soules admitted the sexual contact & resigned.
+
+* **Procedural History**
+	* Robins sued Soules for battery.
+	* Soules defended on the basis of consent.
+	* IN appeals ct found for Robins saying the consent was to the sexual contact--not anything else.
+	* IN Supreme Ct. affirmed but said that consent couldn't be a defense against battery.
+
+* **Issue**
+	* Did the sexual contact amount to consent to the battery.
+
+* **Holding**
+	* No. There can be no consent to battery,
+	 
+* **Dissent**
+	* Authority of a jailer over a prisoner invalidates any expression of consent by the prisoner.
+
+* **Notes**
+	* States that ban mental health professionals from sleeping with their patients don't allow consent as a defense.
+	* The touching that minors can consent to varies with age.
+	* Minors can't consent to intercourse.
+	* Adults who can't understand an act can't consent to that act.
+
+#### Ashcraft v. King
+* Patient only consented to blood transfusions from family during operation.
+* Family donated blood for this purpose.
+* Family blood was not used.
+* The blood that was used was infected with HIV.
+* Battery, since the consent didn't apply to non-family blood. (Scope of consent was exceeded)
+
+#### Exceeding scope of consent
+* Patient requesting one drug but getting another without being told exceeds consent.
+* Putting a learning-disabled child in a time-out room can exceed consent when the parents don't know the size of the room or its condition.
+
+#### Kennedy v. Parrott
+* P consented to an appendectomy.
+* During the operation, D saw some cysts on her ovary & punctured them.
+* Afterward, P developed phlebitis & attributed it to the extra procedure.
+* Trial judge gave nonsuit to D & NC Supreme Ct. affirmed.
+* Surgeons should be empowered to help to the best of their abilities & we don't want them to be afraid of lawsuits.
+* Extension of surgery can happen in the area where the original incision was.
+
+##### Notes
+* Battery occurs when a Dr. gives unconsented to care or exceeds consent *unless* it's an emergency & obtaining consent is impossible.
+* Exceeding consent can be okay if its medically necessary.
+* If you're too drunk to understand a procedure then you're too drunk to withhold consent.
+
+#### Doe v. Johnson
+* Magic Johnson should have known of his HIV risk due to his promiscuity.
+* He therefore battered Jane Doe by having unprotected sex with her & giving her HIV
+
+##### Notes
+* Can't get consent by defrauding someone, but misrepresentation must be related to the activity.
+* Some courts have said that consent can't be given in the context of a crime
+* Others have said that an illegal act can't be a cause of action
+* The Restatement says that consent *is* effective in the context of a crime.
+* Consent can be revoked at any time.

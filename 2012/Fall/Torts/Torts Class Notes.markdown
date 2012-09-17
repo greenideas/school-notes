@@ -28,6 +28,10 @@
 			- [McCann v. Wal-Mart Stores, Inc.](#mccann-v-wal-mart-stores-inc)
 		- [Property Torts](#property-torts)
 			- [Trespass to land](#trespass-to-land)
+			- [Conversion of chattels](#conversion-of-chattels)
+			- [Trespass to chattels](#trespass-to-chattels)
+	- [Emotional Harm](#emotional-harm)
+		- [Intentional infliction of emotional distress (IIED)](#intentional-infliction-of-emotional-distress-iied)
 
 # Torts
 
@@ -168,6 +172,31 @@ Insurance is an alternative to the tort system
 
 ### Property Torts
 #### Trespass to land
-* Intent to enter upon land of another
+* Intent (intent here contains all of the standard ways of establishing intent: purpose, knowledge, or substantially certain) to enter upon land of another
 * **AND** D actually enters the land
 * **OR** D causes an object to enter P's land
+
+* *Nuisance* - is an interference with the use & enjoyment of your land--BBQ was interfering with B&B's use & enjoyment even though there was no trespassing.
+
+#### Conversion of chattels
+* Intent to exercise dominion over another's chattel
+* **AND** substantial dominion occurs
+	* D treats chattel as their own
+
+#### Trespass to chattels
+* Intentional physical interference with the use and enjoyment of personal property in P's possession 
+* **AND** P was harmed as a result.
+	* Diminishes the physical condition, quality, or value of the chattel
+	* **OR** Deprives P of use for a substantial (finite) time
+* Damages are the diminished value of the chattel and/or any harm P suffered as a result.
+
+## Emotional Harm
+### Intentional infliction of emotional distress (IIED)
+* New tort--not around in the middle ages
+* Emotional distress damages are usually parasitic on other torts, but IIED stands on its own.
+* *IIED*
+	* Intentional or reckless act
+	* **AND** and outrageous
+	* **AND** severe emotional distress
+* Recklessness: D knew of a risk that his behavior would bring about emotional distress and doesn't do anything to mitigate that risk 
+* IIED for public figures must be a false statement of fact

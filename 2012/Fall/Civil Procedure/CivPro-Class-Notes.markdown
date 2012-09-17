@@ -25,6 +25,10 @@
 		- [*Burger King Corp. v. Rudzewicz*](#burger-king-corp-v-rudzewicz)
 	- [September 12](#september-12)
 		- [Asahi Metal Industry Co. Ltd v. Superior Court of California, Solano County (Cheng Shin Rubber Industrial Co, Ltd, Real Party in Interest)](#asahi-metal-industry-co-ltd-v-superior-court-of-california-solano-county-cheng-shin-rubber-industrial-co-ltd-real-party-in-interest)
+	- [September 13](#september-13)
+		- [J. McIntyre Machinery vs. Nicastro](#j-mcintyre-machinery-vs-nicastro)
+	- [September 17](#september-17)
+		- [Goodyear Dunlop Tires Operations, S.A. v. Brown](#goodyear-dunlop-tires-operations-sa-v-brown)
 
 # Civil Procedure Class Notes
 
@@ -236,4 +240,21 @@
 * Scalia dissented here because he doesn't like balancing tests.
 * O'Connor's reasoning essentially means you can *never* reach a component manufacturer.
 * Starting with the language of WWVW, you should end up at the opposite result from where O'Connor got.
-* McIntyre 77-94
+* O'Connor: Two-prongs
+	* Contacts
+	* Litigation fairness
+* Brennan agrees with first & disagrees with the second.
+* Asahi introduces a balancing test, so you have to consider the interests of both parties & the forum state.
+* When you introduce litigation fairness as a factor, then every personal jurisdiction question has to be looked at on a case-by-case basis.
+* Stevens's question of whether contacts were necessary is crucial. S thinks just going against "fair play and substantial justice" is enough to deny jurisdiction.
+
+## September 13
+### J. McIntyre Machinery vs. Nicastro
+* Kennedy wants more than foreseeability. Must be efforts directed towards a particular market.
+* Purpose to deal with everywhere is not a purpose to deal with anywhere specifically
+* K, like O'Connor in *Asahi*, doesn't adequately specify *why* stream-of-commerce is insufficient.
+
+## September 17
+### Goodyear Dunlop Tires Operations, S.A. v. Brown
+* In *Helicopteros*, SCOTUS established that purchases by themselves are never sufficient for personal jurisdiction.
+* 106-125

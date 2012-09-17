@@ -17,6 +17,8 @@
 		- [Kennedy v. Louisiana](#kennedy-v-louisiana)
 	- [September 11](#september-11)
 	- [September 12](#september-12)
+	- [September 14](#september-14)
+		- [Actus Reus](#actus-reus)
 
 # Criminal Law Class Notes
 
@@ -149,4 +151,8 @@
 	* Missing response to the "tell it to the legislature" argument: It's the job of the judiciary to protect the minority against the majority.
 	* Scalia's memo: There could never be enough empirical proof.
 	* Powell: If I could change one vote, it would be this one
-	* Race & DP today: 
+
+## September 14
+### Actus Reus
+* Elements of a crime: 1) Prohibited thought that leads to a 2) prohibited act that 3) causes a social harm. And 4) (1) and (2) happen concurrently and (1) causes (2).
+

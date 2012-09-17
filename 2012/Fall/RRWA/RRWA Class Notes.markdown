@@ -7,6 +7,9 @@
 		- [Research exercise notes ](#research-exercise-notes)
 	- [September 10](#september-10)
 		- [CREAC](#creac)
+	- [September 13](#september-13)
+	- [September 17](#september-17)
+		- [Using introductory signals (Bluebook B3)](#using-introductory-signals-bluebook-b3)
 
 # RRWA Class Notes
 * [8/27/2012][8-27-2012]
@@ -113,3 +116,27 @@
 * **Golden rule:** Explain the law before you apply the law
 * **CREAC**: **C**onclusion **R**ule **E**xplanation **A**pplication **C**onclusion
 * Use "Under/Does/When" jurisdiction, cause of action, trigger facts--most relevant facts--"*Under* NC law, *does* it constitute a nuisance *when* adjacent property is noisy & smoky"
+
+## September 13
+* Golden rule: explain all of the law before applying any of the law.
+
+## September 17
+### Using introductory signals (Bluebook B3)
+* [No signal]
+	* Authority directly states the proposition
+	* Identifies the source of a quotation
+	* Identifies authority
+* "e.g.": Other authorities that state the proposition but that don't add anything to the issue. For demonstrating consensus on a settled matter of law.
+* "See"
+	* Authority supports the proposition but doesn't directly state it
+	* Follows from what is stated in the authority
+* Supporting signals:
+	* Accord
+	* See also
+	* Cf.
+* Signal suggesting a comparison
+	* Compare [   ]  with [   ] and  [   ]
+* Signals showing disagreement:
+	* Contra, but see, but cf
+* For background
+	* See generally

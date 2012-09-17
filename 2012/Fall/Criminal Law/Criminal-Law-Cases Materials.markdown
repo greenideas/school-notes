@@ -15,6 +15,14 @@
 			- [Miller v. Alabama](#miller-v-alabama)
 		- [Equal Protection](#equal-protection)
 			- [McClesky v. Kemp](#mcclesky-v-kemp)
+			- [State v. Russell](#state-v-russell)
+	- [The Actus Reus Requirement](#the-actus-reus-requirement)
+		- [Acting vs. thinking](#acting-vs-thinking)
+			- [Wisconsin v. Mitchell](#wisconsin-v-mitchell)
+		- [Acting on one's own vs. acting under state compulsion](#acting-on-one's-own-vs-acting-under-state-compulsion)
+			- [Martin v. State](#martin-v-state)
+		- [Acting voluntarily vs. acting involuntarily](#acting-voluntarily-vs-acting-involuntarily)
+			- [State v. Decina](#state-v-decina)
 
 # Criminal Law--Cases and Materials
 ## Basic Principles of the Criminal Law
@@ -374,7 +382,7 @@
 	* The arguments about further harm to the victim & underreporting are irrelevant to the question of proportionality and "cruel & unusual punishment"
 	* The problem of unreliable child witnesses is not unique to child rape
 		* Also, this concern is more appropriately brought up in the legislature.
-	* Allowing capital punishment for child rape wouldn't expand the death penalty. The court had never prohibited it (me: but if we decide today that it's unconstitutional, then it was always unconstitutional. so letting states use capital punishment that way *is* an expansion)
+	* Allowing capital punishment for child rape wouldn't expand the death penalty. The court had never prohibited it (me: but if we decide today that it's unconstitutional, then it was always unconstitutional. so letting states use capital punishment that way *is* an expansion) 
 	* Is an accomplice to capital murder more morally blameworthy than a repeat child rapist? (me: I totally buy this)
 	* Somehow the mental anguish of the victim doesn't up the ante on the amount of harm caused so as to make proportionality seem more plausible.
 	* Presumption is that laws are constitutional. The majority's arguments are insufficient to meet the burden.
@@ -617,7 +625,7 @@
  
 * **Dissent**
 	*  JJ. Brennan, Marshall, Blackmun, Stevens
-	* Brennan & Marshall: DP is given so arbitrarily that it should be abandoned alltogether
+	* Brennan & Marshall: DP is given so arbitrarily that it should be abandoned altogether
 	* All dissenters for the remainder below.
 	* There's no way that, if McK had asked his lawyer what his chances were, that the answer would've been something to the effect that, since you're black and you killed a white cop, you're probably going to get the DP.
 	* 4 reasons for majority opinion:
@@ -633,3 +641,134 @@
 			* The marginal benefit to the state of giving the DP vs LWOP is much less than the marginal loss to the defendant.
 		4. Understanding the role of the judiciary [response omitted]
 	* The Baldus study was so thorough that rejecting it sets too high a bar for subsequent studies.
+
+#### State v. Russell
+* Supreme Ct. of MN 1991, J. Wahl
+
+* **Parties**
+	* π: State of MN
+	* ∂: Russell
+
+* **Facts**
+	* MN § 152.023 subd. 2 says that anyone found with 3+ grams of crack cocaine is guilty of a 3rd degree offense. Same result under the same law for anyone possessing 10+ grams of powder cocaine.
+	* Max penalty for 3g of crack is 20 yrs. Max for 3g powder cocaine is only 5 years.
+	* Sentencing guidelines for those amounts are 48 mos for crack & 12 mos prison and probation.
+	* Ds are 5 black men convicted under MN § 152.023 subd. 2
+ 	* State argued the purpose of the law was to regulate crack & cocaine distribution & that the amounts covered in the law reflected what "street level" dealers would be carrying.
+
+* **Procedural History**
+	* In trial ct, D moved to dismiss on the grounds that MN § 152.023 subd. 2 violates equal protection.
+	* Trial ct. said crack is used mostly by black Ds and powder cocaine by white Ds. Thus black Ds end up getting much harsher sentences than white Ds.
+	* Trial ct. found no rational basis for the sentencing disparity between crack & cocaine powder. Equal protection is violated. 
+	* Motion to dismiss was granted.
+	* Trial ct. certified question for the ct of appeals.
+
+* **Issue**
+	* Do laws that create racial disparities in sentencing violate equal protection?
+
+* **Reasoning**
+	* Laws challenged under equal protection have to meet the standard that they:
+		1. Have a legitimate purpose, and
+		2. Legislators reasonably believed the law would serve that purpose
+	* MN has additional standards such that:
+		1. Any classifications made in a law must be "genuine and substantial"
+		2. Those classifications must relate to the purpose of the law--there has to be some real connection between the group under classification and the legal remedy
+		3. The purpose of the statute must be legitimately achievable.
+	* Even if MN § 152.023 subd. 2 passes muster in other states, it doesn't meet the MN restrictions.
+	* State fails to distinguish between users of crack and powder cocaine.
+		* State's argument was that the 3g/10g level was the minimum amount it thought demonstrated an intent to distribute for each drug.
+			* Those amounts came from informants and word-of-mouth all funneled anecdotally through one witness rather than through empirical study
+			* MN Dept. of Public Safety Office of Drug Policy didn't buy this distinction either, saying that most powder cocaine users also distributed.
+		* State further argued that crack was more addictive than powder cocaine and has a narcotics officer (not a scientist) testify to that effect.
+			* A chemist testified that crack had the same effect as using cocaine intravenously, so there's no distinction there.
+		* State argued that crack was the cause of more violent crime than powder cocaine.
+			* The violence has more to do with gang involvement in crack distribution than with its pharmacology.
+	* The distinction the law makes is also irrelevant to the law's purpose. 
+		* There's no evidence that by setting the threshold at 3g for crack, we're not just arbitrarily punishing users as if they were dealers.
+		* <10g of powder cocaine can be turned into much more than 3g of crack.
+	* By defining intent to distribute as possessing a certain quantity, you make the charge tautologous and irrefutable--no need to actually prove intent
+
+* **Holding**
+	* No rational basis for the discrepancy in sentencing, so law violates equal protection.
+ 
+* **Dissent**
+	* Majority replaces its own presumed reasoning for the law for the legislature's actual reasoning.
+	* Majority's assumption that crack & cocaine are the same thing is debatable.
+	* MN court is not empowered to define appropriate punishment--just to determine what activity may be criminalized.
+	* Presumption should be in favor of the legislature.
+	* D didn't prove that there was racial discrimination--that the law was created because of rather than in spite of disparate effects for different races.
+	* Social problems don't yield to the kind of empirical analysis the majority wants done.
+
+## The Actus Reus Requirement
+* Dalton: Wrote explicit narratives about sexual torture of minors. Jailed for child pornography, even though he wrote them as part of court-mandated therapy.
+
+### Acting vs. thinking
+#### Wisconsin v. Mitchell
+* SCOTUS 1993, Rehnquist
+
+* **Parties**
+	* π: Wisconsin
+	* ∂: Mitchell
+
+* **Facts**
+	* Several young black men decided to do a reverse "Mississippi Burning"
+	* A young white boy walked by and Walker & the others beat him severely & stole his shoes.
+
+* **Procedural History**
+	* Mitchell was convicted of aggravated battery
+	* His sentence was increased under a WI law that enhances the sentence when the victim is selected because of his race (or religion, color, sexual orientation . . . ).
+	* Mitchell appealed the sentence on 1st amendment grounds.
+	* Appeals Ct. denied the appeal, but WI SC reversed.
+
+* **Issue**
+	* Does a punishment-enhancing law that considers racial motivation for a crime violate the 1st amendment.
+
+* **Reasoning**
+	* WI argued it wasn't punishing thought, but action. Assault isn't speech.
+	* Mitchell argued that since the only difference between the assault he committed and others was his bigoted motive, so the extra punishment violates the 1st amendment.
+	* Motive *is* a valid factor in determining sentencing.
+	* Previous SCOTUS cases have allowed racial hatred to be a factor in sentencing.
+	* Mitchell argues that reasoning doesn't apply since the problem is with the law enshrining the sentencing guidelines--not with judges' discretion.
+	* The WI statute was written because of the extra harm caused by crime motivated by race. Also greater risk of retaliation (i.e. more violence).
+	* State's interest in preventing this is sufficient justification for its punishment-enhancement law.
+
+* **Holding**
+	* Reversed. Racist motive for a crime may be used to punish that crime more severely.
+
+### Acting on one's own vs. acting under state compulsion
+#### Martin v. State
+* When the police took Martin from his home & made him stand on the highway, they couldn't then punish him for being drunk in public.
+
+### Acting voluntarily vs. acting involuntarily
+* Habitual acts are considered voluntary even when the actor is unaware she is performing them.
+
+#### State v. Decina
+* Ct. of App. NY, 1956
+
+* **Parties**
+	* π: State
+	* ∂: Decina
+
+* **Facts**
+	* 
+
+* **Procedural History**
+	* 
+
+* **Issue**
+	* 
+
+* **Reasoning**
+	* 
+
+* **Holding**
+	* 
+
+* **Rule**
+	* 
+ 
+* **Dissent/Concurrence**
+	* 
+
+* **Notes**
+	* 
