@@ -32,6 +32,8 @@
 			- [Trespass to chattels](#trespass-to-chattels)
 	- [Emotional Harm](#emotional-harm)
 		- [Intentional infliction of emotional distress (IIED)](#intentional-infliction-of-emotional-distress-iied)
+	- [Defenses to Intentional Torts](#defenses-to-intentional-torts)
+		- [Self-defense](#self-defense)
 
 # Torts
 
@@ -200,3 +202,20 @@ Insurance is an alternative to the tort system
 	* **AND** severe emotional distress
 * Recklessness: D knew of a risk that his behavior would bring about emotional distress and doesn't do anything to mitigate that risk 
 * IIED for public figures must be a false statement of fact
+
+* 3rd parties have an IIED cause of action if:
+	* the behavior is directed at a member of P's immediate family while P is present.
+	* the behavior is directed at any 3rd party if P's emotional distress results in bodily harm.
+
+## Defenses to Intentional Torts
+* Complaint 
+	* e.g.: Battery > (1) Act; (2) Intent to contact; (3) Contact results
+	* π's burden
+* Answer/Motion to dismiss
+	* Challenge the facts. "That never happened."
+	* Affirmative defenses
+	* ∂'s burden.
+	
+### Self-defense
+* Use of reasonable force to defend against harmful or offensive contact (battery) or confinement
+* **AND** Amount of force used in defense must be proportional the force used in the threat.

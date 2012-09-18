@@ -14,6 +14,7 @@
 		- [J. McIntyre Machinery vs. Nicastro](#j-mcintyre-machinery-vs-nicastro)
 		- [General Jurisdiction](#general-jurisdiction)
 			- [Goodyear Dunlop Tires Operations, S.A. v. Brown](#goodyear-dunlop-tires-operations-sa-v-brown)
+			- [Shaffer v. Heitner](#shaffer-v-heitner)
 
 # Civil Procedure: Cases, Materials, and Questions
 
@@ -456,3 +457,60 @@ SCOTUS 1878, J. Field
 
 * **Holding**
 	* Unanimous(!) No, a foreign corporation may only be subject to general jurisdiction in a forum with which they have consistent & systematic contact.
+
+#### Shaffer v. Heitner
+* SCOTUS 1977, J. Marshall
+
+* **Parties**
+	* π: Shaffer
+	* ∂: Heffner
+
+* **Facts**
+	* DE law lets state assert jurisdiction in a lawsuit by attaching any of ∂'s property located in DE.
+	* Heitner, a DE nonresident, owned one share of stock in Greyhound, which is incorporated in DE but headquartered in AZ.
+	* Heitner sued a Greyhound, a wholly owned Greyhound subsidiary & 28 present & former officers & directors in DE in a shareholder derivative suit alleging that their behavior opened the corps being liable for substantial damages under antitrust litigation & a large fine in a criminal contempt action.
+	* The activities the suit alleged occurred in OR.
+	* Heitner filed a sequestration order against a bunch of Greyhound stock.
+	* The court sequestered 82,000 shares of common stock belonging to 19 of the ∂s and options belonging to another 2 ∂s.
+	* The actual paper was not located in DE but the notional stock was.
+	* ∂s were notified of the suit via certified mail & publication in a DE newspaper
+
+* **Procedural History**
+	* Appellants made a special appearance to contest the service of process and remove the sequestration saying ex parte sequestration violated due process & the seized property couldn't be attached in DE.
+	* Appellants argued that they didn't have sufficient contacts with DE for it to assert jurisdiction. *Shoe*
+	* DE Court of Chancery said the law authorizing the sequestration, which had the explicit purpose of bringing nonresident defendants into the state, was generally temporary, and that the purpose & duration of the sequester satisfied due process.
+	* DE Ct. of Ch. also held that the notional presence of the stock in DE was sufficient for quasi in rem jurisdiction.
+	* DE Supreme Ct. affirmed. saying that since the proceedings were initiated under quasi in rem, minimum contacts were irrelevant.
+	* The 14th amendment is agnostic about in personam vs. in rem judgments.
+
+* **Issue**
+	* Does the "fair play and substantial justice" standard apply to in rem jurisdiction as well as in personam?
+
+* **Reasoning**
+	* π claims DE law violates 14th amendment due process because it:
+		* lets the state assert jurisdiction without any connection between ∂, the controversy, and the state.
+		* authorizes the taking of property without sufficient procedural safeguards
+	* SCOTUS will only look at this first question.
+	* **Argument for applying the "fair play & substantial justice" standard to in rem**
+		* Jurisdiction over a thing is really just shorthand for jurisdiction over a person's interest in that thing.
+		* Therefore, the same standard should be applied to jurisdiction over a thing as would be applied to jurisdiction over a person's interest in that thing.
+		* That standard is the minimum contact requirement of *International Shoe*
+	* Absent minimal contacts, courts have used the presence of property to establish jurisdiction in cases since ∂ shouldn't be able to get out of paying a judgment by moving his assets out of state.
+	* However, that justification can't explain why property is used to establish jurisdiction in cases where there's no attempt to evade judgment. 
+	* Also, even if that were a valid reason for asserting jurisdiction, it still wouldn't grant jurisdiction over the underlying claim.
+	* FF&C allows enforcement in any state of judgments made in whatever state may claim in personam jurisdiction over ∂ anyway.
+	* In cases where existence of minimum contacts is unclear we wouldn't want to assert jurisdiction anyway, since doing so would violate "fair play & substantial justice"
+	* **IV**
+		* DE's legislature has asserted no interest in adjudicating derivative suits involving corporations domiciled (incorporated) there
+
+* **Holding**
+	* Minimum contacts are required for in rem jurisdiction just as they are for in personam.
+
+* **Rule**
+	* 
+ 
+* **Dissent/Concurrence**
+	* 
+
+* **Notes**
+	* 

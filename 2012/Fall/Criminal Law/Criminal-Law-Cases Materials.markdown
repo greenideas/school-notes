@@ -712,7 +712,7 @@
 
 * **Facts**
 	* Several young black men decided to do a reverse "Mississippi Burning"
-	* A young white boy walked by and Walker & the others beat him severely & stole his shoes.
+	* A young white boy walked by and Mitchell & the others beat him severely & stole his shoes.
 
 * **Procedural History**
 	* Mitchell was convicted of aggravated battery
@@ -721,12 +721,13 @@
 	* Appeals Ct. denied the appeal, but WI SC reversed.
 
 * **Issue**
-	* Does a punishment-enhancing law that considers racial motivation for a crime violate the 1st amendment.
+	* Does a punishment-enhancing law that considers racial motivation for a crime violate the 1st amendment?
 
 * **Reasoning**
 	* WI argued it wasn't punishing thought, but action. Assault isn't speech.
 	* Mitchell argued that since the only difference between the assault he committed and others was his bigoted motive, so the extra punishment violates the 1st amendment.
 	* Motive *is* a valid factor in determining sentencing.
+	* Judges need the discretion to impose harsher punishments in aggravated circumstances.
 	* Previous SCOTUS cases have allowed racial hatred to be a factor in sentencing.
 	* Mitchell argues that reasoning doesn't apply since the problem is with the law enshrining the sentencing guidelines--not with judges' discretion.
 	* The WI statute was written because of the extra harm caused by crime motivated by race. Also greater risk of retaliation (i.e. more violence).
@@ -750,25 +751,27 @@
 	* ∂: Decina
 
 * **Facts**
-	* 
+	* Decina was driving when he started to feel a seizure coming on.
+	* He was unable to pull over before losing control and drove his car into a group of six schoolgirls, killing 4.
+	* The car continued until crashing into a store, causing further injuries.
 
 * **Procedural History**
-	* 
+	* Convicted in trial court, overruling a demurrer.
+	* Appellate ct. upheld the decision on the demurrer ("reversed on the law?")
 
 * **Issue**
-	* 
+	* Is Decina criminally liable for the harm he caused while he was effectively unconscious?
 
 * **Reasoning**
-	* 
+	* The guilty act here isn't the striking of the girls or the final crash, but rather the decision to get in the car while knowing the risk his condition posed.
+	* We don't want to say that drunk drivers shouldn't be held accountable for injuries they cause while intoxicated. Rather, we punish them simply for getting in the car knowing the risk of causing such injury.
 
 * **Holding**
-	* 
-
-* **Rule**
-	* 
+	* Because he was driving despite knowing the risk his condition posed, he is liable for the harm he caused.
  
-* **Dissent/Concurrence**
-	* 
-
-* **Notes**
-	* 
+* **Dissent**
+	* There is a gap in the law here, and Decina should not be punished for it (this incident occurred before there were special licensing criteria for epileptics). 
+	* He wasn't impaired when he got in the car and had no reason to believe, other than based on probability, that he was going to have a seizure at that time.
+	* Since he didn't know he was going to have a seizure and there's no restriction on his license preventing him from driving, we can't hold him accountable.
+	* The law prohibits reckless operation of a motor vehicle, and the reckless operation was not something Decina was in control of.
+	* The language of the law is overbroad and it would be hard to know when it's okay to drive so there are due process reasons to contest the law.

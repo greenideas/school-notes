@@ -824,7 +824,7 @@
 	* Also, when a 3rd party is involved & P is not present, D must act towards 3rd party *intending* to cause P's distress.
 
 ## Defenses to Intentional Torts--Privileges
-* Affirmative defense: D has to explicitly raise & prove defense, and jury must agrees that defense is valid
+* Affirmative defense: ∂ has to explicitly raise & prove defense, and jury must agree that defense is valid
 
 ### Protecting against the apparent misconduct of the plaintiff
 #### Self-defense
@@ -836,9 +836,11 @@
 * Excessive force (over & above what is necessary for protection) is not privileged.
 * Threats or verbal provocations are not sufficient to invoke self-def.
 * One may be privileged to perform assault or false imprisonment in self-def.
+* Privilege does allow you to threaten greater harm than you would be privileged to inflict
 
 #### Defense of third persons
 * D may use same amount of force to protect a 3rd party that he may use to defend himself.
+* If you misunderstand the situation & hit the wrong 3rd party, you may be still be liable.
 
 #### Arrest & Detention
 ##### Peters v. Menard, Inc.
@@ -868,7 +870,7 @@
 	* Such immunity is only valid when "reasonableness" requirements are met:
 		* Must be reasonable cause to believe there was shoplifting.
 		* Actions taken towards detention must be reasonable.
-		* Detention must be for reasonable period.
+		* Pursuit & detention must be for reasonable period.
 	* ALI doesn't offer opinion as to whether privilege extends outside of store's property.
 	* WI law doesn't mention "premises" so court assumes the law is intended to authorize pursuit beyond store's' property.
 	* Policy goals would require that detention includes pursuit

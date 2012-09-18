@@ -19,6 +19,10 @@
 	- [September 12](#september-12)
 	- [September 14](#september-14)
 		- [Actus Reus](#actus-reus)
+	- [September 18](#september-18)
+		- [Wisconsin v. Mitchell](#wisconsin-v-mitchell)
+		- [Martin v. State](#martin-v-state)
+		- [State v. Decina](#state-v-decina)
 
 # Criminal Law Class Notes
 
@@ -156,3 +160,20 @@
 ### Actus Reus
 * Elements of a crime: 1) Prohibited thought that leads to a 2) prohibited act that 3) causes a social harm. And 4) (1) and (2) happen concurrently and (1) causes (2).
 
+## September 18
+### Wisconsin v. Mitchell
+* Hate crimes require the additional mental state of animus toward the victim on the basis of race (or religion, nationality, etc.).
+* Not a thought crime, since there is real harm done.
+* Add'l mental state is part of the harmful act, so it's enforceable. 
+* Racial motivation is generally hard to prove.
+
+### Martin v. State
+* Unless the legislature explicitly states that an act need not be volitional to be punished, we presume that conduct must be voluntary.
+* Did any actor compel ∂ to engage in the prohibited behavior?
+	* Was that actor a government agent?
+	* 
+### State v. Decina
+* Case in chief defense - Certain elements need to be in place for a crime to occur, and those elements were not present.
+* Affirmative defense - Yes, the criminal activity occurred, but there is a reason why I did it, and (1) given those circumstances, we'd want anyone to act as I did or (2) there are extenuating, justifying circumstances.
+* When there is social harm, and that harm is substantial, courts will widen the lens of what constitutes an action.
+* If there's a nonvolitional act that causes harm, is there an earlier volitional act that clearly caused that nonvolitional act.
