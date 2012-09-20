@@ -29,6 +29,11 @@
 		- [J. McIntyre Machinery vs. Nicastro](#j-mcintyre-machinery-vs-nicastro)
 	- [September 17](#september-17)
 		- [Goodyear Dunlop Tires Operations, S.A. v. Brown](#goodyear-dunlop-tires-operations-sa-v-brown)
+	- [September 18](#september-18)
+		- [Shaffer v. Heitner](#shaffer-v-heitner)
+		- [Transient presence](#transient-presence)
+		- [PJ on the web & internationally](#pj-on-the-web-&-internationally)
+		- [Revell v. Lidov](#revell-v-lidov)
 
 # Civil Procedure Class Notes
 
@@ -257,4 +262,45 @@
 ## September 17
 ### Goodyear Dunlop Tires Operations, S.A. v. Brown
 * In *Helicopteros*, SCOTUS established that purchases by themselves are never sufficient for personal jurisdiction.
-* 106-125
+
+## September 18
+* Explicit content vs. implied (deemed) consent
+* Contracts may include provisions for forum selection and choice-of-law
+* When you opt into a forum, you consent to jurisdiction for counter-claims in that forum.
+* A company that goes into arbitration multiple times has an advantage in that process (1) in arbitration expertise and (2) possibly due to bias toward that company (i.e. the repeat customer).
+
+### Shaffer v. Heitner
+* Money recovered under a shareholder derivative suit goes into the corporate treasury--not to π. 
+* If we take general jurisdiction based on domicile for granted, why would we give any weight to property ownership?
+* Contacts always matter. Even in *in rem* cases. They'll be easy to establish in suits over the property itself or arising in duties the owners of property have to other people.
+* In *Shaffer* we have to think about what counts as a high-quality contact.
+* Subject matter jurisdiction is only available in a live controversy.
+* NC courts can't give advisory opinions.
+* Being an officer of a DE corp isn't sufficient as a contact for jurisdiction.
+* Chartering a corp is one of the things that can have an extraterritorial effect
+* This was a suit against individuals--not a corp
+* Brennan's opinion
+	* What if you used the same argument for local property? The state has strong interest in adjudicating disputes concerning local property.
+* **The presence of property alone isn't enough to establish jurisdiction for a suit unrelated to the property.**
+* *Shaffer* hasn't been used in cases where property is attached just to immobilize the property rather than to assert PJ
+
+### Transient presence
+* SCOTUS had said that letting his kids move to a state doesn't give that state PJ, but in *Burnham v. Superior Court of California* overruled this.
+
+### PJ on the web & internationally
+* The web has a big impact on personal jurisdiction. Anybody with a website can be in contact with everyplace else, and everyone with a website knows that.
+* Y! was sued in France for facilitating the sale of Nazi memorabilia. 
+* Dow Jones was sued for defamation in Australia by an Australian
+* When you think about PJ in another country, it may not be either as expansive or as limited as American PJ.
+* Some countries will allow any property in its borders to be sufficient to establish PJ over the owner of that property.
+* Purposeful availment isn't relevant in European law. PJ in *WWVW* would have been valid in EU.
+
+### Revell v. Lidov
+* A passive website is not sufficient to establish PJ
+* *Zippo* test isn't particularly useful anymore since there aren't really passive websites anymore.
+* Court mentions that it needs to evaluate interactivity and then doesn't do that evaluation
+* Once you get onto the web, you lose the sales/circulation component of the *Calder* argument.
+* The passivity (or not) of a website wouldn't really effect the harm of an article published on it. In *Calder*, if Shirley Jones could've emailed natl-enquirer.com or commented there, the harm would still have been done.
+* *Calder* inquiry & interactivity inquiry are the stage for the reasoning in *Revell*.
+* In some cases, the location of the harm caused is irrelevant (*contra Calder*). If someone in MI says a Dr kills all of his patients
+

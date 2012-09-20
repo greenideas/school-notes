@@ -947,6 +947,7 @@
 	* Store can't forcibly recapture goods that were previously stolen.
 	* Even if default, a car owner can forcibly defend property against repossession. Repo man can't take property unless they can do so peaceably.
 	* Some cts say the same about land & others say reasonable force may be used to reacquire land.
+	* **Court got it wrong here.** There isn't transferred intent here, because there's no assault. He was privileged to threaten (warn), so no assault, and therefore no transferred intent.
 
 #### Discipline
 * Restatement says parents can use reasonable force to discipline children.
@@ -983,7 +984,7 @@
 	* Did the sexual contact amount to consent to the battery.
 
 * **Holding**
-	* No. There can be no consent to battery,
+	* No. Consent to sexual contact is not consent for battery.
 	 
 * **Dissent**
 	* Authority of a jailer over a prisoner invalidates any expression of consent by the prisoner.

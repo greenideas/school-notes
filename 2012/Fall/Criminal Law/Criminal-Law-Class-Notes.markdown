@@ -23,6 +23,9 @@
 		- [Wisconsin v. Mitchell](#wisconsin-v-mitchell)
 		- [Martin v. State](#martin-v-state)
 		- [State v. Decina](#state-v-decina)
+	- [September 19](#september-19)
+		- [People v. Beardsley](#people-v-beardsley)
+		- [Commonwealth v. Howard](#commonwealth-v-howard)
 
 # Criminal Law Class Notes
 
@@ -171,9 +174,19 @@
 * Unless the legislature explicitly states that an act need not be volitional to be punished, we presume that conduct must be voluntary.
 * Did any actor compel ∂ to engage in the prohibited behavior?
 	* Was that actor a government agent?
-	* 
+	
 ### State v. Decina
-* Case in chief defense - Certain elements need to be in place for a crime to occur, and those elements were not present.
+* Case-in-chief defense - Certain elements need to be in place for a crime to occur, and those elements were not present.
 * Affirmative defense - Yes, the criminal activity occurred, but there is a reason why I did it, and (1) given those circumstances, we'd want anyone to act as I did or (2) there are extenuating, justifying circumstances.
 * When there is social harm, and that harm is substantial, courts will widen the lens of what constitutes an action.
 * If there's a nonvolitional act that causes harm, is there an earlier volitional act that clearly caused that nonvolitional act.
+
+## September 19
+### People v. Beardsley
+* Duty + Failure to act is still insufficient to establish criminal liability. There still needs to be a prohibited mental state.
+* Two types of duties:
+	* Duty to act directly
+	* Duty to summon assistance
+
+### Commonwealth v. Howard
+* Nothing about omissions in the PA manslaughter statute circa *Howard*

@@ -23,6 +23,14 @@
 			- [Martin v. State](#martin-v-state)
 		- [Acting voluntarily vs. acting involuntarily](#acting-voluntarily-vs-acting-involuntarily)
 			- [State v. Decina](#state-v-decina)
+		- [Acting vs. Failing to Act: Liability for Omissions](#acting-vs-failing-to-act:-liability-for-omissions)
+			- [Establishing the duty to act](#establishing-the-duty-to-act)
+				- [People v. Beardsley](#people-v-beardsley)
+				- [Commonwealth v. Howard](#commonwealth-v-howard)
+				- [Commonwealth v. Pestinikas](#commonwealth-v-pestinikas)
+		- [Acting vs Having a Status: Status Crimes](#acting-vs-having-a-status:-status-crimes)
+			- [Robinson v. California](#robinson-v-california)
+			- [Jones v. City of Los Angeles](#jones-v-city-of-los-angeles)
 
 # Criminal Law--Cases and Materials
 ## Basic Principles of the Criminal Law
@@ -775,3 +783,208 @@
 	* Since he didn't know he was going to have a seizure and there's no restriction on his license preventing him from driving, we can't hold him accountable.
 	* The law prohibits reckless operation of a motor vehicle, and the reckless operation was not something Decina was in control of.
 	* The language of the law is overbroad and it would be hard to know when it's okay to drive so there are due process reasons to contest the law.
+
+### Acting vs. Failing to Act: Liability for Omissions
+* Criminal liability for omission when ∂ (1) had a legal duty to act and (2) the ability to act
+* Someone may have a legal duty to act when:
+	1. there is a special relationship b/w ∂ and the victim (husband & wife, master & servant)
+	2. there is a contract explicitly creating such a duty
+	3. there is a statutory duty
+	4. ∂ creates the risk of harm to the victim
+	5. ∂ without any duty voluntarily enters into a duty
+
+#### Establishing the duty to act
+##### People v. Beardsley
+* MI 1907, McAlvay, J.C. 
+
+* **Parties**
+	* π: People
+	* ∂: Beardsley
+
+* **Facts**
+	* ∂ was with a woman who wasn't his wife in his home. They drank a lot.
+	* The woman (Burns) sent a boy to get her some camphor and morphine.
+	* ∂ noticed her taking the morphine & tried to knock it out of her hand & he and the boy also destroyed some of the pills
+	* ∂ later called the boy to have her brought to the basement room of another guest (Skoba) so he could watch her
+	* Skoba later became concerned about her condition and called a marshall & a doctor who determined that she had died.
+
+* **Procedural History**
+	* ∂ was convicted of manslaughter
+
+* **Issue**
+	* Is ∂ liable for failure to act when there is no special relationship b/w ∂ and victim. 
+
+* **Reasoning**
+	* π said that since Burns was in ∂'s home, he had a duty to care for her.
+	* Lots of cases establish that a duty exists when there is a special relationship between ∂ and the victim.
+	* Similarly, ∂ can volunteer for that duty.
+	* Not every moral duty is a legal duty, but every legal duty is a moral duty.
+	* Burns's being in ∂'s home created no such relationship.
+	* If it was two men, no one would say such a relationship existed.
+
+* **Holding**
+	* No special relationship between ∂ and victim, so no duty to act, therefore no liability for the failure to act.
+
+* **Rule**
+	* ∂ must have a special relationship to the victim in order to be liable for failure to act. If ∂ & victim have such a relationship & ∂'s failure to act results in victim's death, ∂ is liable for manslaughter.
+
+##### Commonwealth v. Howard
+* Superior Ct. of PA 1979, Judge Hoffman
+
+* **Parties**
+	* π: Commonwealth
+	* ∂: Howard
+
+* **Facts**
+	* ∂ lived with her daughter & boyfriend (Watts).
+	* Watts repeatedly beat the daughter & subjected her to "sadistic abuse"
+	* One night while Watts was beating the daughter, she hit her head on some furniture.
+	* ∂ couldn't wake her up the next day.
+	* ∂ made up a story to explain the injuries.
+	* PA law: Involuntary manslaughter iff victim dies due to ∂'s reckless or negligent action whether or not that act was legal
+
+* **Procedural History**
+	* 
+
+* **Issue**
+	* 
+
+* **Reasoning**
+	* Liability can be for failure to act when there is a duty to act.
+	* Parents have a duty to protect their children
+	* ∂ is responsible for not intervening in her daughter's abuse.
+	* The severity of the girl's injuries, and failure to intervene in the abuse or to alert the authorities constitute gross negligence.
+
+* **Holding**
+	* Conviction affirmed. ∂'s failure to act was grossly negligent.
+
+* **Rule**
+	* Failure to act must be reckless or grossly negligent.
+ 
+##### Commonwealth v. Pestinikas
+* Superior Ct. of PA, 1992, J. Wieand
+
+* **Parties**
+	* π: Commonwealth
+	* ∂: Pestinikas
+
+* **Facts**
+	* Kly was gravely ill & made arrangements with ∂s for his funeral.
+	* He went to stay with ∂s after leaving the hospital.
+	* Drs gave ∂s care instructions for Kly & a Rx to fill for him.
+	* ∂s verbally agreed to give the requisite care.
+	* ∂ didn't fill the prescription, told a visiting nurse she wasn't needed, kept Kly in a room where he was exposed to the elements & had no bathroom.
+	* ∂s had their names added to Kly's back account
+	* Over a year, ∂s took out more than $30k of Kly's money
+	* ∂s called an ambulance who found Kly's emaciated corpse.
+	* ∂ said she had given Kly cookies & OJ the morning of his death but autopsy showed he hadn't eaten for 39 hours & cause of death was dehydration & starvation
+	* He suffered.
+
+* **Procedural History**
+	* ∂ convicted of 3rd degree murder
+	* ∂ appealed saying evidence was insufficient & jury instructions were incorrect
+
+* **Issue**
+	* Is ∂ liable for failure to act when the duty to act is established by contract?
+
+* **Reasoning**
+	* ∂ contended verbal agreement was insufficient to establish duty to act.
+	* Contractual obligation is sufficient to establish duty to act.
+	* Oral agreement was sufficient to establish contract.
+	* ∂s had a duty to act.
+	* If ∂s maliciously withheld food, they would be liable for murder
+
+* **Holding**
+	* 
+
+* **Rule**
+	* 
+ 
+* **Dissent/Concurrence**
+	* 
+
+* **Notes**
+
+### Acting vs Having a Status: Status Crimes
+#### Robinson v. California
+* SCOTUS 1962, J. Stewart
+
+* **Parties**
+	* π: Robinson - has track marks, convicted of drug addiction
+	* ∂: California
+
+* **Facts**
+	* CA law oulawing being addicted to narcotics
+	* policeman noticed π's arms had track marks
+	* cop said π admitted occasional drug use
+	* π denies this conversation happened & said the tracks were from an allergy when he was in the military
+
+* **Procedural History**
+	* π was convicted in trial ct under addiction law
+	* trial judge instructed jury that it was illegal to use or be addicted to drugs
+	* addiction, though a diachronic condition, can be established with a synchronic observation
+	* judge said he was guilty if he was either using *or* addicted
+
+* **Issue**
+	* Can a law punish someone for their ongoing, passive status.
+
+* **Reasoning**
+	* We wouldn't make a law punishing a disease (say, leprosy) though a state may compel afflicted individuals to get treatment.
+	* Such a law would violate 8th & 14th amendments
+	* Addiction is an illness, so we can't punish it.
+
+* **Holding**
+	* Addiction is not a punishable offense.
+ 
+* **Dissent**
+	* J. Clark
+	* Addiction is volitional.
+	* Addicts are more likely to commit other crimes.
+
+#### Jones v. City of Los Angeles
+* 9th circuit, 2006. C.J. Wardlaw
+
+* **Parties**
+	* π: Jones
+	* ∂: City of Los Angeles
+
+* **Facts**
+	* 6 homeless men
+	* One of πs (Purrie) was fined one day for violating the law, then arrested a month later on the same spot for failing to pay the fine (which he couldn't afford)
+	* πs are all too poor to afford shelter. some are working. some are sick. some are mentally ill.
+
+* **Procedural History**
+	* πs wanted an injunction against enforcement (b/w 9PM & 6:30AM) of a vagrancy law that made it illegal to sit or lay down on public sidewalks & streets
+	* πs claimed that LA's law made being homeless (a status) a crime.
+	* District ct. found for the city.
+	* πs appealed.
+
+* **Issue**
+	* Can acts arising out of a chronic status be punished?
+
+* **Reasoning**
+	* πs were not on Skid Row by choice. (welfare stipend wasn't enough to afford shelter.)
+	* ∂ said the law was okay because sleeping on benches was okay.
+	* Other cities with similar laws require violators to also do something else wrong at the same time as they're lying down (e.g. obstructing foot traffic) or limiting enforcement to certain geographic areas.
+	* More homeless in LA than there are shelter beds, so some people will necessarily be on the street.
+	* From *Robinson* and *Powell*, involuntary statuses can't be punished.
+	* Homelessness is an involuntary, chronic condition.
+	* Dissent says the crime punishes acts, but πs obviously have to sleep sometime & they don't have anywhere they can legally do so, so what's really being punished is their status.
+	* Whatever acts contributed to πs' homelessness, they're not proximate enough to the offenses to call the homelessness volitional.
+	* 8th amendment *doesn't* unavoidable offenses often committed by homeless (obstructing traffic, building shelters) **LIMITING PRINCIPLE**
+
+* **Holding**
+	* Overturned. πs should get at least a narrow injunction of the homelessness law.
+
+* **Rule**
+	* Inevitable actions arising out of chronic statuses are not punishable.
+ 
+* **Dissent**
+	* LA's law targets conduct (e.g. sitting)
+	* Just because indivs aren't fully covered by government benefits, we should still be able to punish them
+	* πs didn't show that they couldn't get shelter on the specific nights they were arrested
+
+* **Notes**
+	* 
+
+

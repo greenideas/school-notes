@@ -34,6 +34,8 @@
 		- [Intentional infliction of emotional distress (IIED)](#intentional-infliction-of-emotional-distress-iied)
 	- [Defenses to Intentional Torts](#defenses-to-intentional-torts)
 		- [Self-defense](#self-defense)
+		- [Defenses to property](#defenses-to-property)
+		- [Consent](#consent)
 
 # Torts
 
@@ -219,3 +221,18 @@ Insurance is an alternative to the tort system
 ### Self-defense
 * Use of reasonable force to defend against harmful or offensive contact (battery) or confinement
 * **AND** Amount of force used in defense must be proportional the force used in the threat.
+	* Deadly force can only be used to defend against death or serious bodily harm (sexual contact counts here, too)
+
+### Defenses to property
+* Must be reasonable cause to believe there was theft.
+* **AND** Actions taken towards detention must be reasonable.
+* **AND** detention must be for reasonable period.
+* Reasonableness standards increase flexibility & fairness.
+* Tenants have the same rights of defense to property as owners.
+* Warning isn't necessary when it would be required if it would be unnecessary or dangerous
+* There is a privilege to threaten more force than you're actually authorized to use.
+
+### Consent
+* Consent can be revoked at any time
+* Consent can't be given under duress or coercion
+* Consent can't be given by those who can't understand consequences & I have to know of that incapacity

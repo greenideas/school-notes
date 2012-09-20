@@ -10,6 +10,8 @@
 	- [September 13](#september-13)
 	- [September 17](#september-17)
 		- [Using introductory signals (Bluebook B3)](#using-introductory-signals-bluebook-b3)
+	- [September 20](#september-20)
+		- [Email memo comments](#email-memo-comments)
 
 # RRWA Class Notes
 * [8/27/2012][8-27-2012]
@@ -140,3 +142,11 @@
 	* Contra, but see, but cf
 * For background
 	* See generally
+
+## September 20
+* Passive voice can be appropriate when the action is more important than the actor.
+* Front loading: Move actor & action to the front of the sentence
+
+### Email memo comments
+* Lead with the most binding authority
+* 

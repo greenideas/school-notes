@@ -15,6 +15,8 @@
 		- [General Jurisdiction](#general-jurisdiction)
 			- [Goodyear Dunlop Tires Operations, S.A. v. Brown](#goodyear-dunlop-tires-operations-sa-v-brown)
 			- [Shaffer v. Heitner](#shaffer-v-heitner)
+		- [Jurisdiction Over Corporations and Partnerships](#jurisdiction-over-corporations-and-partnerships)
+			- [Revell v. Lidov](#revell-v-lidov)
 
 # Civil Procedure: Cases, Materials, and Questions
 
@@ -505,6 +507,61 @@ SCOTUS 1878, J. Field
 
 * **Holding**
 	* Minimum contacts are required for in rem jurisdiction just as they are for in personam.
+
+* **Rule**
+	* 
+ 
+* **Dissent/Concurrence**
+	* 
+
+* **Notes**
+
+### Jurisdiction Over Corporations and Partnerships
+* While in-state service of a transient individual is sufficient for jurisdiction, in-state service of a transient corporate agent is not.
+* Service of an agent is based on consent, but not consent to general jurisdiction. That would be too high a burden.
+* Whether the actions of a parent company subject a subsidiary to jurisdiction in a forum (or vice versa) must be determined on a case-by-case basis.
+* While a corporation is effectively a person, a partnership is not itself an entity separate from the partners.
+
+#### Revell v. Lidov
+* 5th Circuit 2002, HIgginbotham
+
+* **Parties**
+	* π: Revell
+	* ∂: Lidov
+
+* **Facts**
+	* Lidov wrote an article alleging conspiracy among Reagan administration officials to allow the Lockerbie bombing to occur
+	* The article specifically picked out, Revell who was Associate Deputy Director of the FBI at the time.
+	* Revell lived in TX.
+	* Lidov lived in MA.
+	* Columbia (with whom Lidov has no affiliation) is in NY.
+
+* **Procedural History**
+	* Revell sued Lidov for defamation regarding an article Lidov posted on a forum at Columbia.
+	* Revell sued Columbia in NY and Lidov in TX.
+	* District ct. dismissed the suit for lack of jurisdiction.
+	* Revell appealed.
+
+* **Issue**
+
+* **Reasoning**
+	* π said jurisdiction over Columbia was valid since the website advertised the Columbia Journalism Review which was sold in TX
+	* Sliding scale for involvement of a website with a forum. *Zippo*
+		* On one end is a totally passive site that doesn't engage with users in a forum. No PJ here.
+	* Doing business *with* TX != doing business *in* TX.
+	* On the other is a website whose owners frequently interact with users in a forum. PJ applies here.
+	* Number of periodical sales to TX was very low.
+	* Bulletin board was "*Zippo*-passive" so no specific jurisdiction.
+	* π argued that the *Calder* effects test established minimum contacts with TX, since that's where he lived & that's where his reputation was harmed.
+		* Article didn't mention TX & was not targeted specifically to TX readers.
+		* Other precedent for the π's location not mattering for a *Calder* test.
+	* From *Burger King*, ∂ should be able to expect being sued anywhere that can claim PJ over him. This test fails for ∂ since he didn't even know π lived in TX.
+	* Knowing where π's harm will occur is necessary for a *Calder* test.
+	* *If* there was a geographic focus to Lidov's attack, it was DC.
+	* We look to the geographic focus of the article--not the bite of the defamation.
+
+* **Holding**
+	* Affirmed. No personal jurisdiction.
 
 * **Rule**
 	* 
