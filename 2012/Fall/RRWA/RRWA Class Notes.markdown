@@ -149,4 +149,3 @@
 
 ### Email memo comments
 * Lead with the most binding authority
-* 

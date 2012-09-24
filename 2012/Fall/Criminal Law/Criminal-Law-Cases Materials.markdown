@@ -863,11 +863,12 @@
  
 ##### Commonwealth v. Pestinikas
 * Superior Ct. of PA, 1992, J. Wieand
+* Couple took a sick old man in, took all of his money & starved him to death
 
 * **Parties**
 	* π: Commonwealth
-	* ∂: Pestinikas
-
+	* ∂: Pestinikas 
+	
 * **Facts**
 	* Kly was gravely ill & made arrangements with ∂s for his funeral.
 	* He went to stay with ∂s after leaving the hospital.
@@ -971,7 +972,7 @@
 	* Homelessness is an involuntary, chronic condition.
 	* Dissent says the crime punishes acts, but πs obviously have to sleep sometime & they don't have anywhere they can legally do so, so what's really being punished is their status.
 	* Whatever acts contributed to πs' homelessness, they're not proximate enough to the offenses to call the homelessness volitional.
-	* 8th amendment *doesn't* unavoidable offenses often committed by homeless (obstructing traffic, building shelters) **LIMITING PRINCIPLE**
+	* 8th amendment *doesn't* prohibit avoidable offenses often committed by homeless (obstructing traffic, building shelters) **LIMITING PRINCIPLE**
 
 * **Holding**
 	* Overturned. πs should get at least a narrow injunction of the homelessness law.
@@ -986,5 +987,3 @@
 
 * **Notes**
 	* 
-
-

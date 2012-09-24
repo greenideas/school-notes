@@ -17,6 +17,13 @@
 			- [Shaffer v. Heitner](#shaffer-v-heitner)
 		- [Jurisdiction Over Corporations and Partnerships](#jurisdiction-over-corporations-and-partnerships)
 			- [Revell v. Lidov](#revell-v-lidov)
+		- [Statutory Limits on Personal Jurisdiction](#statutory-limits-on-personal-jurisdiction)
+	- [Notice and Opportunity to be Heard](#notice-and-opportunity-to-be-heard)
+		- [Notice](#notice)
+			- [The Constitutional Requirement](#the-constitutional-requirement)
+				- [Mullane v. Central Hanover Bank & Trust Co.](#mullane-v-central-hanover-bank-&-trust-co)
+			- [Statutory Requirements](#statutory-requirements)
+				- [National Dev. Co. v. Triad Holding Corp](#national-dev-co-v-triad-holding-corp)
 
 # Civil Procedure: Cases, Materials, and Questions
 
@@ -508,14 +515,6 @@ SCOTUS 1878, J. Field
 * **Holding**
 	* Minimum contacts are required for in rem jurisdiction just as they are for in personam.
 
-* **Rule**
-	* 
- 
-* **Dissent/Concurrence**
-	* 
-
-* **Notes**
-
 ### Jurisdiction Over Corporations and Partnerships
 * While in-state service of a transient individual is sufficient for jurisdiction, in-state service of a transient corporate agent is not.
 * Service of an agent is based on consent, but not consent to general jurisdiction. That would be too high a burden.
@@ -563,11 +562,78 @@ SCOTUS 1878, J. Field
 * **Holding**
 	* Affirmed. No personal jurisdiction.
 
-* **Rule**
-	* 
- 
-* **Dissent/Concurrence**
-	* 
+### Statutory Limits on Personal Jurisdiction
+* "long-arm" statutes allow states to assert personal jurisdiction over nonresidents under certain conditions (that vary state-to-state)
 
-* **Notes**
-	* 
+## Notice and Opportunity to be Heard
+### Notice
+#### The Constitutional Requirement
+##### Mullane v. Central Hanover Bank & Trust Co.
+* SCOTUS 1950, J. Jackson
+
+* **Parties**
+	* π: Mullane
+	* ∂: Central Hanover Bank & Trust Co.
+
+* **Facts**
+	* NY law allows the consolidation of trusts into a large centrally administered fund. This diversification mitigates risk and minimizes management overhead.
+	* ∂ created such a fund. 113 trusts, $3M
+	* ∂ gave notice of the creation of the fund by publishing an announcement in the local paper in compliance with NY banking law
+	* Announcement didn't name any of the beneficiaries of the trust.
+	* When the first investment was made into the common fund on behalf of each individual trust, the beneficiaries were notified individually by mail
+
+* **Procedural History**
+	* NY Ct. of Appeals 
+
+* **Issue**
+	* Is notice of a proceeding involving many parties published in a local newspaper sufficient for 14th amendment due process?
+
+* **Reasoning**
+	* To meet the 14th amendment requirement for due process, notice of a proceeding has to:
+		1. convey enough information about the proceedings so that parties can object; and
+		2. allow enough time to respond
+	* Method of delivering notice has to be the most likely feasible way of successfully doing so.
+	* Publication doesn't meet this requirement
+	* Nobody is going to see notice published in a newspaper--especially people who aren't local
+	* Beneficiaries' appointed representatives (trustees) are actually the adversaries here.
+	* Successful notice to most (but not all) beneficiaries would be just as good as notice to all, since all beneficiaries would benefit from the increased stability of the fund due to the majority's objections
+	* Notice here is insufficient because it couldn't hope to reach even most of the beneficiaries.
+
+* **Holding**
+	* The proceedings deprived πs of property rights, but notice of those proceedings by publication in a local newspaper was inadequate for those whose addresses were known (reversed). For those whose addresses were not known, publication of notice was sufficient (affirmed) 
+
+* **Rule**
+	* Notice has to be reasonably likely to reach parties and to allow them to object.
+	
+#### Statutory Requirements
+##### National Dev. Co. v. Triad Holding Corp
+* 2nd Cir 1991, Circuit Judge McLaughlin
+
+* **Parties**
+	* π: National Dev. Co.
+	* ∂: Triad Holding Corp.
+
+* **Facts**
+	* Khashoggi while having residences all over the world, was domiciled in Saudi Arabia.
+	* π delivered notice to Khashoggi's NY apt housekeeper.
+
+* **Procedural History**
+	* District ct. said service of process at Khashoggi's apartment in NY was sufficient 
+
+* **Issue**
+	* Was notice delivered at a foreign national's NY residence sufficient to meet due process requirements? 
+
+* **Reasoning**
+	* District ct. said apt wasn't a "dwelling house or usual place of abode" but that "actual notice" was served.
+	* Actual notice was *not* served,  but apt really was a "dwelling house"
+	* Housekeeper was of "suitable age & discretion" to receive notice
+	* These days, people have more than one "dwelling house"
+	* K didn't have a "usual place of abode" since he wasn't at any of his houses for very long.
+	* K put a lot of money into making the NY apt suitable to his taste & listed it as a residence on a bail application.
+	* The case law supports the conclusion that, when someone has a lot of residences, you may serve process on them at whichever residence in which they are currently living.
+
+* **Holding**
+	* Affirmed. Notice at the NY apt was sufficient.
+
+* **Rule**
+	* When someone has a lot of residences, you may serve process on them at whichever residence in which they are currently living.

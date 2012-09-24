@@ -64,6 +64,19 @@
 				- [Notes](#notes)
 			- [Doe v. Johnson](#doe-v-johnson)
 				- [Notes](#notes)
+		- [Privileges not Based on ∏'s Conduct](#privileges-not-based-on-∏'s-conduct)
+			- [Surocco v. Geary](#surocco-v-geary)
+			- [Wegner v. Milwaukee Mutual Ins. Co.](#wegner-v-milwaukee-mutual-ins-co)
+			- [Ploof v. Putnam](#ploof-v-putnam)
+			- [Vincent v. Lake Erie Transportation Co.](#vincent-v-lake-erie-transportation-co)
+- [Negligent Wrongs](#negligent-wrongs)
+	- [The Prima Facie Case for Negligence](#the-prima-facie-case-for-negligence)
+		- [Duty](#duty)
+			- [OWH: Negligence & Fault from *The Common Law*](#owh:-negligence-&-fault-from-the-common-law)
+			- [Institutions & Elements of Negligence](#institutions-&-elements-of-negligence)
+				- [Institutions](#institutions)
+				- [Assessing Responsibility](#assessing-responsibility)
+				- [Elements of a negligence claim](#elements-of-a-negligence-claim)
 
 # Torts & Compensation - Dobbs
 
@@ -1029,3 +1042,171 @@
 * Others have said that an illegal act can't be a cause of action
 * The Restatement says that consent *is* effective in the context of a crime.
 * Consent can be revoked at any time.
+
+### Privileges not Based on ∏'s Conduct
+* Police have privilege to enter land to execute a warrant but not to invite media.
+* Places open to the public can't bar people from entry based on gender or race
+
+#### Surocco v. Geary
+* CA 1853, CJ Murray
+
+* **Parties**
+	* π: Surocco
+	* ∂: Geary
+
+* **Facts**
+	* ∂ blew up π's house & property during a fire.
+	* ∂ said it was to stop the fire from spreading.
+	* π said he could've gotten more stuff out before the explosion
+
+* **Procedural History**
+	* Trial ct jury found for π
+
+* **Issue**
+	* Is someone who destroys property out of necessity liable for damages to the property destroyed?
+
+* **Reasoning**
+	* Individual property rights may be overridden by necessity.
+	* A house on fire may cause other homes to catch fire.
+	* The house would've burned up anyway, & proactively destroying it saved other houses.
+
+* **Holding**
+	* Reversed.
+
+* **Rule**
+	* Individual property may be destroyed out of necessity if doing so is in society's interest.
+ 
+#### Wegner v. Milwaukee Mutual Ins. Co.
+* MI 1991
+
+* **Parties**
+	* π: Wegner
+	* ∂: Milwaukee Mutual Ins. Co.
+
+* **Facts**
+	* A suspected drug dealer entered π's house while fleeing police
+	* SWAT team surrounded the house & threw tear gas & flash-bangs into the house.
+	* The house was severely damaged.
+
+* **Procedural History**
+	* π sued City of Minneapolis
+	* The Minneapolis Constitution said the damages occurred out of necessity
+	* Lower cts agreed.
+
+* **Issue**
+	* Can the police be held liable for damage caused while in pursuit of a suspect?
+
+* **Reasoning**
+	* Restatement says that entering land may only be done to avert imminent public disaster
+	* It's not fair to hold an innocent 3rd party responsible for damage sustained to her property.
+	* Takings clause of MN Const says private property won't be taken without compensation.
+
+* **Holding**
+	* Reversed.
+
+* **Rule**
+	* PD should compensate 3rd parties for damages caused by pursuit of suspect
+ 
+* **Notes**
+	* Other jurisdictions interpret 'takings' more narrowly to refer to property taken for public improvement
+
+#### Ploof v. Putnam
+* VT 1908
+
+* **Parties**
+	* π: Ploof
+	* ∂: Putnam
+
+* **Facts**
+	* ∂ owned an island in a lake
+	* π & family were sailing in the lake when the weather got stormy.
+	* π moored his boat on ∂'s dock to protect himself & family
+	* ∂'s servant unmoored the boat
+	* Boat was destroyed, π & family were injured
+
+* **Issue**
+	* Can one enter another's land to protect property or person against harm done by weather?
+
+* **Reasoning**
+	* You can go on someone else's land to get around an obstruction on the road.
+	* You can destroy someone else's property to save your own life.
+
+* **Holding**
+	* For π
+
+* **Rule**
+	* Entering land to save property from fire or water is not trespassing
+
+#### Vincent v. Lake Erie Transportation Co.
+* MN 1910
+
+* **Parties**
+	* π: Vincent
+	* ∂: Lake Erie Transportation Co.
+
+* **Facts**
+	* ∂'s boat was moored to π's dock to unload cargo
+	* A bad storm developed making it impossible to navigate the waters
+	* ∂ tried to get a tow away from the dock, but couldn't because of the weather
+	* boat hitting the dock from the waves caused $500 of damage
+
+* **Procedural History**
+	* Trial jury awarded π $500 damages.
+
+* **Issue**
+	* Can ∂ be liable for damages when he wasn't at fault for the harm caused?
+
+* **Reasoning**
+	* Would've been too dangerous to unmoor
+	* ∂ says it's not liable, since they couldn't have safely done anything else
+	* Normal rules of liability were suspended due to forces beyond human control (act of god)
+	* If they hadn't been moored & still hit the dock, they wouldn't be liable.
+	* But since they were moored & deliberately stayed moored, they are liable.
+	* Had the boat in *Ploof* have stayed moored & damaged that dock, that π would've been liable.
+	* Necessity may rightly make someone take or damage property, but they still must compensate the owner.
+	* ∂ did the right thing, but is still liable for damages
+
+* **Holding**
+	* Affirmed for π.
+
+* **Rule**
+	* Damages can still be recovered after justifiable (faultless) destruction of property.
+ 
+* **Dissent**
+	* If the boat was lawfully allowed to stay moored, ∂ shouldn't be liable for damages while it was.
+	* Dock owners should anticipate the risk of ships damaging their docks during storms.
+
+# Negligent Wrongs
+## The Prima Facie Case for Negligence
+### Duty
+#### OWH: Negligence & Fault from *The Common Law*
+* People aren't liable for things they couldn't anticipate or know to avoid.
+* If there's no way to avert harm, there can be no liability for that harm.
+* Cost of accidents can be distributed through insurance. This is best done by private enterprise.
+* It's unjust to make me pay damages for harm sustained to another unless:
+	* My act is of a threatening nature; or
+	* A reasonable person would've known my act would bring about harm
+
+#### Institutions & Elements of Negligence
+##### Institutions
+* Negligence is any conduct that causes an unreasonable risk of harm. 
+* Liability arises when that risk becomes actual harm.
+* *Litigation finance--the attorney fee* - Attorney fees are usually contingent, 250%-50% of a damage award.
+* *Liability insurance* - Policy limits for auto insurance are too low to cover serious injury.
+* *Settlement* - To determine a fair settlement value without a trial, ;awyers on both sides of a case try to determine what facts would be proved at trial and what legal rules are in play.
+
+##### Assessing Responsibility
+* The concept of legal responsibility encompasses many factors:
+	1. *Fault.* 
+	2. *Causation.* Actual harm must occur for negligence. Offense will not suffice.
+	3. *Fixing the scope of responsibility.* A person isn't responsible for every harm his negligence causes.
+	4. *Duty to take responsibility.* 
+
+##### Elements of a negligence claim
+* π must prove 5 things:
+	1. ∂ owed π a legal duty.
+	2. ∂ breached that duty through negligence.
+	3. π suffered actual damage.
+	4. ∂'s negligence was an actual cause of this damage.
+	5. ∂'s negligence was a *proximate* cause of the action.
+* Burden to prove (1) - (5) falls on π and all 5 must be proved.

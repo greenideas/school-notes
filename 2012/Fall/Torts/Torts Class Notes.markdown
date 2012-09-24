@@ -200,7 +200,7 @@ Insurance is an alternative to the tort system
 * Emotional distress damages are usually parasitic on other torts, but IIED stands on its own.
 * *IIED*
 	* Intentional or reckless act
-	* **AND** and outrageous
+	* **AND** and outrageous -- conduct beyond all bounds of normal social activity
 	* **AND** severe emotional distress
 * Recklessness: D knew of a risk that his behavior would bring about emotional distress and doesn't do anything to mitigate that risk 
 * IIED for public figures must be a false statement of fact

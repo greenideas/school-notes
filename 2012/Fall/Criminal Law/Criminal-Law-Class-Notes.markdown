@@ -26,6 +26,7 @@
 	- [September 19](#september-19)
 		- [People v. Beardsley](#people-v-beardsley)
 		- [Commonwealth v. Howard](#commonwealth-v-howard)
+	- [September 21](#september-21)
 
 # Criminal Law Class Notes
 
@@ -190,3 +191,6 @@
 
 ### Commonwealth v. Howard
 * Nothing about omissions in the PA manslaughter statute circa *Howard*
+* Widening the timeframe *a la Decina*: if there's a good reason Howard didn't get her daughter out of there after any particular instance of abuse, what about over time as the pattern of abuse developed?
+
+## September 21
