@@ -26,7 +26,10 @@
 	- [September 19](#september-19)
 		- [People v. Beardsley](#people-v-beardsley)
 		- [Commonwealth v. Howard](#commonwealth-v-howard)
-	- [September 21](#september-21)
+	- [September 25](#september-25)
+		- [Robinson v. California](#robinson-v-california)
+		- [Jones v. City of Los Angeles](#jones-v-city-of-los-angeles)
+		- [Mens Rea](#mens-rea)
 
 # Criminal Law Class Notes
 
@@ -193,4 +196,30 @@
 * Nothing about omissions in the PA manslaughter statute circa *Howard*
 * Widening the timeframe *a la Decina*: if there's a good reason Howard didn't get her daughter out of there after any particular instance of abuse, what about over time as the pattern of abuse developed?
 
-## September 21
+## September 25
+### Robinson v. California
+* Are passive statuses like addiction punishable under the 8th & 14th amendments
+* Every occasion of drug use is voluntary, but the status of addiction itself isn't voluntary and can't be punishable.
+* Even if you assume that the status can't occur without many previous acts, without evidence you can't prove that those acts occurred within the jurisdiction.
+* Court sidesteps the issue of drawing a line b/w addiction & disease by making the decision turn on the acts rather than the status.
+* This is the most important status case to know.
+
+### Jones v. City of Los Angeles
+* *Brown v. Plata* - Prison conditions are so bad due to overcrowding that it's cruel & unusual & so some prisoners must be released.
+
+### Mens Rea
+* Mens rea requirement, using mental states to assess culpability, is what makes criminal law different.
+* General moral blameworthiness is a much wider net than mens rea.
+* Specific v. general intent
+	* Specific: mental state has to go beyond the act itself - i have to intend to pull the trigger with the purpose of killing you
+	* General: mental state that causes the harmful act itself is sufficient
+* Conduct, attendant circumstances, & result
+* MPC intent (strictest to least strict)
+ 	1. Purposely 
+	2. Knowingly
+	3. Recklessly
+	4. Negligently
+* Purposely & negligently are grouped together, as are recklessly & negligently
+* Criminal negligence requires a gross deviation from reasonable care, whereas tortious negligence requires only an ordinary deviation from reasonable care.
+* Purposely applies to every element of the crime, unless specified otherwise in the statute
+* Willfully == "super-purposely"

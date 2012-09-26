@@ -36,6 +36,14 @@
 		- [Self-defense](#self-defense)
 		- [Defenses to property](#defenses-to-property)
 		- [Consent](#consent)
+		- [Necessity](#necessity)
+			- [Surocco v. Geary](#surocco-v-geary)
+			- [Wegner v. Milwaukee Mutual Ins. Co.](#wegner-v-milwaukee-mutual-ins-co)
+			- [Public Necessity](#public-necessity)
+			- [Ploof v. Putnam](#ploof-v-putnam)
+			- [Vincent v. Lake Erie Transportation Co.](#vincent-v-lake-erie-transportation-co)
+			- [Private Necessity](#private-necessity)
+	- [Negligence](#negligence)
 
 # Torts
 
@@ -217,6 +225,7 @@ Insurance is an alternative to the tort system
 	* Challenge the facts. "That never happened."
 	* Affirmative defenses
 	* ∂'s burden.
+* Privileges are codification of public policy goals.
 	
 ### Self-defense
 * Use of reasonable force to defend against harmful or offensive contact (battery) or confinement
@@ -234,5 +243,53 @@ Insurance is an alternative to the tort system
 
 ### Consent
 * Consent can be revoked at any time
-* Consent can't be given under duress or coercion
+* Consent can't be given under duress or coercion, whether there's a disparity of power or threat of force
+* Consent assumes that person giving consent knows the potential consequences of the activity being consented to.
 * Consent can't be given by those who can't understand consequences & I have to know of that incapacity
+* If someone consents to some activity they know might bring about harmful contact, they consent to all contact that may occur within the rules of that activity.
+* Giving medical care without consent in an emergency is generally okay
+* Consent relates specifically to the nature of the contact
+	* If pt consents to having her tooth pulled & dentist puts her out and then commits sexual battery, that's not okay
+	* If pt consents to having her tooth pulled at 11 & dentist doesn't pull it until 11:15, that's okay
+* States vary on whether a cause of action can arise out of illegal activities
+* Restatement rejects any blanket rejection of consent in illegal activity
+
+### Necessity
+#### Surocco v. Geary
+* Natural law - baseline principles of how humans should interact with each other that aren't codified
+* The potential benefit to society outweighed the cost to the Suroccos.
+* One can destroy property if a reasonable person would think that doing so is necessary and in the public interest.
+
+#### Wegner v. Milwaukee Mutual Ins. Co.
+* Judgment of fairness is part of distinguishing *Wegner* from *Surocco*
+* ∂ here was essentially the city of Milwaukee, whereas in *Surocco*, it was just the Alcalde of SF.
+* Public necessity is a complete privilege in that you're not required to pay damages.
+
+#### Public Necessity
+* Privilege to enter land or destroy property out of necessity if: 
+	* it's for the purpose of avoiding imminent public disaster 
+	* **OR** actor reasonably believes its necessary to avoid imminent public disaster
+
+#### Ploof v. Putnam
+* Cause of action was trespass to chattels, but it should really have been conversion because the boat was destroyed
+* Necessity was an affirmative defense against trespass
+* If Ploofs are privileged to be on the dock (due to necessity) then its not trespassing, and so Putnam can't kick them off.
+* This case is private necessity rather than public necessity
+* We value life over property
+* The standard for private necessity is serious harm or death.
+
+#### Vincent v. Lake Erie Transportation Co.
+* When there's property damage, the person claiming the privilege is responsible to pay the damages.
+* Private necessity is an incomplete privilege. All it allows you to do is avoid trespassing, but you're still required to pay damages.
+ 
+#### Private Necessity
+* Privilege to enter or remain on property iff: 
+	1. it's necessary
+	2. **OR** it appears necessary
+		* for the purpose of avoiding serious harm to actor or land or chattels
+		* for the purpose of avoiding serious harm to 3rd parties or their land or chattels
+	3. Where the actor is responsible for actual damages to land or chattels.
+
+## Negligence
+* Broad category of torts
+* Conduct that creates an unreasonable risk of harm

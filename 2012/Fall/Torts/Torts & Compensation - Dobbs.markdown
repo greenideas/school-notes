@@ -77,9 +77,20 @@
 				- [Institutions](#institutions)
 				- [Assessing Responsibility](#assessing-responsibility)
 				- [Elements of a negligence claim](#elements-of-a-negligence-claim)
+			- [General Duty of Care: The Prudent Person Standard](#general-duty-of-care:-the-prudent-person-standard)
+				- [Stewart v. Motts](#stewart-v-motts)
+				- [Bjorndal v. Weitman](#bjorndal-v-weitman)
+				- [Shepherd v. Gardner Wholesale, Inc.](#shepherd-v-gardner-wholesale-inc)
+				- [Creasy v. Rusk](#creasy-v-rusk)
+				- [Hill v. Sparks](#hill-v-sparks)
+				- [Robinson v. Lindsay](#robinson-v-lindsay)
+				- [Hudson-Connor v. Putney](#hudson-connor-v-putney)
+			- [Specification of Particular Standards or Duties](#specification-of-particular-standards-or-duties)
+				- [Marshall v. Southern Railway Co.](#marshall-v-southern-railway-co)
+			- [Chaffin v. Brame](#chaffin-v-brame)
+				- [Martin v. Herzog](#martin-v-herzog)
 
 # Torts & Compensation - Dobbs
-
 ## Tort Law: Aims, Approaches and Processes
 ### What is Tort Law?
 * *Tort* -- Any event that, according to the law, may be grounds for a lawsuit.
@@ -994,7 +1005,7 @@
 	* IN Supreme Ct. affirmed but said that consent couldn't be a defense against battery.
 
 * **Issue**
-	* Did the sexual contact amount to consent to the battery.
+	* Can consent be freely given when there is a disparity of power between the parties involved?
 
 * **Holding**
 	* No. Consent to sexual contact is not consent for battery.
@@ -1035,6 +1046,7 @@
 #### Doe v. Johnson
 * Magic Johnson should have known of his HIV risk due to his promiscuity.
 * He therefore battered Jane Doe by having unprotected sex with her & giving her HIV
+* Court actually got this wrong here. This wasn't substantial certainty.
 
 ##### Notes
 * Can't get consent by defrauding someone, but misrepresentation must be related to the activity.
@@ -1068,13 +1080,13 @@
 * **Reasoning**
 	* Individual property rights may be overridden by necessity.
 	* A house on fire may cause other homes to catch fire.
-	* The house would've burned up anyway, & proactively destroying it saved other houses.
+	* The house would've burned up anyway, & proactively destroying it could've saved other houses.
 
 * **Holding**
 	* Reversed.
 
 * **Rule**
-	* Individual property may be destroyed out of necessity if doing so is in society's interest.
+	* Individual property may be destroyed out of necessity if doing so is in society's interest. A reasonable person must think it was reasonably necessary.
  
 #### Wegner v. Milwaukee Mutual Ins. Co.
 * MI 1991
@@ -1099,13 +1111,13 @@
 * **Reasoning**
 	* Restatement says that entering land may only be done to avert imminent public disaster
 	* It's not fair to hold an innocent 3rd party responsible for damage sustained to her property.
-	* Takings clause of MN Const says private property won't be taken without compensation.
+	* Takings clause of MN Const says private property for public use won't be taken without compensation.
 
 * **Holding**
 	* Reversed.
 
 * **Rule**
-	* PD should compensate 3rd parties for damages caused by pursuit of suspect
+	* PD should compensate 3rd parties for damages caused by pursuit of suspect. People shouldn't bear the burden of risks of which they were innocent.
  
 * **Notes**
 	* Other jurisdictions interpret 'takings' more narrowly to refer to property taken for public improvement
@@ -1154,7 +1166,7 @@
 	* Trial jury awarded π $500 damages.
 
 * **Issue**
-	* Can ∂ be liable for damages when he wasn't at fault for the harm caused?
+	* Can a person damage personal property to defend their own property?
 
 * **Reasoning**
 	* Would've been too dangerous to unmoor
@@ -1165,13 +1177,14 @@
 	* Had the boat in *Ploof* have stayed moored & damaged that dock, that π would've been liable.
 	* Necessity may rightly make someone take or damage property, but they still must compensate the owner.
 	* ∂ did the right thing, but is still liable for damages
+	* Damages can still be recovered after justifiable (faultless) destruction of property.
 
 * **Holding**
 	* Affirmed for π.
 
 * **Rule**
-	* Damages can still be recovered after justifiable (faultless) destruction of property.
- 
+	* Private necessity is not a defense when the harm is to property instead of person.
+	 
 * **Dissent**
 	* If the boat was lawfully allowed to stay moored, ∂ shouldn't be liable for damages while it was.
 	* Dock owners should anticipate the risk of ships damaging their docks during storms.
@@ -1193,7 +1206,7 @@
 * Liability arises when that risk becomes actual harm.
 * *Litigation finance--the attorney fee* - Attorney fees are usually contingent, 250%-50% of a damage award.
 * *Liability insurance* - Policy limits for auto insurance are too low to cover serious injury.
-* *Settlement* - To determine a fair settlement value without a trial, ;awyers on both sides of a case try to determine what facts would be proved at trial and what legal rules are in play.
+* *Settlement* - To determine a fair settlement value without a trial, lawyers on both sides of a case try to determine what facts would be proved at trial and what legal rules are in play.
 
 ##### Assessing Responsibility
 * The concept of legal responsibility encompasses many factors:
@@ -1210,3 +1223,243 @@
 	4. ∂'s negligence was an actual cause of this damage.
 	5. ∂'s negligence was a *proximate* cause of the action.
 * Burden to prove (1) - (5) falls on π and all 5 must be proved.
+
+#### General Duty of Care: The Prudent Person Standard
+* The duty owed is to exercise the care that a reasonable & prudent person would.
+
+##### Stewart v. Motts
+* PA 1995, J. Montemuro
+
+* **Parties**
+	* π: Stewart
+	* ∂: Motts
+
+* **Facts**
+	* π was helping ∂ repair a fuel tank in ∂'s auto shop.
+	* π suggested that he pour gasoline into the carburetor while ∂ turn the key
+	* Sequence of events is disputed
+	* Car backfired & π was badly burned.
+
+* **Procedural History**
+	* At trial, π asked jury to be instructed that ∂ should've exercised "high degree of care" since they were working with gasoline
+	* Judge did not so instruct.
+	* Judge instructed jury that it was up to them to decide how a "reasonably prudent" person would act under the circumstances of the case & that "the amount of care" has to be "in keeping with the degree of danger"
+	* Jury found for ∂
+
+* **Issue**
+	* Is there a higher standard than "reasonable care" in circumstances of high risk?
+
+* **Reasoning**
+	* Working with gasoline demands a higher degree of care
+	* The level of care should be proportional to the danger
+	* Though the level of care changes, the standard is always "reasonable care"
+	* Jury instruction properly included reasonably prudent person standard and the proportionality guideline
+
+* **Holding**
+	* Affirmed, for ∂
+
+* **Rule**
+	* "reasonable care" is always the standard, even though the actual behavior may change in relation to the level of risk.
+ 
+* **Notes**
+	* Standard in negligence cases is whether a reasonable person under the same circumstances would've acted the same way.
+
+##### Bjorndal v. Weitman
+* OR 2008, J. Balmer
+
+* **Parties**
+	* π: Bjorndal
+	* ∂: Weitman
+
+* **Facts**
+	* π was driving at night on the highway looking for her dad on the side of the road.
+	* ∂ had been following π for ~20 mins. No evidence of following too closely.
+	* ∂ saw π's father waving his hands & thought there might be an emergency, so he took his eyes off the road (the opposite direction of the dad)
+	* When ∂ next looked up, he saw that π had slowed from 50mph to 10mph & tried to go around her to the left.
+	* π was about to turn left, & signaled she was doing so.
+	* ∂ didn't see the signal until it was too late & hit π's van.
+	* OR civil code contains an "emergency instruction" that says that when an emergency necessitates acting without thinking, there's no negligence if ∂ does something a reasonable person might do, even if it's not the "wisest" choice.
+
+* **Procedural History**
+	* ∂ asked at trial for jury to be instructed about OR's "emergency instruction"
+	* jury found that ∂ was not negligent
+	* π appealed saying:
+		* the instruction shouldn't have been given since ∂ created the emergency
+		* the instruction is invalid since it doesn't accurately reflect the law about negligence
+	* π said the standard was just 'do what a reasonable person would do knowing what ∂ knew or should've known at the time'
+
+* **Issue**
+	* Does the "emergency instruction" conflict with the common law standard for negligence?
+
+* **Reasoning**
+	* By introducing the concept of "the wisest choice" the emergency instruction redefines negligence by referring to conduct that is not negligent.
+	* Anyone is negligent who doesn't exercise reasonable care, where what is reasonable depends on what a reasonable person would do under the same circumstances.
+	* The idea of the wisest choice might make jurors think that an "unwise choice" is still okay under the law.
+	* Emergency circumstances are irrelevant to the standard of negligence (i.e. reasonable care), though they can be a part of the assessment of behavior under that standard.
+	* Instructions should have referenced only the standard.
+	* The bad instructions affected π's rights.
+
+* **Holding**
+	* Reversed.
+
+* **Rule**
+	* The reasonable care standard sufficiently states the responsibility ∂s must show.
+
+##### Shepherd v. Gardner Wholesale, Inc.
+* Person with cataracts (& extremely poor vision) tripped on a concrete slab in front of ∂'s store.
+* Someone with a disability isn't required to exercise a higher degree of care--just as much care as a reasonably prudent person with the same disability would use.
+
+* **Notes**
+	* Old age itself doesn't matter w.r.t. appropriate amount of care. Disabilities resulting from old age are treated like any other disability.
+	* If an act would be negligent when performed by a sober person, it is also negligent when that person is intoxicated.
+	* No liability for harm caused due to sudden unforeseen incapacitation.
+
+##### Creasy v. Rusk
+* IN 2000, Sullivan
+
+* **Parties**
+	* π: Creasy - Nursing assistant at BHC
+	* ∂: Rusk - Alzheimer's patient at BHC
+
+* **Facts**
+	* ∂ was a patient at BHC.
+	* He had sever Alzheimer's and often was disoriented, anxious, and belligerent, sometimes hitting the staff.
+	* π & another nurse were putting ∂ to bed while he protested violently
+	* ∂ kicked π several times in the knee & hip and it was painful enough for her to yell
+
+* **Procedural History**
+	* ∂ moved for summary judgment & it was granted
+	* π appealed
+	* Ct. of app. reversed saying that mental status is a factor in establishing duty 
+
+* **Issue**
+	* Does a person with a mental disability have the same duty of care as someone without such disability?
+
+* **Reasoning**
+	* Mental disability isn't an excuse for unreasonable behavior
+	* Mental or emotional disability is irrelevant to establishing negligence (unless actor is a child). 
+	* The above rule (from the restatement) is based on public policy reasons:
+		* We want to allocate loss between innocent parties
+		* incentivizes caretakers to keep their charges under control
+		* Removes "insanity defense" in tort claims
+		* Would be inefficient to make courts assess mental status in tort claims
+		* Responsibility for torts is part of the cost of being a part of society
+	* Legislative attempts to integrate people with mental disabilities require that such people are equal under the law
+
+* **Rule**
+	* The duty of care for the mentally disabled is the same as it is for everyone else.
+ 
+* **Notes**
+	* ∂ ended up still not being liable since there was implied consent in π's working at BHC
+	* A π can have *contributory negligence* that reduces the damages she may collect. Usually turns on π's duty to take reasonable care of herself.
+
+##### Hill v. Sparks
+* ∂ was an experienced operator of earth scrapers.
+* He asked his sister to climb on the ladder while he drove one, the machine hit a bump and she was thrown under the wheel & died almost instantly.
+* Sister's husband had earlier told a boy climbing a ladder to get off, warning of precisely this result.
+* If an actor has superior qualities (more than reasonable), she has to use those qualities in a reasonable way
+
+##### Robinson v. Lindsay
+* WA 1979, Utter
+
+* **Parties**
+	* π: Robinson
+	* ∂: Lindsay
+
+* **Facts**
+	* π lost the use of her thumb in a snowmobile accident
+
+* **Procedural History**
+	* Jury found for ∂
+	* Ct. instructed jury that the standard was what another reasonably careful *child* would do under the circumstances
+	* π objected that the correct standard was what a reasonably careful *adult* would do
+	* Trial ct. ordered new trial
+
+* **Issue**
+	* Should a minor be held to the same standard of care as an adult under the same circumstances?
+
+* **Reasoning**
+	* Holding children to an adult standard of care when they engage in dangerous activities both protects children and deincentivizes children to engage in dangerous behavior
+	* Children can still do age-appropriate activities while being held to the child standard of care
+	* We don't want *anybody* operating motorized equipment using anything less than a reasonable adult's standard of care.
+
+* **Holding**
+	* New trial is affirmed
+
+* **Rule**
+	* When a child engages in activity that is inherently dangerous, he is held to an adult standard of care.
+ 
+##### Hudson-Connor v. Putney
+* ∂, 14 years old, let 11-year-old kid use his golf cart.
+* kid hit the gas when he meant to hit the brake & hit π, breaking her leg.
+* ∂ is not held to the adult standard of care since
+	* adult skills aren't reqd to operate a golf cart
+	* golf carts aren't only operated by adults--not an "adult activity"
+* Kids don't need to exercise adult care when they're not engaged in "adult activity"
+* skill & judgment reqd to operate a machine are proportional to the potential for harm
+
+* **Notes**
+	* Child standard: Children must act in a way that a reasonably careful child of their age would act under the circumstances
+	* Rule of sevens - Some jurisdictions say:
+		* Kids > 14y are presumed capable of negligence
+		* Kids < 14 & > 7 are presumed incapable of negligence
+		* Kids < 14 are incapable of negligence as a matter of law
+	* Rule of 7s isn't common anymore.
+	* Most states say kids < 3 are incapable of negligence
+	* Third restatement says kids < 5 are incapable of negligence
+
+#### Specification of Particular Standards or Duties
+##### Marshall v. Southern Railway Co.
+* π ran into ∂'s railroad trestle at a point where the trestle caused the road to narrow
+* ∂ motioned for nonsuit & got it.
+* Ordinary care standard.
+* Ordinary care while operating a motor vehicle is to keep reasonably careful lookout & be able to stop within the range of his lights.
+
+#### Chaffin v. Brame
+* NC 1951, Ervin
+
+* **Parties**
+	* π: Chaffin
+	* ∂: Brame
+
+* **Facts**
+	* π was driving on a 18' wide highway at night
+	* ∂ had his brights on coming the other way & didn't dim them.
+	* π couldn't see, due to the lights, & hit a truck stopped in his lane
+
+* **Procedural History**
+	* At trial, ∂ argued π's contributory negligence, but jury found for π
+	* ∂ argued that, as a matter of law, it's negligent to drive at such a speed that you can't stop within the range of your headlights
+
+* **Issue**
+	* 
+
+* **Reasoning**
+	* Purpose of the law ∂ cited is to make people responsible for hitting things that were obviously in front of them
+	* But each case has to be decided on its own merits
+	* The real test is what a reasonable person would've done in the same circumstances
+	* π was keeping reasonable lookout
+	* π was going at a reasonable speed
+	* It was reasonable under the circumstances for π to expect ∂ to dim his lights & to not know about a truck stopped in the middle of the road without any warning signal
+
+* **Holding**
+	* 
+
+* **Rule**
+	* 
+ 
+* **Notes**
+	* If π was negligent "as a matter of law," a reasonable person couldn't find otherwise given the facts & gives a directed verdict
+
+##### Martin v. Herzog
+* ∂, driving at night, crossed the center line & struck a buggy, killing the person in the buggy.
+* ∂ said buggy was negligent in driving without lights.
+* Statute required all wheeled vehicles to have lights.
+* Trial judge said the lack of lights could be contributory negligence but not negligence simpliciter.
+* Jury found for π.
+* Appellate div reversed for new trial & Appeals ct affirmed (Cardozo!)
+* Not having lights was negligence, but jurors were told the omission could be innocent or culpable & to give it as much weight as they thought appropriate.
+* Jury was instructed incorrectly. They can't relax the force of the law. Boom.
+
+* **Notes**
+	* 

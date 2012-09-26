@@ -34,6 +34,13 @@
 		- [Transient presence](#transient-presence)
 		- [PJ on the web & internationally](#pj-on-the-web-&-internationally)
 		- [Revell v. Lidov](#revell-v-lidov)
+	- [September 24](#september-24)
+		- [Statutes of Personal Jurisdiction](#statutes-of-personal-jurisdiction)
+	- [Notice](#notice)
+		- [Mullane v. Central Hanover Bank & Trust Co.](#mullane-v-central-hanover-bank-&-trust-co)
+	- [September 25](#september-25)
+		- [Statutory requirements](#statutory-requirements)
+			- [National Dev. Co. v. Triad Holding Co.](#national-dev-co-v-triad-holding-co)
 
 # Civil Procedure Class Notes
 
@@ -303,4 +310,66 @@
 * The passivity (or not) of a website wouldn't really effect the harm of an article published on it. In *Calder*, if Shirley Jones could've emailed natl-enquirer.com or commented there, the harm would still have been done.
 * *Calder* inquiry & interactivity inquiry are the stage for the reasoning in *Revell*.
 * In some cases, the location of the harm caused is irrelevant (*contra Calder*). If someone in MI says a Dr kills all of his patients
+
+## September 24
+### Statutes of Personal Jurisdiction
+* States must write laws describing the circumstances under which they can assert PJ
+* CA's & RI's PJ laws say they can assert PJ whenever they are permitted to do so by the US Constitution. But that means that every PJ case in those states is a constitutional question.
+* States with narrower PJ laws (bright-line rules) gain efficiency by not having to litigate the constitutional issues
+* Elected state judges have an incentive to try to allow lawsuits to proceed which results in weird case law about PJ
+* Under the facts of *Gray v. American Radiator*, IL interpreted "a tortious act or omission in [IL]" to mean that since the damage occurred in IL, that's where the tort was. A NY ct using the same language decided that there was no act or omission in the NY, so there was no tort there.
+* GA PJ law explicitly provides for the case where an act outside of the state causes a tort inside the state.
+* Not always easy to tell from a statute what the legislature intended the statute to do.
+* Cts can either try to guess at the intent of a statute or read it literally & leave it up to the legislature to amend the statute if the result is other than what the legislature intended.
+* Pitfall in statutory interpretation is isolating the statute from its context
+* If one provision would make another provision either surplus or conflicting, it is wrong. 
+* Statutes have to be read as a whole.
+* In statutory interpretation, the specific always controls the general.
+* If there is more than one reasonable interpretation of the statute, and one interpretation would raise a constitutional issue at either the state or federal level, the interpretation without any issues is preferred.
+
+## Notice
+* Notice problems don't turn on the content of the notice.
+* Notice includes a summons and a complaint.
+* If there's a problem with the summons or complaint, it's not a notice problem.
+* Federal form 3 is a summons--almost idiot proof
+* Notice questions turn on what efforts are made & required to be made to get the summons in front of ∂.
+* "Actual notice" isn't sufficient if it doesn't meet constitutional requirements for adequate notice under due process.
+* "Actual notice" just means that ∂ knew of the proceeding
+
+### Mullane v. Central Hanover Bank & Trust Co.
+* An effort by NY to allow financial institutions to make some money by consolidating trusts into funds.
+* J. Jackson was a political ally of FDR's & was his SG.
+* HST asked him to prosecute at Nuremburg.
+* Trustee had to present its accounts to the court & if any of the beneficiaries had an issue with the way the trustee was going to distribute its funds, the proceeding in question was the last chance to do so.
+* Jurisdiction needed to be over the beneficiaries.
+* Not an in rem claim about the money in the fund, but rather an PJ issue of the rights of the beneficiaries.
+* 50% chance of winning $100k would be valued at $50k. After the judge rules, the chance is worth nothing. πs stand to lose property.
+* The reason we care about PJ over πs here is that they stand to lose property.
+* Whenever you have the potential of taking someone's property, due process must be fulfilled.
+* Means employed to serve notice must be such as you would use if you actually wanted to notify someone
+* "Best notice practicable under the circumstances"
+* Test isn't whether party was notified, rather it's whether the proper amount & type of effort was used in attempting to give notice
+* "Notice" is a notion of abstract justice.
+* Problem with Jackson's reasoning:
+	* It doesn't matter whether everyone gets notice, since as long as most do, the interests of all of them will be protected
+	* This isn't necessarily true.
+	* Mullane represents the beneficiaries, but among the recipients there can be two groups. Some may not care if the fund isn't maximizing revenue as long as they're minimizing risk. Others may want more profit even if it means more risk.
+
+## September 25
+* There's a universe of people over which cts can assert jurisdiction, and notice is how the state narrows it down to the people over whom it actually asserts jurisdiction
+* Post-*Mullane*, notice requirements have grown very strict. Notice has to account for the real-world circumstances.
+
+### Statutory requirements
+* If courts want bright-line rules about who is subject to PJ, they especially want bright-line rules about when notice is sufficient.
+* With a straightforward rule, there's less need to litigate
+* But if there's a bright-line rule, you have to follow it.
+* Notice has to meet the *Mullane* standard as well as any local statutory requirements
+
+#### National Dev. Co. v. Triad Holding Co.
+* Actual notice isn't sufficient if there was a failure to follow the rules of notice
+* Ct: Could it be said that K had some kind of permanent connection to NY apt?
+* Yes. He spent stupid amounts of money on remodeling.
+* "dwelling place" probably means "place with which a party has a permanent connection"
+* K's situation is one that the statute did not anticipate
+
 

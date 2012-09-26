@@ -31,6 +31,15 @@
 		- [Acting vs Having a Status: Status Crimes](#acting-vs-having-a-status:-status-crimes)
 			- [Robinson v. California](#robinson-v-california)
 			- [Jones v. City of Los Angeles](#jones-v-city-of-los-angeles)
+	- [Mens Rea](#mens-rea)
+		- [Regina v. Cunningham](#regina-v-cunningham)
+		- [Statutory interpretation](#statutory-interpretation)
+			- [United States v. Yermian](#united-states-v-yermian)
+			- [Holloway v. United States](#holloway-v-united-states)
+		- [Intent](#intent)
+			- [State v. Fugate](#state-v-fugate)
+		- [Knowledge](#knowledge)
+			- [United States v. Jewell](#united-states-v-jewell)
 
 # Criminal Law--Cases and Materials
 ## Basic Principles of the Criminal Law
@@ -895,27 +904,17 @@
 	* ∂s had a duty to act.
 	* If ∂s maliciously withheld food, they would be liable for murder
 
-* **Holding**
-	* 
-
-* **Rule**
-	* 
- 
-* **Dissent/Concurrence**
-	* 
-
-* **Notes**
-
 ### Acting vs Having a Status: Status Crimes
 #### Robinson v. California
 * SCOTUS 1962, J. Stewart
+* Addiction is a status
 
 * **Parties**
 	* π: Robinson - has track marks, convicted of drug addiction
 	* ∂: California
 
 * **Facts**
-	* CA law oulawing being addicted to narcotics
+	* CA law outlawed using **OR** being addicted to narcotics
 	* policeman noticed π's arms had track marks
 	* cop said π admitted occasional drug use
 	* π denies this conversation happened & said the tracks were from an allergy when he was in the military
@@ -944,6 +943,7 @@
 
 #### Jones v. City of Los Angeles
 * 9th circuit, 2006. C.J. Wardlaw
+* Homelessness is a status
 
 * **Parties**
 	* π: Jones
@@ -985,5 +985,207 @@
 	* Just because indivs aren't fully covered by government benefits, we should still be able to punish them
 	* πs didn't show that they couldn't get shelter on the specific nights they were arrested
 
-* **Notes**
-	* 
+## Mens Rea
+* The mental state given by the definition of an offense (the scienter or intent requirement)
+* Common law names "willfully" "maliciously" "corruptly" "intentionally" "knowingly" "recklessly" and "negligently" as kinds of mens rea.
+* MPC is more narrow:
+	1. Purposely
+	2. Knowingly
+	3. Recklessly
+	4. Negligently
+* (1) - (4) have a logical relationship to each other & always mean the same thing
+* Under MPC, if no other mens rea can be proved, proving "recklessness" is sufficient
+
+### Regina v. Cunningham
+* UK 1957, J. Byrne
+
+* **Parties**
+	* π: Regina
+	* ∂: Cunningham
+
+* **Facts**
+	* ∂ "maliciously" made Sarah Wade inhale coal gas
+	* ∂ stole the gas meter from Wade's house but didn't turn off the gas.
+	* The gas partially asphyxiated Wade while she slept
+
+* **Procedural History**
+	* Judge at trial instructed jury that "malicious" just meant "wicked"
+
+* **Issue**
+	* Was ∂'s action both "unlawful" *and* "malicious"?
+
+* **Reasoning**
+	* Maliciousness requires:
+		1. An intent to do the specific harm done
+		2. **OR** negligence regarding that harm--i.e. ∂ knew his behavior could cause harm but did it anyway
+	* Trial judge incorrectly instructed jury.
+
+* **Holding**
+	* Overturned.
+
+* **Rule**
+	* "Maliciousness" requires:
+		1. An intent to do the specific harm done
+		2. **OR** negligence regarding that harm--i.e. ∂ knew his behavior could cause harm but did it anyway
+
+### Statutory interpretation
+* Some crimes include a description of a mental state but it's not clear which element of the crime the mental state modifies
+
+#### United States v. Yermian
+* SCOTUS 1984, J. Powell
+* Knowingly making false statements not knowing they're being made to the federal government
+
+* **Parties**
+	* π: United States
+	* ∂: Yermian
+
+* **Facts**
+	* 18 U.S.C. § 1001 prohibits making false statements to a federal agency
+	* ∂ made false statements on a DoD questionnaire. 
+	* ∂ had been convicted of mail fraud but didn't disclose it.
+	* ∂ said he had been employed at 2 companies at which he never worked
+	* Form had a "true to the best of my knowledge" clause
+	* ∂ admitted knowing of the falsity of those statements
+	* ∂ said he didn't know the form was going to the gov't
+
+* **Procedural History**
+	* ∂ convicted of making false statements x3
+	* ∂ requested that jury be instructed that ∂ needed to know of gov't jurisdiction
+	* 9th circuit ct of app. reversed, saying dist. ct. didn't give jury that instruction
+	* ct. of app. interpreted "knowingly & willingly" to apply both to the falsity of the statement and to the circumstance that those statements are being given to a gov't agency
+
+* **Issue**
+	* Does π have to prove ∂ knew statement was false **AND** knew of agency's jurisdiction. Does "knowingly & willingly" apply just to giving false statements or does it also apply to giving those statements to a govt agency?
+
+* **Reasoning**
+	* II
+		* A
+			* The fed agency language in § 1001 is meant to establish jurisdiction--congress didn't intend "knowingly & willingly" to apply to it
+			* "k & w" only applies to the making of false statements
+			* π says legislative history is unpersuasive
+	* III
+		* Reading § 1001 as requiring knowledge of the jurisdiction would be weird 
+
+* **Holding**
+	* Reversed. Both legislative history & the language of § 1001 show that knowledge of jurisdiction isn't reqd for guilt.
+ 
+* **Dissent**
+	* Rehnquist, w/ Brennan, Stevens, & O'Connor
+	* Legislative history data is pretty sparse here.
+	* Ambiguity in a statute has to favor ∂s.
+
+#### Holloway v. United States
+* SCOTUS 1999, J. Stevens
+
+* **Parties**
+	* π: Holloway
+	* ∂: United States
+
+* **Facts**
+	* In carjackings, π and accomplice would go up to a car, accomp would pull a gun & threaten to shoot if vic didn't hand over keys
+	* Accomp said he would've used the gun if a vic had given him a "hard time"
+	* ∂ once punched a victim in the face, but there was no other violence
+
+* **Procedural History**
+	* Trial jury found π guilty of 3x carjacking & other offenses related to stealing cars
+	* District judge told jury that govt had to prove π took the cars with an intent to cause death or srs bodily harm to the car's owner
+	* Jury instruction said that, if π had intended to cause death or srs bodily harm if the vic didn't comply, that was sufficient, even if there was no death or srs bodily harm.
+	* π said this was inconsistent with the text of the statute
+	* Dist. judge said conditional intent was legit
+	* Ct. of App. affirmed
+
+* **Issue**
+	* In the carjacking law, does "with intent to cause death or serious bodily harm" require that unconditionally ∂ intend death or that ∂ intended to cause death in service of the carjacking?
+
+* **Reasoning**
+	* Statutory construction starts with the words the legislature used
+	* Then look at the purpose of the statute
+	* Question is whether the carjacking law meant to prohibit people from pointing guns at car owners with the intent to shoot them if they don't hand over the keys.
+	* π clearly had such an intent
+	* Intent may be conditional or unconditional
+	* π says the law intended the latter, so there has to be some attempt to harm or kill.
+	* Context of the law shows that the mental state, i.e. the intent, was meant to modify the taking of the car. If the taker is ready to kill when he takes the car, he is guilty.
+	* Law was intended to be a strong deterrent and the strict reading enhances that effect
+	* Congress would've known about *People v. Connors* which said that conditional intent to kill was sufficient mens rea
+	* An attacker can't condition violence on a requirement he has no right to impose
+
+* **Holding**
+	* Affirmed. Conditional intent to cause death or serious bodily harm is sufficient, even if death or srs bodily harm isn't caused
+ 
+* **Dissent**
+	* Scalia
+	* Intent, in normal usage, can't be conditional upon something actor hopes will not occur
+	* Intent is a state of mind wherein the actor attempts to accomplish some result by some course of action.
+	* One can't seek to accomplish something they hope won't happen
+	* "Intent to kill if resisted" is not "intent to kill"
+	* Words of the statute are the best indication of the legislative intent.
+	* If there's ambiguity, we need to favor ∂
+
+### Intent
+* Common law intent:
+	1. Actor's conscious purpose is to cause a result or engage in prohibited conduct
+	2. **OR** Actor knows with virtual certainty that actions will cause social harm
+* MPC uses "purposely" to denote (1) and "knowledge" to denote (2)
+* "natural & probable consequences" doctrine is a shortcut to proving intent
+
+#### State v. Fugate
+* OH Ct. of App. 1973, Kerns
+
+* **Parties**
+	* π: State (OH)
+	* ∂: Fugate
+
+* **Facts**
+	* ∂ entered a garage with a loaded shotgun.
+	* Hit the owner of the garage with the barrel of the shotgun, ordered him into the basement and shot him dead
+
+* **Procedural History**
+	* ∂ convicted of armed robbery & 1st deg murder
+	* ∂ appealed saying killing wasn't done "purposely"
+
+* **Issue**
+	* Can intent be proved without knowledge of ∂'s mental state?
+
+* **Reasoning**
+	* Intent is mental, so must be inferred from the observable circumstances surrounding the act.
+	* Intent can never be proved by a 3rd person's testimony.
+	* Intent to kill can be inferred when the "natural and probable consequence of a wrongful act is to produce death and such intent can be deduced from the circumstances" e.g. instrumentality & the nature of the fatal wound.
+	* Facts on record (weapon & wound) support intent.
+
+* **Holding**
+	* Intent to kill can be inferred when the "natural and probable consequence of a wrongful act is to produce death and such intent can be deduced from the circumstances" e.g. instrumentality & the nature of the fatal wound.
+ 
+### Knowledge
+* MPC: Actor has "knowledge" of a fact when he is aware of the fact or has a true belief that the fact exists.
+* Some jurisdictions equate actual knowledge with wilful blindness or deliberate ignorance.
+
+#### United States v. Jewell
+* 9th Circuit Ct. of App. 1976, Browning
+
+* **Parties**
+	* π: United States
+	* ∂: Jewell
+
+* **Facts**
+	* 21 U.S.C. §§ 841 and 960 require positive knowledge that controlled substances are involved in each offense
+	*  ∂ drove 110 pounds of marijuana into the US in a secret compartment between the trunk & the rear seat.
+	* Circumstances were such that it's possible infer that ∂ knew about the marijuana in the compartment.
+	* Alternatively possible to infer that he didn't know but did know of the possibility and avoided learning for certain.
+
+* **Procedural History**
+	* Trial jury was instructed that ∂ could be guilty beyond a reasonable doubt even if he didn't know the care he was driving had drugs in the trunk since he had to avoid looking in the trunk.
+	* ∂ says this instruction was incorrect.
+
+* **Issue**
+	* Is positive knowledge required to establish "knowledge" or is wilful ignorance sufficient?
+
+* **Reasoning**
+	* Avoiding learning facts that would constitute positive knowledge of a crime counts as "knowledge" for mens rea.
+	* The rule that wilful blindness == knowledge is everywhere in the law
+	* One knows things one isn't completely certain
+	* You have to know fairly well that criminal activity is occurring in order to avoid it and this is sufficient for "knowledge"
+	* Allowing deliberate ignorance to be a defense would make it very difficult  to prove guilt & this would defeat the purpose of the drug laws
+	* **LIMITING PRINCIPLE** Wilful ignorance is sufficient for knowledge only when there is a conscious purpose to avoid learning the truth.
+
+* **Rule**
+	* Wilful ignorance is sufficient to establish ''knowledge" as a mens rea

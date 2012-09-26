@@ -24,6 +24,17 @@
 				- [Mullane v. Central Hanover Bank & Trust Co.](#mullane-v-central-hanover-bank-&-trust-co)
 			- [Statutory Requirements](#statutory-requirements)
 				- [National Dev. Co. v. Triad Holding Corp](#national-dev-co-v-triad-holding-corp)
+	- [Subject Matter Jurisdiction](#subject-matter-jurisdiction)
+		- [State Courts and General Subject Matter Jurisdiction](#state-courts-and-general-subject-matter-jurisdiction)
+		- [Federal Courts and Limited Subject Matter Jurisdiction](#federal-courts-and-limited-subject-matter-jurisdiction)
+		- [Plaintiff's Burden to Establish Federal Subject Matter Jurisdiction](#plaintiff's-burden-to-establish-federal-subject-matter-jurisdiction)
+		- [Diversity of Citizenship & Alienage Jurisdiction](#diversity-of-citizenship-&-alienage-jurisdiction)
+			- [Strawbridge v. Curtiss](#strawbridge-v-curtiss)
+		- [Determining Citizenship of Individuals](#determining-citizenship-of-individuals)
+			- [Mas v. Perry](#mas-v-perry)
+		- [Determining Citizenship of Entities](#determining-citizenship-of-entities)
+			- [Corportations](#corportations)
+			- [Randazzo v. Eagle-Pitcher Industries, Inc.](#randazzo-v-eagle-pitcher-industries-inc)
 
 # Civil Procedure: Cases, Materials, and Questions
 
@@ -637,3 +648,83 @@ SCOTUS 1878, J. Field
 
 * **Rule**
 	* When someone has a lot of residences, you may serve process on them at whichever residence in which they are currently living.
+
+## Subject Matter Jurisdiction
+### State Courts and General Subject Matter Jurisdiction
+* States are free to create as many different kinds of courts as they want
+* The aggregate of all of the subject matter courts will have general subject matter jurisdiction (i.e. will be able to hear any kind of case)
+* Admiralty, bankruptcy, patent & copyright, and antitrust & securities litigation will all occur solely in federal court.
+
+### Federal Courts and Limited Subject Matter Jurisdiction
+* Article III of the Constitution establishes the federal courts
+* Jurisdiction of federal courts is not to the full extent allowed by the Constitution, but rather within limits imposed by Congress
+
+### Plaintiff's Burden to Establish Federal Subject Matter Jurisdiction
+* Parties can't grant jurisdiction to federal courts by consent
+* Federal case can be dismissed at *any* point along the way if federal court is found to not have subject matter jurisdiction at which point π has to start the case over again in state court
+* Presumption is against federal jurisdiction
+* π has to prove federal jurisdiction is valid
+
+### Diversity of Citizenship & Alienage Jurisdiction
+* Founders gave federal court original jurisdiction over cases involving aliens in order to show foreigners that the US took such matters seriously & wouldn't leave them up to state courts (Art. III)
+* Diversity of citizenship jurisdiction is meant to avoid home field advantage
+
+#### Strawbridge v. Curtiss
+* SCOTUS 1806, Marshall
+* All πs have to be from a different state as all ∂s -- Complete Diversity Rule
+
+### Determining Citizenship of Individuals
+#### Mas v. Perry
+* 5th Cir. 1974, Ainsworth
+
+* **Parties**
+	* π: Mas - Husband was French citizen, Wife was from MS
+	* ∂: Perry - landlord
+
+* **Facts**
+	* 28 USC § 1332 gives original jurisdiction in diversity of citizenship or alienage cases where more than $10k (now it's $75) is at stake
+	* Mases rented an apt from Perry in Baton Rouge
+
+* **Procedural History**
+	* Jury awarded Mr. Mas $5k & Mrs. Mas $15k in damages after finding that Perry had a two-way mirror in their apt.
+	* At trial, Perry moved to dismiss saying ct lacked jurisdiction.
+	* Dist. ct. denied. 
+
+* **Issues**
+	1. Did district ct. here properly uphold original jurisdiction?
+	
+* **Reasoning**
+	* Perry was a LA citizen, Mr. Mas was French, and Mrs. Mas was a MS citizen, therefore diversity of citizenship.
+	* The citizenship that counts for jurisdiction is the citizenship of the parties at the  time the complaint is filed.
+	* Citizenship in a state requires: (1) US citizenship and (2) domicile in that state
+	* Living somewhere as a student isn't sufficient to establish domicile
+	* The amounts of money required to establish original Federal jurisdiction are the amounts asked for in good faith by the plaintiffs. If the final judgments are less than the required amount, that doesn't invalidate jurisdiction.
+	* If Fed ct. has jurisdiction relating to one spouse's action against a defendant relating to a transaction, it should have jurisdiction relating to the other spouse's action relating to the same transaction.
+
+* **Holding**
+	* Yes. Diversity of citizenship was established.
+
+### Determining Citizenship of Entities
+* Businesses may be either corporate or non-corporate
+* No legislation for citizenship of non-corporate entities (e.g. unions, LLCs, ins. assns., joint ventures, & partnerships)
+
+#### Corportations
+* Corporations are their own entities over & above the people who work there.
+* Limited liability - if a corp. commits a tort, breaches contract, it is liable rather than any of the employees.
+
+#### Randazzo v. Eagle-Pitcher Industries, Inc.
+* Fed. Dist. Ct. 1987
+
+* **Parties**
+	* π: Randazzo
+	* ∂: Eagle-Pitcher Industries, Inc.
+
+* **Procedural History**
+	* π's complaint didn't allege ∂'s state of incorporation or principal place of business, and so didn't establish diversity jurisdiction.
+
+* **Reasoning**
+	* A registered office isn't the same thing as a principal place of business
+	* Corporations have dual-citizenship: where they're incorporated and in their principal place of business. Both need to be distinct from the other party's in order to establish diversity jurisdiction.
+
+* **Notes**
+	* Dismissing a case "with prejudice" means that π can't file another suit on the same claim.

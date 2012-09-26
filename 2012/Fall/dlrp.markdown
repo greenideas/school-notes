@@ -24,6 +24,8 @@ Jeff Nieman
 * Revocation is indefinite.
 * ∂ gets an additional charge.
 	* If ∂ is convicted of DWLR, **or** speeding 81 in 65 or less, license will be revoked for at least a year.
+* Tickets only show up on driving record if they're for moving violations, except for improper equipment.
+
 * **A moving violation conviction while DWLR results in a one-year suspension.**
 ## Moving Violations
 * Speeding, C&R, Following too close, DWI, failure to yield to an emergency vehicle, no insurance, DWLR, No Operator's License (expired, never got one, don't have it on you), unsafe movement (got in a wreck), open container (if driver--if it's the passenger, it's a non-moving violation), left of center, passing a stopped school bus, child seat/child seatbelt
