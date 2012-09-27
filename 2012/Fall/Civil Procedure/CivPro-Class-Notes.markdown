@@ -41,6 +41,12 @@
 	- [September 25](#september-25)
 		- [Statutory requirements](#statutory-requirements)
 			- [National Dev. Co. v. Triad Holding Co.](#national-dev-co-v-triad-holding-co)
+	- [September 26](#september-26)
+	- [F.R.C.P. Rule 4](#frcp-rule-4)
+		- [Right to a hearing](#right-to-a-hearing)
+		- [Subject matter jurisdiction](#subject-matter-jurisdiction)
+		- [Strawbridge v. Curtiss](#strawbridge-v-curtiss)
+		- [Mas v. Perry](#mas-v-perry)
 
 # Civil Procedure Class Notes
 
@@ -372,4 +378,72 @@
 * "dwelling place" probably means "place with which a party has a permanent connection"
 * K's situation is one that the statute did not anticipate
 
+## September 26
+## F.R.C.P. Rule 4
+* Rule 4(d) is about waiving service of process. π can request that ∂ waive service of process.
+* Rule 4(e) covers the positive process of serving process. 4(e)(1) is just about the states, and 4(e)(2) gets into Federal procedure.
+* Service of process statutes are distinct from long-arm statutes.
+* 4(f) is service in a foreign country.
+* 4(h) is service of a corporation. Refers back to 4(e)(1) allowing service of process according to state law. The other way to do it is to serve process to an officer of the corporation
+	* "officer" is a term of art. 
+* Standard for who can be served in a corporation: 
+	* Do the duties of the position require the person in that position to routinely handle important documents?
+* 4(k)(1)(B) applies only in a very narrow set of circumstances.
+* 4(l) requires proof of service, though failure to prove service doesn't affect the validity of service.
+* 4(m) is a recent addition. Before it was added, there wasn't any time limit after a claim was filed for serving process.
+* In most cases, as long as claims are filed w/in the statute of limitations, process may be served after. Though some states require both the claim to be filed and process to be served within the statute of limitations.
 
+### Right to a hearing
+* It's rare for the government to act against a person without giving that person a hearing, but it does happen.
+	* Temporary restraining order (TRO) - no more than 10 days - prevent person from irreparably damaging another person or property
+		* It's necessary to attempt to notify person against whom restraining order has been asked, but a court can apply the TRO *ex parte*
+		* Next step is a preliminary injunction.
+		* If the damage is something that could be fixed with money, it's not irreparable, and so TRO isn't an option.
+		* Person requesting a TRO may have to pay a bond in case the other party incurs damage due to the delay.
+	* Seizures of property 
+		* Repossession.
+		* SCOTUS upheld seizure of property without notice when:
+			* party attempting seizure had interest in the property and that interest was demonstrable through incontrovertible (paper) record
+			* party has to post a bond to protect against damage
+			* party property is taken from has to be able to get a hearing ASAP after the seizure without any kind of bond in order to explain their rights to the property
+
+### Subject matter jurisdiction
+* In other legal systems, called "competence"
+* Categories of cases a court is allowed to hear
+* Contrasted to PJ, which is about which people can appear before the court
+* General subject matter jurisdiction v. limited subject matter jurisdiction
+* In subj. matter court, first thing you have to do is prove jurisdiction
+* **NC --> dist.ct --> superior ct. --> ct. of app. --> supreme ct.**
+* NC: Family matters go straight from dist. ct. to ct. of app.
+* NC: special business ct. at the superior ct. level
+* Federal cases can be heard in state ct.
+* 1787, Constitutional Convention
+* Articles of Confederation didn't really integrate the states
+* State cts focused on state law, even when state law conflicted with treaties the US had entered into. Such as those regarding debts to England.
+* English merchants couldn't effectively sue in state cts to recover debts
+* This violated treaties, so England reciprocated by refusing to honor their end of the treaties
+* Hard to govern as big an area as the US (even in 1787)
+* Confer some powers to central govt but leave the rest to the local authorities in the states.
+* Article III doesn't require any fed. dist. cts. (though it permits them)
+* Article III § 2 is a whitelist. Any power not listed there doesn't belong to the judicial system.
+	* Treaties
+	* Int'l
+	* Admiralty
+	* b/w states & other states,
+	* b/w states & citizens of other states
+	* b/w citizens of different states
+* Fed ct has original jurisdiction in cases about int'l matters & those between states. Otherwise they have appellate jurisdiction.
+* Only crime defined in the constitution is treason to prevent English-style abuse of the charge
+* Admiralty (privateers were a big problem), diversity of citizenship, & alienage.
+* [Form 7](http://www.uscourts.gov/RulesAndPolicies/FederalRulemaking/RulesAndForms/IllustrativeCivilRulesForms.aspx) for alleging personal jurisdiction
+* Probably the most basic & most important thing to do in a federal proceeding
+* If it's a diversity case, the law applied will be state law.
+* Subject matter jurisdiction is not waivable.
+
+### Strawbridge v. Curtiss
+* Rule of complete diversity: All πs have to be from different states from all of the the ∂s. [28U.S.C. § 1332](http://www.law.cornell.edu/uscode/text/28/1332)
+
+### Mas v. Perry
+* Domicile: "fixed, true, permanent home and principal establishment to which he has the intention of returning whenever he is absent therefrom . . . ."
+* Domicile changes only when you move & you intend to stay there.
+* If you leave your domicile intending never to return, your domicile still doesn't change until you intend to make a new place your home,

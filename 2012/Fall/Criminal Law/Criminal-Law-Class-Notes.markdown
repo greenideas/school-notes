@@ -30,6 +30,9 @@
 		- [Robinson v. California](#robinson-v-california)
 		- [Jones v. City of Los Angeles](#jones-v-city-of-los-angeles)
 		- [Mens Rea](#mens-rea)
+	- [September 26](#september-26)
+		- [US v. Yermian](#us-v-yermian)
+		- [Model Penal Code](#model-penal-code)
 
 # Criminal Law Class Notes
 
@@ -223,3 +226,20 @@
 * Criminal negligence requires a gross deviation from reasonable care, whereas tortious negligence requires only an ordinary deviation from reasonable care.
 * Purposely applies to every element of the crime, unless specified otherwise in the statute
 * Willfully == "super-purposely"
+
+## September 26
+* LH p. 987 - MPC definitions of kinds of intent
+* Recklessness requires that ∂ subjectively appreciated an unjustifiable risk but acted anyway
+* Negligence doesn't require that ∂ appreciated the risk--just that ∂'s action was a gross deviation from a reasonable standard of care.
+* Narrowing of the mens rea requirement protects against wrongful conviction.
+
+### US v. Yermian
+* The jurisdictional question is a circumstantial one (as opposed to a conduct or intent question).
+
+### Model Penal Code
+* § 2.02 (3) -- *Culpability required unless otherwise provided*
+	* Unless the mens rea requirement requirement for a particular element of a crime is explicitly given by statute, then the standard is either "purposely," "knowingly," or "recklessly."
+* § 2.02 (4) -- *Prescribed culpability requirement applies to all material elements*
+	* If a mens rea requirement is specified and isn't targeted at one particular element of the crime, it applies to all of the elements.
+* § 1.13 (10)
+	* Jurisdiction is *not* a material element of a crime. Neither is statute of limitations , venue, or anything else that isn't (1) the specific harm prohibited by the law, or (2) any exculpatory circumstances written into the law.

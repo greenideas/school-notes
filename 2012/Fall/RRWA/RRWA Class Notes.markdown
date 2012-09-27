@@ -12,6 +12,9 @@
 		- [Using introductory signals (Bluebook B3)](#using-introductory-signals-bluebook-b3)
 	- [September 20](#september-20)
 		- [Email memo comments](#email-memo-comments)
+	- [September 27](#september-27)
+		- [Explanatory Parentheticals](#explanatory-parentheticals)
+		- [Research assignment](#research-assignment)
 
 # RRWA Class Notes
 * [8/27/2012][8-27-2012]
@@ -149,3 +152,37 @@
 
 ### Email memo comments
 * Lead with the most binding authority
+
+## September 27
+### Explanatory Parentheticals
+* Efficient way to convey info about a cited case.
+* Use present participles.
+* Not capitalized unless it's a quote
+* If it's a quote, start it with a capital even if the quote didn't start with a cap.
+* No period inside paren unless it's a quote, then always include the period (in brackets)
+* In a string cite, start with the highest authority and proceed to the lowest.
+
+### Research assignment
+* **Issue**
+	* Under North Carolina law 
+		* does a buyer in the ordinary course of business have title to the goods purchased when the seller mistakenly acquired those goods?
+		* ...when the original owner mistakenly entrusted those goods to the merchant?
+		* Did Wong entrust the good to Segal when he took the wrong box from the trunk?
+		* Did Wong transfer title to Segal when she dropped off the box of electronics.
+		* Does title of property pass to BOCB when property without good title is sold by a merchant who usually deals in those kinds of goods
+* Take legally significant terms (BOCB, "good faith") out of issues, since that presumes a lot about the case.
+* **Conversion**
+	* *Peed v. Burleson*, 244 NC 437 (1956)
+	* (*) *Toyomenka*
+	* *Gadson v. Toney* 69 NC App 244 (1984)
+	* *Stratton*
+	* *Hawkins v. M&J Finance Corp.*
+	* (*) *Variety Wholesalers*
+	* (*) *American Clipper*
+	* *NC Nat'l Bank v. Robinson*
+* **UCC/BOCB**
+	* 	(*) *American Clipper* - entrustment
+	* *NC Nat'l Bank v. Robinson* - entrustment
+	* *Chevrolet Buick BMW Inc. v. Peterbilt of Florence*
+	* N.C.G.S. 25-2-403
+	* N.C.G.S. 25-2-201

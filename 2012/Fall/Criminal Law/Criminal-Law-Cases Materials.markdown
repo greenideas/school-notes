@@ -1017,7 +1017,7 @@
 * **Reasoning**
 	* Maliciousness requires:
 		1. An intent to do the specific harm done
-		2. **OR** negligence regarding that harm--i.e. ∂ knew his behavior could cause harm but did it anyway
+		2. **OR** recklessness regarding that harm--i.e. ∂ knew his behavior could cause harm but did it anyway
 	* Trial judge incorrectly instructed jury.
 
 * **Holding**
@@ -1026,7 +1026,7 @@
 * **Rule**
 	* "Maliciousness" requires:
 		1. An intent to do the specific harm done
-		2. **OR** negligence regarding that harm--i.e. ∂ knew his behavior could cause harm but did it anyway
+		2. **OR** recklessness regarding that harm--i.e. ∂ knew his behavior could cause harm but did it anyway
 
 ### Statutory interpretation
 * Some crimes include a description of a mental state but it's not clear which element of the crime the mental state modifies

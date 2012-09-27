@@ -33,7 +33,7 @@
 		- [Determining Citizenship of Individuals](#determining-citizenship-of-individuals)
 			- [Mas v. Perry](#mas-v-perry)
 		- [Determining Citizenship of Entities](#determining-citizenship-of-entities)
-			- [Corportations](#corportations)
+			- [Corporations](#corporations)
 			- [Randazzo v. Eagle-Pitcher Industries, Inc.](#randazzo-v-eagle-pitcher-industries-inc)
 
 # Civil Procedure: Cases, Materials, and Questions
@@ -708,7 +708,7 @@ SCOTUS 1878, J. Field
 * Businesses may be either corporate or non-corporate
 * No legislation for citizenship of non-corporate entities (e.g. unions, LLCs, ins. assns., joint ventures, & partnerships)
 
-#### Corportations
+#### Corporations
 * Corporations are their own entities over & above the people who work there.
 * Limited liability - if a corp. commits a tort, breaches contract, it is liable rather than any of the employees.
 
