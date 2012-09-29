@@ -275,6 +275,7 @@
 ## September 17
 ### Goodyear Dunlop Tires Operations, S.A. v. Brown
 * In *Helicopteros*, SCOTUS established that purchases by themselves are never sufficient for personal jurisdiction.
+* There are a million Wal-Marts in TX, but cts have still said TX doesn't have general jurisdiction over Wal-Mart, since there are Wal-Marts all over.
 
 ## September 18
 * Explicit content vs. implied (deemed) consent

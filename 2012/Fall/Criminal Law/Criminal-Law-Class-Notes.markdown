@@ -33,6 +33,9 @@
 	- [September 26](#september-26)
 		- [US v. Yermian](#us-v-yermian)
 		- [Model Penal Code](#model-penal-code)
+	- [September 28](#september-28)
+		- [Holloway v. US](#holloway-v-us)
+		- [State v. Fugate](#state-v-fugate)
 
 # Criminal Law Class Notes
 
@@ -243,3 +246,17 @@
 	* If a mens rea requirement is specified and isn't targeted at one particular element of the crime, it applies to all of the elements.
 * § 1.13 (10)
 	* Jurisdiction is *not* a material element of a crime. Neither is statute of limitations , venue, or anything else that isn't (1) the specific harm prohibited by the law, or (2) any exculpatory circumstances written into the law.
+
+## September 28
+### Holloway v. US
+* Another way to think of mens rea (in addition to as prohibited mental state) is as subjective fault.
+* When "knowingly" is at the beginning of the statute, most courts will interpret that as applying to every element of the crime.
+* ∂ can't negate a prescribed intent reqment by placing a requirement on the victim that he had no right to impose
+* This result would have been the same under the MPC, since conditional intent is allowed in the MPC.
+* Exception to conditional intent allowance in MPC is the case where the condition is meant to negate the evil that the statute prohibits.
+
+### State v. Fugate
+* "Natural & probable consequences" doctrine is a shortcut to proving mens rea.
+* In most jurisdictions, "nat'l & prob. cons." doctrine is limited to establishing intent to kill.
+* deadly weapon rule is another shortcut, that lets us establish intent to kill if you point a deadly weapon at a vital part of a person's body
+* instrumentality in deadly weapon rule has to be something made or adapted for the purpose of killing

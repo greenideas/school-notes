@@ -89,6 +89,8 @@
 				- [Marshall v. Southern Railway Co.](#marshall-v-southern-railway-co)
 			- [Chaffin v. Brame](#chaffin-v-brame)
 				- [Martin v. Herzog](#martin-v-herzog)
+				- [O'Guin v. Bingham County](#o'guin-v-bingham-county)
+			- [Impson v. Structural Metals, Inc.](#impson-v-structural-metals-inc)
 
 # Torts & Compensation - Dobbs
 ## Tort Law: Aims, Approaches and Processes
@@ -1022,7 +1024,7 @@
 #### Ashcraft v. King
 * Patient only consented to blood transfusions from family during operation.
 * Family donated blood for this purpose.
-* Family blood was not used.
+* Family blood was not used.	
 * The blood that was used was infected with HIV.
 * Battery, since the consent didn't apply to non-family blood. (Scope of consent was exceeded)
 
@@ -1290,6 +1292,7 @@
 
 * **Issue**
 	* Does the "emergency instruction" conflict with the common law standard for negligence?
+	* Do we modify the standard of care for emergencies?
 
 * **Reasoning**
 	* By introducing the concept of "the wisest choice" the emergency instruction redefines negligence by referring to conduct that is not negligent.
@@ -1461,5 +1464,105 @@
 * Not having lights was negligence, but jurors were told the omission could be innocent or culpable & to give it as much weight as they thought appropriate.
 * Jury was instructed incorrectly. They can't relax the force of the law. Boom.
 
+##### O'Guin v. Bingham County
+* ID 2005, Trout
+
+* **Parties**
+	* π: O'Guin
+	* ∂: Trout
+
+* **Facts**
+	* π's songs were killed when playing in ∂'s landfill when the wall of a pit fell & crushed them.
+	* Their brother found their bodies.
+	* They had entered the landfill by leaving school through an unlocked gate & crossing a privately-owned empty field
+	* No barrier to entering the landfill (at least not where the kids got in--there was a fence in parts)
+	* No landfill employees were present since it was closed that day
+
+* **Procedural History**
+	* πs sued for negligence
+	* At trial, summary judgment was granted for ∂
+	* π appealed
+
+* **Issue**
+	* Can a duty of care standard be established by statute?
+
+* **Reasoning**
+	* Negligence *per se* is the violation of a specific statutory requirement
+	* Statutes establish the duty of care
+	* To replace common law standard of negligence with a statute:
+		1. *law must clearly define the standard of care*
+			* The law clearly defines the standard of care ∂s owed to πs: ∂ had to fence off the landfill when there were no employees on duty
+		2. *law must be intended to prevent kind of harm for which πs seek redress*
+			* The law was intended specifically to "ensure protection of human health . . ."
+		3. *π has to be a member of the class the law meant to protect*
+			* The law clearly applies to children--didn't matter that they weren't authorized to be there.
+		4. *the behavior violating the statute has to be the proximate cause of the harm*
+			* This is at least a disputed matter of fact
+	* The situation fits all of the statutory requirements for negligence on ∂'s part, so no need to go beyond that & look at the common law standard.
+
+* **Holding**
+	* Summary judgment vacated & case remanded.
+
+* **Rule**
+	* Statutes may be used to establish standards of care other than just the "reasonably prudent person" standard.
+ 
+* **Dissent**
+	* The negligence statute was not intended to cover situations like this.
+	* The landfill regs were intended to prevent illegal dumping--not keep trespassers safe
+	* "health" doesn't mean freedom from accidents (i.e. "safety")--it just means freedom from disease
+
 * **Notes**
-	* 
+	* Negligence *per se* is a failure to exercise the proper standard of care according to a statute designed to protect a class of persons of which the injured person is a member from that type of injury in particular.
+	* It's up to courts to decide whether to apply a statutory standard instead of the common law one.
+	* Standard defaults to common law if there isn't a statutory that supersedes it.
+
+#### Impson v. Structural Metals, Inc.
+* TX 1972, Greenhill
+
+* **Parties**
+	* π: Impson
+	* ∂: Structural Metals, Inc.
+
+* **Facts**
+	* ∂'s truck tried to pass a car w/in 100ft of an intersection
+	* π's car turned left at the intersection & the truck hit it
+	* Some of the passengers were injured & one was killed
+	* Passing w/in 100ft on an intersection was prohibited by statute
+
+* **Procedural History**
+	* Jury decided that the truck did try to pass w/in 100ft of the intersection
+	* Trial judge said that the violation of the traffic law was sufficient to establish negligence.
+	* App. ct said that since ∂ claimed extenuating circumstances, the negl. question had to go to a jury.
+	* π appealed.
+
+* **Issue**
+	* Under what circumstances may negligence *per se* be excused?
+
+* **Reasoning**
+	* Restatement says that an excused violation of a statute isn't negligence.
+	* The acceptable kinds of excuses are (according to the 2nd restatement):
+		1. The actor's incapacity
+			* age, physical disability, sudden heart attack
+		2. Actor doesn't *& shouldn't* know of he wasn't compliant
+			* tail light was out & didn't know
+		3. Actor can't comply after "reasonable diligence or care"
+		4. Actor has an emergency he didn't cause
+			* tire blowout, brakes fail
+		5. Compliance would create a greater risk to actor or to others
+	* ∂ said he forgot there was an intersection & had his eye on the car in front
+	* none of the excuse criteria are met
+
+* **Holding**
+	* Remanded to determine damages
+
+* **Rule**
+	* An excused violation of law (where the excuse is one of the above categories) is not negligence.
+ 
+* **Notes**
+	* Third restatement amends the excuse criteria. Conduct is "excused & not negligent" if:
+		1. ∂ is unable to fulfill duty due to being a child, physically disabled, or physically incapacitated.
+		2. ∂ uses reasonable care in trying to comply
+		3. ∂ doesn't & has no reason to know of the circumstances that make the statute applicable
+		4. ∂'s violation is due to the confusing way the statute is presented
+		5. Compliance would involve greater risk to ∂ or to others.
+	* A minor's violation of a statute can't itself be negligence (no negligence *per se* for minors), but it can be evidence of negligence.

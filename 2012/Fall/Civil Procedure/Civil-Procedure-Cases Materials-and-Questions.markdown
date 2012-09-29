@@ -594,7 +594,7 @@ SCOTUS 1878, J. Field
 	* When the first investment was made into the common fund on behalf of each individual trust, the beneficiaries were notified individually by mail
 
 * **Procedural History**
-	* NY Ct. of Appeals 
+	* NY Ct. of Appeals
 
 * **Issue**
 	* Is notice of a proceeding involving many parties published in a local newspaper sufficient for 14th amendment due process?
@@ -608,7 +608,7 @@ SCOTUS 1878, J. Field
 	* Nobody is going to see notice published in a newspaper--especially people who aren't local
 	* Beneficiaries' appointed representatives (trustees) are actually the adversaries here.
 	* Successful notice to most (but not all) beneficiaries would be just as good as notice to all, since all beneficiaries would benefit from the increased stability of the fund due to the majority's objections
-	* Notice here is insufficient because it couldn't hope to reach even most of the beneficiaries.
+	* Notice here is insufficient because it couldn't hope to reach even most of the beneficiaries.h
 
 * **Holding**
 	* The proceedings deprived πs of property rights, but notice of those proceedings by publication in a local newspaper was inadequate for those whose addresses were known (reversed). For those whose addresses were not known, publication of notice was sufficient (affirmed) 

@@ -40,6 +40,10 @@
 			- [State v. Fugate](#state-v-fugate)
 		- [Knowledge](#knowledge)
 			- [United States v. Jewell](#united-states-v-jewell)
+		- [Special problems in intent](#special-problems-in-intent)
+			- [Transferring intent](#transferring-intent)
+				- [Regina v. Pemberton](#regina-v-pemberton)
+			- [People v. Scott](#people-v-scott)
 
 # Criminal Law--Cases and Materials
 ## Basic Principles of the Criminal Law
@@ -1189,3 +1193,90 @@
 
 * **Rule**
 	* Wilful ignorance is sufficient to establish ''knowledge" as a mens rea
+
+### Special problems in intent
+#### Transferring intent
+* Intent to do one thing can't be substituted as intent to do a completely different thing. Intent to steal rum isn't the same thing as intent to burn down a ship.
+* *However*, if one performs an action with the intent to commit a crime against one person or thing and ends up committing that crime against a different person or thing, that intent may be transferred.
+
+##### Regina v. Pemberton
+* 1874, Coleridge
+
+* **Parties**
+	* π: Regina
+	* ∂: Pemberton
+
+* **Facts**
+	* ∂ and friends were kicked out of a pub for being disorderly & all got in a fight outside the prosecutors window
+	* ∂ threw a stone at one of his friends & it hit the prosecutors window
+
+* **Procedural History**
+	* Trial jury convicted ∂ of malicious injury to property.
+
+* **Issue**
+	* Can the intent to harm a person transfer to harming property
+
+* **Reasoning**
+	* ∂ was convicted of malicious injury to property, but that law requires that the injury be done "wilfully & intentionally"
+	* If ∂ had thrown the stone recklessly, it would've been sufficient for guilt.
+	* Since he threw it intending to injure a person and not property, he can't be convicted of injury to property.
+
+* **Holding**
+	* Conviction overturned.
+
+* **Rule**
+	* Intent can't transfer from one crime to another.
+ 
+* **Concurrence**
+	* ∂ broke the window without intent.
+
+#### People v. Scott
+* CA 1996, Brown
+* Scott & Brown shot an automatic weapon into a public park intending to kill one person, but actually killing a bystander.
+
+
+* **Parties**
+	* π: People
+	* ∂: Scott
+
+* **Facts**
+	* Calvin Hughes was dating Scott's sister.
+	* They broke up & got in a physical fight.
+	* Codefs came over & forced Hughes out of the sister's apartment.
+	* Hughes came by the next day to get his stuff, & forced his way in to do so.
+	* Later, Hughes & some of his friends & family were in a nearby park.
+	* 3 cars entered the park. Codefs were in the first one & they opened fire on Hughes's group.
+	* Some members of the group were hit & one, Jack Gibson, was killed.
+
+* **Procedural History**
+	* 1st trial had a deadlocked jury.
+	* 2nd trial, π said ∂s had premeditated intent to kill Hughes but killed Gibson instead.
+	* at π's request, ct. instructed jury on the CA transferred intent statute
+	* jury convicted ∂s of 2nd deg murder & 2x assault with a firearm.
+	* ∂s appealed saying transferred intent only applies when the charge is 1st deg murder of the unintended victim & not also attempted murder of the intended victim
+	* Ct. of app. rejected that argument
+
+* **Issue**
+	* Under transferred intent doctrine, can a ∂ be convicted of the murder of the bystander as well as the attempted murder of the intended victim?
+
+* **Reasoning**
+	* CA common law, when a shooter misses his intended target, intent to kill one person is sufficient to convict for the murder of the actual victim.
+	* When someone accidentally kills one person when they intend to kill another, society is harmed as much as if they intended victim was killed.
+	* Common law notion of transferred intent persisted after CA adopted its murder statute
+	* Intent is "used up" in its transference. Just because it's transferred to the murder of the bystander, it's still part of the attempted murder of the intended victim.
+	* "transferred intent" doesn't mean that there is a literal transfer of intent. It's a legal fiction--not a finite resource. We have transferred intent for policy reasons.
+	* ∂ argues that prosecuting for 1st deg murder of bystander as well as attempted murder of the intended victim is prosecuting the intent to kill two people. *People v. Birreuta* said someone who contemplates two murders is more culpable than someone who only intends one.
+		* However, in *Birreuta*, the intended victim was killed (along with a bystander) so it's not necessary to use transferred intent.
+		* Someone who intends to kill two people is more culpable than someone who intends to kill one and kills two by mistake. Using transferred intent to ascribe 1st degree intent to the bystander eliminates the distinction in culpability.
+		* Courts have gone both ways on this.
+		* But since only one person, the bystander, was killed, *Birreuta* is irrelevant.
+	* The case law is clear here. ∂s intended the premeditated killing of one person, but killed a bystander instead. Under those circumstances, intent to kill the intended victim is transferred to the bystander.
+	
+* **Holding**
+	* Conviction affirmed
+
+* **Rule**
+	* When one intends to kill one person but kills another instead, ∂ can be convicted of the murder of the actual victim as well as attempted murder of the intended victim.
+	
+* **Notes**
+	* 

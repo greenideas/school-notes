@@ -44,6 +44,9 @@
 			- [Vincent v. Lake Erie Transportation Co.](#vincent-v-lake-erie-transportation-co)
 			- [Private Necessity](#private-necessity)
 	- [Negligence](#negligence)
+		- [Elements of Negligence](#elements-of-negligence)
+	- [September 28](#september-28)
+		- [Intentional Torts Review](#intentional-torts-review)
 
 # Torts
 
@@ -293,3 +296,18 @@ Insurance is an alternative to the tort system
 ## Negligence
 * Broad category of torts
 * Conduct that creates an unreasonable risk of harm
+
+### Elements of Negligence
+1. Duty
+2. Breach
+3. Causation
+4. Damages
+* Standard of care is what a reasonable and prudent person would do under the same or similar circumstances would do.
+* Reasonableness is an objective standard
+* Setting reasonableness as a standard is how we enforce a homogenous, appropriate level of risk tolerance.
+* The duty question is a matter of law (not generally up to the fact-finder).
+* Without duty, there is no breach, and so no liability.
+
+## September 28
+### Intentional Torts Review
+* Re: the guy who hurt himself escaping from the false imprisonment, the bank is liable for the dislocated shoulder under extended liability. Once the false imprisonment tort is established, then the bank is liable for all of the harm that results from that imprisonment.
