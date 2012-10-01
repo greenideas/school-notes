@@ -35,6 +35,12 @@
 		- [Determining Citizenship of Entities](#determining-citizenship-of-entities)
 			- [Corporations](#corporations)
 			- [Randazzo v. Eagle-Pitcher Industries, Inc.](#randazzo-v-eagle-pitcher-industries-inc)
+			- [Hertz Corporation v. Friend](#hertz-corporation-v-friend)
+			- [Non-incorporated businesses](#non-incorporated-businesses)
+			- [Belleville Catering Co. v. Champaign Market Place LLC](#belleville-catering-co-v-champaign-market-place-llc)
+			- [Representative suits & assignments of claims](#representative-suits-&-assignments-of-claims)
+			- [Domestic relations & probate exceptions](#domestic-relations-&-probate-exceptions)
+			- [Amount in controversy requirement](#amount-in-controversy-requirement)
 
 # Civil Procedure: Cases, Materials, and Questions
 
@@ -728,3 +734,98 @@ SCOTUS 1878, J. Field
 
 * **Notes**
 	* Dismissing a case "with prejudice" means that π can't file another suit on the same claim.
+
+#### Hertz Corporation v. Friend
+* SCOTUS 2010, Breyer
+
+* **Parties**
+	* π: Hertz Corporation
+	* ∂: Friend - (& Nheiu--two Hertz employees)
+
+* **Facts**
+	* Friend is a CA citizen. 
+	* Hz does a lot of business in CA, but also a lot in many other states.
+	* Hz is headquartered in NJ & handles some other corporate responsibilities in OK. 
+	* CA dist. ct. accepted these facts.
+
+* **Procedural History**
+	* Friend sued Hertz for violation of wage & hour laws & wanted to bring a class action suit with other CAns
+	* Friend did *not* want diversity since he wanted to sue in CA ct. 
+	* Hz wanted to remove the case to federal ct., so Hz wants to argue its PPB isn't in CA
+	* CA dist. ct. said Hz was a CA citizen said Hz's business predominated in CA since it was next in line after NJ & OK.
+	* 9th circuit affirmed
+	* SCOTUS granted cert since circuits have gone different ways here 
+
+* **Issue**
+	* Is a corp's PPB where it is HQ'd?
+
+* **Reasoning**
+	* Since Friend is CAn, if Hertz's principal place of business is CA, then there can't be diversity jurisdiction
+	* **III**
+		* diversity jurisdiction isn't automatic based on art III §2--just authorizes Congress to give diversity jurisdiction.
+		* Incorporation was originally deemed equivalent to domicile since shareholders were presumed to be citizens of the incorporating state.
+		* A committee of judges suggested PPB doctrine to Congress in 1957 & written into law in 1958
+	* **IV**
+		* The law didn't establish criteria for determining PPB
+		* Lots of standards developed as a result & different circuits were inconsistent
+		* This is bad for admin. simplicity.
+	* **V**
+		* **A**
+			* PPB should be the "nerve center" which is usually where the corp is HQd
+			* Three reasons for this:
+				1. Most natural way to read the statute (28 USC § 1332(c)(1))
+					* If PPB is about where a corp does the most business, CA will often win by volume just due to its size. That seems weird.
+				2. Administrative simplicity. Simple standards mean simple, efficient decisions. Predictability goes in here, too.
+				3. Legislative history.
+		* **B**
+			* "Nerve center" test isn't perfect, but it's better than any other standard we've tried & simplicity of application outweighs the downsides.
+			* Burden for establishing diversity is on whoever is asserting it.
+		
+* **Holding**
+	* Vacated 9th circuit's decision.
+
+* **Rule**
+	* A corporation's principal place of business is wherever its never center is.
+ 
+#### Non-incorporated businesses
+* 28 USC § 1332 (c)(1) doesn't apply to non-incorporated businesses (e.g. partnernships, associations)
+* Partnerships are citizens of the states where each of its members are citizens.
+* If a partnership had a member in every state, it could never be sued under diversity jurisdiction.
+* Congress hasn't said anything about the citizenship of LLCs.
+
+#### Belleville Catering Co. v. Champaign Market Place LLC
+* 7th Cir 2003, Easterborook
+
+* **Parties**
+	* π: Belleville Catering Co.
+	* ∂: Champaign Market Place LLC
+
+* **Facts**
+
+* **Procedural History**
+	* π said they're MO-based & ∂ is a DE corp with its PPB in IL and so there should be diversity jurisdiction
+	* ∂ agreed & filed a counter-claim
+	* Ct took jurisdiction allegations at face-value
+	* Trial jury gave ∂ $220k in their counter-claim.
+	* πs appealed
+	* Jurisdiction in appeal was the same.
+
+* **Reasoning**
+	* LLCs are the same as partnerships for citizenship purposes--they are a citizen of every state of which their members are citizens.
+
+* **Rule**
+	* LLCs are the same as partnerships for citizenship purposes--they are a citizen of every state of which their members are citizens.
+ 
+#### Representative suits & assignments of claims
+* Tort claims usually aren't assignable, but contract claims usually are.
+* Sometimes a π will try assign her claim to a representative who is a citizen of a different state as the ∂ in order to get diversity jurisdiction.
+* 28 USC § 1359 precludes fed jurisdiction when one party assigned the claim *collusively* in order to invoke jurisdiction
+* The assignment still stands, but the diversity doesn't
+* Since 28 USC § 1359 requires collusion (which requires at least two people), one party can change citizenship in order to get diversity.
+
+#### Domestic relations & probate exceptions
+* Fed cts won't hear "domestic relations" cases
+* Fed cts also will not hear probate cases
+
+#### Amount in controversy requirement
+* Fed cts won't hear cases where the controversy involves <$75k
