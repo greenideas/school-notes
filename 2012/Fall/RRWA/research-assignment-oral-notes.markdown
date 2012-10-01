@@ -73,15 +73,15 @@
 		* Since Wong didn't herself mislead Bradford, she isn't responsible for Segal's mistake & retained title to the prototype.
 
 ### Second element -- Bradford altered the condition of the goods
-	* Bradford doesn't dispute that he destroyed the prototype in the robot fight, so this element is satisfied.
+* Bradford doesn't dispute that he destroyed the prototype in the robot fight, so this element is satisfied.
 
 ### Third element -- Excluding Wong's right to her property
-	* Again, Bradford doesn't dispute that he destroyed the prototype.
+* Again, Bradford doesn't dispute that he destroyed the prototype.
 
 ### Alternative analysis of conversion
-	* *Hoch. v. Young*
-		*  The Court expressed an alternative understanding of conversion, in *Hoch. v. Young*
-		* Here, endorsing Prosser's definition: "Where there has been no wrongful taking or disposal of the goods, and the defendant has merely come rightfully into possession and then refused to surrender them, demand and refusal are necessary to the existence of the tort. When demand is made, and absolute, unqualified refusal to surrender, which puts the plaintiff to the necessity of force or a lawsuit to recover his own property, is of course a conversion."
+* *Hoch. v. Young*
+	* The Court expressed an alternative understanding of conversion, in *Hoch. v. Young*
+	* Here, endorsing Prosser's definition: "Where there has been no wrongful taking or disposal of the goods, and the defendant has merely come rightfully into possession and then refused to surrender them, demand and refusal are necessary to the existence of the tort. When demand is made, and absolute, unqualified refusal to surrender, which puts the plaintiff to the necessity of force or a lawsuit to recover his own property, is of course a conversion."
 	* So even though Bradford "rightfully" came into possession of the prototype, since the property remained Wong's (under Toyomenka & American Clipper), her demand for its return & Bradford's refusal establishes conversion.
 
 ## Conclusion

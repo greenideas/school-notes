@@ -44,6 +44,10 @@
 			- [Transferring intent](#transferring-intent)
 				- [Regina v. Pemberton](#regina-v-pemberton)
 			- [People v. Scott](#people-v-scott)
+			- [Specific v. General Intent](#specific-v-general-intent)
+				- [People v. Atkins](#people-v-atkins)
+		- [Strict Liability Crimes](#strict-liability-crimes)
+			- [Morissette v. United States](#morissette-v-united-states)
 
 # Criminal Law--Cases and Materials
 ## Basic Principles of the Criminal Law
@@ -1234,7 +1238,6 @@
 * CA 1996, Brown
 * Scott & Brown shot an automatic weapon into a public park intending to kill one person, but actually killing a bystander.
 
-
 * **Parties**
 	* π: People
 	* ∂: Scott
@@ -1278,5 +1281,105 @@
 * **Rule**
 	* When one intends to kill one person but kills another instead, ∂ can be convicted of the murder of the actual victim as well as attempted murder of the intended victim.
 	
-* **Notes**
-	* 
+#### Specific v. General Intent
+##### People v. Atkins
+* CA 2001, Chin
+
+* **Parties**
+	* π: People
+	* ∂: Atkins
+
+* **Facts**
+	* ∂ told friends he hated Figgs & was going to burn down Figgs's house.
+	* Neighbor saw ∂'s brother (David) drive a white truck into the area of Figgs's house, but couldn't tell if he had a passenger.
+	* Neighbor saw the truck speed away a half-hour before seeing a fire near Figgs's house.
+	* That night, one of ∂'s friends saw ∂ at David's house where he was very drunk.
+	* Fire marshall found ∂'s wallet 40ft from where the fire started as well as a disposable lighter some beer cans and tire tracks.
+	* ∂ later told the fire marshall that he & David drove to the ranch, saw a bunch of weeds & decided to burn them.
+	* ∂ said it was a mistake & the fire just got out of control.
+	* Fire marshall determined that the fire was intentionally set.
+
+* **Procedural History**
+	* At trial jury was instructed on arson: "willfully & maliciously" setting fires, as well as on lesser offenses. Jury was told that voluntary intoxication was not an excuse.
+	* Said arson & lesser crimes were general intent & that intoxication isn't a defense.
+	* Jury convicted of arson.
+	* ∂ appealed saying voluntary intoxication shows he lacked the mens rea for arson.
+	* Ct. of appeals overturned conviction, saying arson req'd a specific mental state to burn land. Jury instruction to disallow consideration of intoxication deprived ∂ of opportunity to defend.	
+
+* **Issue**
+	* Is voluntary intoxication a valid defense of general intent crimes?
+
+* **Reasoning**
+	* Voluntary intoxication can negate specific intent, but not general.
+		* The distinction came about specifically to solve the problem of intoxicated ∂s.
+		* Culpability is less when ∂ is drunk, but ∂ still needs to be punished.
+	* General intent: intent just to commit an act, without intending any particular consequence of that act.
+	* Specific intent: intent to commit an act specifically for the purpose of bringing about a particular consequence.
+	* Arson is a general intent crime. ∂ didn't have to intend to burn the house--just to set the fire.
+	* Arson statute doesn't require specific intent.
+
+* **Holding**
+	* Appeals ct. ruling rev'd. Conviction upheld.
+
+* **Rule**
+	* Voluntary intoxication is not a defense of a general intent crime, though it can be a defense for specifc intent.
+	* Arson is a general intent crime.
+
+### Strict Liability Crimes
+* No mental state req'ment.
+
+#### Morissette v. United States
+* SCOTUS 1952, Jackson
+
+* **Parties**
+	* π: Morissette
+	* ∂: US
+
+* **Facts**
+	* Gov't had a practice bombing range on a large wooded sparsely populated area of MI.
+	* Practice bombs were filled with sand & enough black powder to make a visible puff of smoke.
+	* Posted signs saying ''Danger--keep out--bombing range"
+	* Still there were deer there and so lots of hunters
+	* Spent casings were cleared away & piled up & rusting.
+	* π was hunting & decided to salvage some casings--took three tons of them & flattened them out by driving a tractor over them.
+	* Sold casings for $84.
+	* π was a pretty good guy (veteran, well-liked, no record)
+	* π did all of the salvaging in good faith, broad daylight, didn't intend to steal from the gov't
+
+* **Procedural History**
+	* Gov't indicted π saying he unlawfully stole gov't property
+	* π said he thought casings were abandoned
+	* Gov't said you still can't take abandoned property from land you don't own
+	* Court wouldn't let π argue that he didn't intend to steal
+	* Ct said he stole if he:
+		1. Took the property
+		2. Without permission
+		3. The property was worth >$.01
+	* Found guilty & ct. of app. affirmed
+
+* **Issue**
+	* Does the crime of theft require intent to steal?
+
+* **Reasoning**
+	* Intent requirement is an essential part of the tradition of criminal law.
+	* Crime is a compound concept, including act & intent
+	* However, some crimes are *just* prohibited acts.
+	* Back in the day, when people started widely distributing goods, we wanted to be able to enforce quality standards by punishing deviations from those standards.
+	* The standard for when an act alone is punishable is when it's a matter of public welfare.
+		* Usually crimes of negligence
+		* Injury occurs despite lack of intent
+	* Penalties for these crimes are usually small
+	* Cts have been interpreting statutes that don't specify intent as not req'ing it.
+		* This is a mistake.
+		* Shouldn't punish a bartender for selling liquor to someone he doesn't know to be an alcoholic.
+	* Strict liability crimes should only be those meant to promote diligence.
+	* Tradition has req'd intent for stealing.
+		* That's why congress didn't explicitly include intent in the statute.
+	* Lack of explicit intent req'ment in a statute doesn't automatically invoke strict liability for crimes for which common law has required intent
+
+* **Holding**
+	* Conviction overturned.
+
+* **Rule**
+	* Statutes that do not explicitly state a mens rea requirement may still have such a requirement if the crime would have such a req'ment in the common law.
+	* Strict liability only applies to crimes of negligence that threaten public safety. 
