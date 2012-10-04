@@ -79,7 +79,7 @@
 * Again, Bradford doesn't dispute that he destroyed the prototype.
 
 ### Alternative analysis of conversion
-* *Hoch. v. Young*
+* *Hoch. v. Young* NC Ct. of App. 1983 **MANDATORY**
 	* The Court expressed an alternative understanding of conversion, in *Hoch. v. Young*
 	* Here, endorsing Prosser's definition: "Where there has been no wrongful taking or disposal of the goods, and the defendant has merely come rightfully into possession and then refused to surrender them, demand and refusal are necessary to the existence of the tort. When demand is made, and absolute, unqualified refusal to surrender, which puts the plaintiff to the necessity of force or a lawsuit to recover his own property, is of course a conversion."
 	* So even though Bradford "rightfully" came into possession of the prototype, since the property remained Wong's (under Toyomenka & American Clipper), her demand for its return & Bradford's refusal establishes conversion.
@@ -87,3 +87,12 @@
 ## Conclusion
 * Bradford had all of the elements of conversion required by *Variety*. It was unauthorized (from *American Clipper* & *Toyomenka*), and it altered the condition of the goods (in that the prototype was destroyed), and excluded Wong's rights (since the prototype was destroyed and even the parts were discarded).
 * We can also establish conversion by showing that she retained title to the prototype and that Bradford refused to return it when asked.
+
+
+Be sure to establish a roadmap.
+Put it all on the table and then take it off
+What does the UCC say about authorized transactions. See American clipper
+Address the BOCB's rights under UCC
+Constructive notice to Bradford?
+Was there entrustment? If so, this is all for nothing.
+Robinson & American clipper for entrustment

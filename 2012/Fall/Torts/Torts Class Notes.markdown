@@ -47,6 +47,15 @@
 		- [Elements of Negligence](#elements-of-negligence)
 	- [September 28](#september-28)
 		- [Intentional Torts Review](#intentional-torts-review)
+	- [October 1](#october-1)
+		- [Hill v. Sparks](#hill-v-sparks)
+		- [Robinson v. Lindsay](#robinson-v-lindsay)
+		- [Negligence *per se*](#negligence-per-se)
+			- [Marshall v. Southern Railway](#marshall-v-southern-railway)
+			- [Chaffin v. Brame](#chaffin-v-brame)
+			- [O'Guin v. Bingham County](#o'guin-v-bingham-county)
+	- [October 2](#october-2)
+		- [Impson v. Structural Metals, Inc.](#impson-v-structural-metals-inc)
 
 # Torts
 
@@ -311,3 +320,45 @@ Insurance is an alternative to the tort system
 ## September 28
 ### Intentional Torts Review
 * Re: the guy who hurt himself escaping from the false imprisonment, the bank is liable for the dislocated shoulder under extended liability. Once the false imprisonment tort is established, then the bank is liable for all of the harm that results from that imprisonment.
+
+## October 1
+### Hill v. Sparks
+* People with superior knowledge, skill, or experience are required to use it in performance of duties.
+
+### Robinson v. Lindsay
+* Court can consider maturity, experience & age for children. Standard has to be applied on a kid-by-bid basis.
+* **Rule for children:** Child should exercise the same care that reasonably careful child of the same age, intelligence, maturity, training, and experience would exercise under the same or similar circumstances.
+* First impression - first time jurisdiction has considered an issue.
+	* Courts will look at cases in other jurisdictions.
+
+### Negligence *per se*
+#### Marshall v. Southern Railway
+* Court enunciated rule that you're liable for any damage you cause by hitting something in front of you within range of your headlights
+
+#### Chaffin v. Brame
+* One year after *Marshall*
+* Court said the headlight rule wasn't really a rule, just a guideline.
+* Standards are better than rules. Harder to apply, but fairer. Standards change the relationship between judges & juries.
+* When a statute exists, violation of the statute establishes both duty and breach. It *is* negligence.
+* If a statute establishes a standard for negligence, π has to sue under that statute.
+
+#### O'Guin v. Bingham County
+* Law establishing rules for landfills doesn't create its own cause of action, so it can be used as a basis for a cause of action as negligence per se
+* Not every statute can be the basis for a cause of action as negligence per se. Has to meet four reqs:
+ 	1. law must clearly define the standard of care 
+	2. law must be intended to prevent kind of harm for which πs seek redress
+	3. π has to be a member of the class the law meant to protect
+	4. the behavior violating the statute has to be the proximate cause of the harm
+
+## October 2
+* "Negligence" is often used loosely to mean just duty & breach, even by judges, but this is just a shorthand way of speaking. 
+* Easier to prove negligence per se, since statutory duties are bright lines.
+* In some cases (*O'Guin*), there would be no duty otherwise, so π has to go after negligence per se.
+* Court has discretion about whether to apply a statutory standard instead of the common law duty
+* Licensing requirements aren't statutory, per se duties.
+
+### Impson v. Structural Metals, Inc.
+* Questions were:
+	* Can ∂ give excuses for failure to fulfill statutory duty?
+	* Should excuse questions be put before juries?
+* Incapacity can't be part of a prima facie negligence case, but *can* be part of the defense.sddfs

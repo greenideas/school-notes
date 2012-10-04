@@ -91,6 +91,11 @@
 				- [Martin v. Herzog](#martin-v-herzog)
 				- [O'Guin v. Bingham County](#o'guin-v-bingham-county)
 			- [Impson v. Structural Metals, Inc.](#impson-v-structural-metals-inc)
+	- [Negligence: Breach of Duty](#negligence:-breach-of-duty)
+		- [Assessing Reasonable Care via Foreseeable Risks and Costs](#assessing-reasonable-care-via-foreseeable-risks-and-costs)
+			- [Brown v. Stiel](#brown-v-stiel)
+				- [Notes](#notes)
+			- [Pipher v. Parsell](#pipher-v-parsell)
 
 # Torts & Compensation - Dobbs
 ## Tort Law: Aims, Approaches and Processes
@@ -1428,14 +1433,14 @@
 * **Facts**
 	* π was driving on a 18' wide highway at night
 	* ∂ had his brights on coming the other way & didn't dim them.
-	* π couldn't see, due to the lights, & hit a truck stopped in his lane
+	* π couldn't see, due to the lights, & hit a truck stopped with its lights off in his lane
 
 * **Procedural History**
 	* At trial, ∂ argued π's contributory negligence, but jury found for π
-	* ∂ argued that, as a matter of law, it's negligent to drive at such a speed that you can't stop within the range of your headlights
+	* ∂ argued that, as a matter of law, it's negligent to drive at such a speed that you can't stop within the range of your headlights (per *Marshall*)
 
 * **Issue**
-	* 
+	* Did ∂ exhibit contributory negligence in failing to see the stopped truck?
 
 * **Reasoning**
 	* Purpose of the law ∂ cited is to make people responsible for hitting things that were obviously in front of them
@@ -1445,11 +1450,8 @@
 	* π was going at a reasonable speed
 	* It was reasonable under the circumstances for π to expect ∂ to dim his lights & to not know about a truck stopped in the middle of the road without any warning signal
 
-* **Holding**
-	* 
-
 * **Rule**
-	* 
+	* A person isn't required to anticipate negligence on the part of other people.
  
 * **Notes**
 	* If π was negligent "as a matter of law," a reasonable person couldn't find otherwise given the facts & gives a directed verdict
@@ -1495,7 +1497,7 @@
 		2. *law must be intended to prevent kind of harm for which πs seek redress*
 			* The law was intended specifically to "ensure protection of human health . . ."
 		3. *π has to be a member of the class the law meant to protect*
-			* The law clearly applies to children--didn't matter that they weren't authorized to be there.
+			* The law clearly applies to the children--didn't matter that they weren't authorized to be there.
 		4. *the behavior violating the statute has to be the proximate cause of the harm*
 			* This is at least a disputed matter of fact
 	* The situation fits all of the statutory requirements for negligence on ∂'s part, so no need to go beyond that & look at the common law standard.
@@ -1532,6 +1534,7 @@
 * **Procedural History**
 	* Jury decided that the truck did try to pass w/in 100ft of the intersection
 	* Trial judge said that the violation of the traffic law was sufficient to establish negligence.
+	* Directed verdict for π, judgment as a matter of law.
 	* App. ct said that since ∂ claimed extenuating circumstances, the negl. question had to go to a jury.
 	* π appealed.
 
@@ -1566,3 +1569,74 @@
 		4. ∂'s violation is due to the confusing way the statute is presented
 		5. Compliance would involve greater risk to ∂ or to others.
 	* A minor's violation of a statute can't itself be negligence (no negligence *per se* for minors), but it can be evidence of negligence.
+
+## Negligence: Breach of Duty
+### Assessing Reasonable Care via Foreseeable Risks and Costs
+* For negligence, jury has to establish:
+	1. That a duty (e.g. duty of reasonable care) exists **AND**
+	2. That the duty has been breached
+* Careless state of mind is insufficient. There must be conduct for negligence.
+* Jury should consider whether alternative conduct would've averted the harm.
+* Reasonableness depends on:
+	1. The risk of foreseeable harm
+	2. The practicality of preventing it.
+* Intentional acts can still be negligent (intentionally driving way too fast), so that's not a clean distinction with intentional torts.
+
+#### Brown v. Stiel
+* Stiel saved money on construction by using steel instead of concrete.
+* Stiel knew that steel construction was likely to injure three people compared to one injured by concrete construction.
+* An experienced steelworker was injured during construction
+* A deli delivery guy delivering food to the site was also injured & lost his leg.
+
+##### Notes
+* Workers' comp makes compensation part of the cost of doing business.
+
+#### Pipher v. Parsell
+* DE 2007, Holland
+
+* **Parties**
+	* π: Pipher
+	* ∂: Parsell
+
+* **Facts**
+	* π & ∂s were driving in ∂'s pickup truck. All in the front seat.
+	* All were 16-years-old.
+	* Going 55mph.
+	* Sitting like so: Parsell (driving) - Pipher - Beisel 
+	* Beisel grabbed the steering wheel & the truck veered onto the shoulder.
+	* *Parsell now knew there was a dangerous person in the car.*
+	* Parsell didn't do anything about Beisel.
+	* Beisel grabbed the wheel again & the truck went down an embankment & hit a tree.
+	* π was hurt.
+	* π thought Beisel grabbed the wheel again *because* ∂s laughed it off the first time.
+	* Parsell acknowleged he could've done more to prevent Beisel from grabbing the wheel again:
+		1. Could've admonished Beisel
+		2. Could've made Beisel get in the back
+		3. Could've told Beisel he was going to make her get out
+
+* **Procedural History**
+	* Trial judge found no duty on Parsell's part. It reasonable to assume Beisel wouldn't grab the wheel again.
+		* Not negligent to kick Beisel out
+		* Not negligent to not admonish her
+	* Superior ct. found for ∂ as a matter of law
+	* π appealed
+
+* **Issue**
+	* Does a driver have a duty to guard against passenger's foreseeable dangerous behavior?
+
+* **Reasoning**
+	* Minor drivers has the same duty of care to his passengers that an adult driver would
+	* π argued that Parsell should've been on notice after the first grab & so should've exercised reasonable care to keep it from happen again.
+	* Usually when passengers' actions aren't foreseeable, there's no negligence.
+	* When the unsafe conduct is foreseeable, it's negligence to not prevent it (breach of duty to passengers & public).
+	* The first grab was enough to establish the duty to prevent a second one.
+
+* **Holding**
+	* Judgment as a matter of law reversed. Facts should've been presented to the jury. Remanded.
+
+* **Rule**
+	* Yes. When a passenger's behavior in an indication of future danger, the driver has a duty to prevent that danger.
+
+* **Notes**
+	* "Foreseeable" often means likely to occur in the absence of precautions.
+	* Similarly "unforeseeable" usually means that a reasonable person wouldn't have taken precaution to prevent

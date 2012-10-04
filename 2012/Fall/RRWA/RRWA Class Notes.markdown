@@ -15,6 +15,10 @@
 	- [September 27](#september-27)
 		- [Explanatory Parentheticals](#explanatory-parentheticals)
 		- [Research assignment](#research-assignment)
+	- [October 4](#october-4)
+		- [Short form citations](#short-form-citations)
+		- [Presentation feedback](#presentation-feedback)
+		- [Counter-analysis ](#counter-analysis)
 
 # RRWA Class Notes
 * [8/27/2012][8-27-2012]
@@ -186,3 +190,20 @@
 	* *Chevrolet Buick BMW Inc. v. Peterbilt of Florence*
 	* N.C.G.S. 25-2-403
 	* N.C.G.S. 25-2-201
+
+## October 4
+### Short form citations
+* Id ("idem" -- same) - for the exact same source. Add the page or section # if different page or section
+* Can use "Id" in a citation as a "see also"
+
+### Presentation feedback
+* Make sure to do reflection questions
+* Use state reporters instead of regional reporters
+* When there's nothing on point, focus on analogies
+* Make sure every assertion is supported by evidence
+* Be sure to incorporate policy discussion
+* Introduce summary judgment
+
+### Counter-analysis 
+* Does a robot count as the kind of goods in which Segal deals?
+* Attack entrustment

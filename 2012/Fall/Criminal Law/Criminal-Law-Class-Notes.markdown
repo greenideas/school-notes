@@ -36,6 +36,12 @@
 	- [September 28](#september-28)
 		- [Holloway v. US](#holloway-v-us)
 		- [State v. Fugate](#state-v-fugate)
+	- [October 2](#october-2)
+		- [US v. Jewell](#us-v-jewell)
+		- [Regina v. Pemberton](#regina-v-pemberton)
+		- [People v. Scott](#people-v-scott)
+	- [October 3](#october-3)
+		- [People v. Atkins](#people-v-atkins)
 
 # Criminal Law Class Notes
 
@@ -251,12 +257,42 @@
 ### Holloway v. US
 * Another way to think of mens rea (in addition to as prohibited mental state) is as subjective fault.
 * When "knowingly" is at the beginning of the statute, most courts will interpret that as applying to every element of the crime.
+* Generally, when a mental state requirement is introduced in a statute, we think it modifies everything that comes after (unless otherwise specified)
 * ∂ can't negate a prescribed intent reqment by placing a requirement on the victim that he had no right to impose
 * This result would have been the same under the MPC, since conditional intent is allowed in the MPC.
 * Exception to conditional intent allowance in MPC is the case where the condition is meant to negate the evil that the statute prohibits.
 
 ### State v. Fugate
-* "Natural & probable consequences" doctrine is a shortcut to proving mens rea.
+* "Natural & probable consequences" doctrine is a shortcut to proving intent.
 * In most jurisdictions, "nat'l & prob. cons." doctrine is limited to establishing intent to kill.
 * deadly weapon rule is another shortcut, that lets us establish intent to kill if you point a deadly weapon at a vital part of a person's body
 * instrumentality in deadly weapon rule has to be something made or adapted for the purpose of killing
+
+## October 2
+### US v. Jewell
+* Willful ignorance is equivalent to knowledge
+
+### Regina v. Pemberton
+* Can't transfer intent between two different crimes
+
+### People v. Scott
+* Murder requires (1) intent to kill, (2) the act, and (3) the social harm
+* Doctrine of transferred intent: Intent to kill A transfers to the murder of B so that the prosecutor can meet the mental state burden.
+* What crimes can ∂'s be charged with in these cases:
+	* Bad aim ∂: ∂ shoots at V1, misses & hits V2. -- murder of V2 & attempted murder of V1
+	* Good aim ∂: ∂ intends to kill V1, shoots at V1. ∂ is aware of the risk that he might kill V2 but shoots at V1 anyway. V2 uninjured. -- 1x murder (& maybe reckless endangerment or something?)
+	* Two victims: ∂ intended to kill V1, shoots & kills V1. Bullet goes through V1 & also kills V2 -- No clear rule.
+	* When you can't get transferred intent, what kind of statutes can i use? What kind of intent can I establish?
+
+## October 3
+* Specific & general intent are common law concepts. MPC jurisdictions do not distinguish b/w the two.
+* Intoxication negates specific intent.
+* Voluntary intoxication does *not* negate recklessness (just knowing & purpose).
+
+### People v. Atkins
+* Looking at a statute, you want to look at every word of the mens rea req'ment to see if it can be interpreted in a favorable light.
+* Then look at what the mens rea req'ment modifies in the statute.
+* *In practice, always go to the statute first.*
+* Battery ("intentional application of unlawful force") is a general intent crime. All that is required is the intent to apply the force. You don't need to that the force is unlawful.
+* "Unlawful force" just describes the type of force.
+* "forest land" in the CA arson statute isn't a material element.

@@ -47,6 +47,17 @@
 		- [Subject matter jurisdiction](#subject-matter-jurisdiction)
 		- [Strawbridge v. Curtiss](#strawbridge-v-curtiss)
 		- [Mas v. Perry](#mas-v-perry)
+	- [October 1](#october-1)
+		- [Randazzo v. Eagle-Pitcher Industries](#randazzo-v-eagle-pitcher-industries)
+		- [Hertz Corporation v. Friend](#hertz-corporation-v-friend)
+	- [October 2](#october-2)
+		- [Non-incorporated Businesses](#non-incorporated-businesses)
+		- [Amount in controversy](#amount-in-controversy)
+		- [Declaratory judgments](#declaratory-judgments)
+	- [October 3](#october-3)
+		- [Declaratory Judgment (cont'd)](#declaratory-judgment-cont'd)
+		- ["Arising under"](#"arising-under")
+			- [Grable & Sons Metal Products Inc. v. Darue Engineering](#grable-&-sons-metal-products-inc-v-darue-engineering)
 
 # Civil Procedure Class Notes
 
@@ -447,4 +458,63 @@
 ### Mas v. Perry
 * Domicile: "fixed, true, permanent home and principal establishment to which he has the intention of returning whenever he is absent therefrom . . . ."
 * Domicile changes only when you move & you intend to stay there.
-* If you leave your domicile intending never to return, your domicile still doesn't change until you intend to make a new place your home,
+* If you leave your domicile intending never to return, your domicile still doesn't change until you intend to make a new place your home
+* Grad students are not domiciled in the state where they go to school
+* Desire to establish domicile in a state isn't sufficient to actually do so.
+* Amount awarded in judgment isn't relevant for jurisdiction--just the amount alleged in the complaint.
+* Absorb the black-letter rules on p. 185
+* There can be no direct evidence of intent to establish domicile
+* The totality of the facts (home-ownership, employment, church membership) can support the inference.
+* 28 § 1332(a)(2) was added after *Mas*
+* If you're a citizen of a foreign state, but domiciled in a state, you can't sue someone in that state and neither can they sue you.
+* 28 § 1332(d) is a doozy. State cts were too amenable to class action suits. § 1332(d) was enacted as a corrective.
+
+## October 1
+### Randazzo v. Eagle-Pitcher Industries
+* First dismissal was without prejudice.
+* Second dismissal was with prejudice. Dismissal with prejudice resolves the issue in the case.
+
+### Hertz Corporation v. Friend
+* What is meant by "principal place of business?"
+* Courts were all over the place in how they decided corporate citizenship for the purposes of jurisdiction.
+* Congress wanted to add an additional ground for corporate citizenship: PPB
+* Corps are citizens of the state where they are incorporated and of their PPB.
+* It's harder to bring a diversity suit against a corp, since it can be a citizen of more places than a person can be.
+* Purpose of diversity jurisdiction was to prevent prejudice against non-residents.
+* "muscle test": where do corps have factories?
+
+## October 2
+### Non-incorporated Businesses
+* If the name of a company included the word "corporation" or "incorporated," the federal government is treated as a corporation.
+
+### Amount in controversy
+* Two people live in a house that burns down. Only one claim.
+
+### Declaratory judgments
+* π & ∂ enter into a contract. π believes there's a material breach of the contract. π wants to suspend performance of contract.
+* Declaratory judgment allows π to go to court & ask if ∂ has breached.
+* Either party can seek a declaratory judgment.
+
+## October 3
+### Declaratory Judgment (cont'd)
+* Buyer believes Seller1 & Seller2 are colluding in violation of antitrust law.
+* That case would be brought under fed. antitrust law
+* Sellers would want a declaration that they didn't violate antitrust law
+* One party can't assert that a case would arise under federal law based on something the other party may or may not do.
+* So sellers can't seek seek fed. jurisdiction based on what they anticipate buyer will do (well-pleaded rule)
+* Anyone seeking declaratory judgment *can* do so in federal ct.
+* So sellers *can* go to federal ct. to get a declaratory judgment.
+* Coercive relief: damages or injunction intended to change ∂'s behavior.
+
+### "Arising under"
+* Private (implicit) right of action - Court interprets a federal law as implying a right to seek remedy
+* Rule 10(b)(5) implicitly creates a private right of action
+* Question arises if, by creating a federal statute, legislature intended to preempt state law.
+* If the only way π can prove his case was to show that a statute is unconstitutional (right to relief depends on a constitutional question), case arises under federal law
+
+#### Grable & Sons Metal Products Inc. v. Darue Engineering
+* Ct. took the case to clean up after *Merrell Dow*
+* Grable wanted a quiet title action -- "quiet" a dispute under state law as to the title
+* Reason for the right was that the IRS failed to comply with federal law governing property seizures.
+* Tradition for balancing tests is to have three parts.
+* Factual issue is cut & dry

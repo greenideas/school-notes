@@ -41,6 +41,20 @@
 			- [Representative suits & assignments of claims](#representative-suits-&-assignments-of-claims)
 			- [Domestic relations & probate exceptions](#domestic-relations-&-probate-exceptions)
 			- [Amount in controversy requirement](#amount-in-controversy-requirement)
+			- [Federal Question Jurisdiction](#federal-question-jurisdiction)
+			- [Louisville & Nashville Railroad Co. v. Mottley ](#louisville-&-nashville-railroad-co-v-mottley)
+			- [Grable & Sons Metal Products Inc. v. Darue Engineering](#grable-&-sons-metal-products-inc-v-darue-engineering)
+			- [Supplemental jurisdiction](#supplemental-jurisdiction)
+			- [Removal jurisdiction](#removal-jurisdiction)
+	- [Venue](#venue)
+		- [Local & Transitory actions](#local-&-transitory-actions)
+		- [Venue in Fed Ct.](#venue-in-fed-ct)
+			- [Bates v. C & S Adjusters, Inc.](#bates-v-c-&-s-adjusters-inc)
+		- [Change of Venue](#change-of-venue)
+			- [Transfer in state cts.](#transfer-in-state-cts)
+			- [Transfer in fed. cts.](#transfer-in-fed-cts)
+			- [Choice of law](#choice-of-law)
+			- [Multidistrict litigation](#multidistrict-litigation)
 
 # Civil Procedure: Cases, Materials, and Questions
 
@@ -824,8 +838,188 @@ SCOTUS 1878, J. Field
 * Since 28 USC § 1359 requires collusion (which requires at least two people), one party can change citizenship in order to get diversity.
 
 #### Domestic relations & probate exceptions
-* Fed cts won't hear "domestic relations" cases
+* Fed cts won't hear "domestic relations" cases (divorce, separation, etc.)
+* This doesn't apply to non-domestic issues in which the parties are family members.
 * Fed cts also will not hear probate cases
 
 #### Amount in controversy requirement
 * Fed cts won't hear cases where the controversy involves <$75k
+
+#### Federal Question Jurisdiction
+* Various statutes grant federal courts jurisdiction under specific areas of federal law, such as antitrust (§ 1337), patent & trademark (§ 1338), and civil rights (§ 1343)
+* Rationale
+	* Federal courts are in the best position to protect federal interests
+	* Federal courts can specialize & develop expertise
+
+#### Louisville & Nashville Railroad Co. v. Mottley 
+* 1908, Moody
+
+* **Parties**
+	* π: Louisville & Nashville RR
+	* ∂: Mottley
+
+* **Facts**
+	* As compensation for an earlier claim, π gave ∂ lifetime passes.
+	* π honored the pass until the fed gov't said RRs couldn't give out passes like that.
+	* No diversity of citizenship.
+
+* **Procedural History**
+	* ∂ sued when π stopped honoring passes.
+
+* **Issue**
+	* Did Circuit Ct. have jurisdiction?
+
+* **Reasoning**
+	* THe π in a suit can't assert an imagined possible constitutional defense from the ∂ in order to claim a constitutional dispute for jurisdictional purposes.
+ 
+* **Notes**
+	* "Well-pleaded complaint" rule - complaint only contains the π's complaint, without any anticipatory allegations of responses from the ∂
+
+#### Grable & Sons Metal Products Inc. v. Darue Engineering
+* SCOTUS 2005, Souter
+
+* **Parties**
+	* π: Grable & Sons
+	* ∂: Darue Engineering & Manufacturing
+
+* **Facts**
+	* IRS seized π's property to settle delinquent taxes
+	* Gov't sold the property to ∂.
+
+* **Procedural History**
+	* Five years(!) later, π sued saying they hadn't been properly notified under § 6335(a): written notice must be given to secretary or owner of a business or left at owner's home or business.
+	* π said svc required personal service--not certified mail
+	* ∂ removed to fed ct. since the claim was based on fed. tax law.
+	* π wanted to remand back to state ct.
+	* Dist. ct. kept the case: Even though π did't have a fed. cause of action, the question was one of fed. interest.
+	* Dist. ct. gave summary judgment to ∂ saying gov't had complied sufficiently with § 6335(a)
+	* 6th circuit ct. of app. affirmed. Title claim was an issue of fed. law that needed to be decided & fed gov't has an interest in settling tax law ?s.
+
+* **Issue**
+	* Can federal courts claim jurisdiction when a state dispute turns on a matter of federal law?
+
+* **Reasoning**
+	* **II**
+		* "Arising under" jurisdiction - fed. ct. can adjudicate cases where federal question jurisdiction trumps state law disputes -- state claims that turn on questions of federal law.
+			* Fed ct. has experience
+			* Promotes consistency
+			* Only applies when there is a substantive ? of federal law
+			* Can still be vetoed
+			* Since any such case can create federalism controversies, the reasons for asserting jurisdiction always have to be considered.
+	* **III**
+		* **A**
+			* π's claim has to provide the facts that establish the superiority of the state question.
+			* The (federal) notice question is superior here since it turns on the meaning  & interpretation of § 6335(a)
+			* The gov't has a strong interest in adjudicating tax & notice questions.
+			* This case is comparatively small, so the potential for stepping on states' rights is pretty small.
+		* **B**
+			* *Merrell Dow* disclaimed bright-line rules for state v. fed. jurisd. ?s.
+			* 
+
+* **Holding**
+	* 
+
+* **Rule**
+	* 
+ 
+* **Concurrence**
+	* Thomas.
+	* Shouldn't limit federal jurisdiction just to cases where the cause of action itself arises under fed. law.
+
+* **Notes**
+
+#### Supplemental jurisdiction
+* If π has two claims, one state & one federal against ∂, and there's no other basis for claiming fed. jurisdiction regarding the state claim, fed ct.s *can* claim jurisdiction as long as the claims are closely related. "pendent" or "ancillary" justification.
+
+#### Removal jurisdiction
+* ∂ can ask to "remove" a case from state to federal court.
+* ∂ may want the case to be heard by unelected judges, or fear bias in the state court
+* ∂ doesn't need fed. ct's permission to remove. She just does it & the ct can then remand if it thinks the removal is improper.
+* Can only remove to the local dist. ct.
+* ∂ has 3o days after svc of process to remove
+
+## Venue
+* Ct. can't hear a case unless it has (1) personal and (2) subject matter jurisdiction
+* Subject matter is what categories of cases a court *system* can hear
+* Personal jurisdiction is whether a court system has authority over a ∂
+* Third req'ment is *venue* -- where *inside* a system a case can be heard
+* def'd largely by statute
+* No const'l right to a particular venue
+* Ct can transfer to another venue if it thinks another may be more appropriate
+
+### Local & Transitory actions
+* Local: cases involving land that have to be heard where that land is
+	* in rem or q-i-r cases where real property is basis for jurisdiction
+	* realty cases (e.g. quiet title, foreclosure, liens, etc.)
+	* cases of damage to land, e.g. trespass
+* Transitory: everything else
+
+### Venue in Fed Ct.
+* A fed. ct. would only have PJ over someone if the state that ct. is in would have PJ.
+* PJ & venue statutes can overlap
+* 94 fed. dists.
+* Dists. can be divided into "divisions"
+* Most fed. venue is governed by USC 28 § 1391
+	* local & transitory don't count for fed. venue
+	* suit can be brought 
+		* in the dist. where any ∂ lives **OR**
+		* in the dist where the controversy happened **OR**
+		* anywhere that has PJ if neither of the other criteria work
+	* Corps. can be sued in any district where it could have PJ if it were a state
+		* **OR** the state with the most significant contacts if no dist. would have PJ
+	* Foreign national can be sued in any dist.
+	
+#### Bates v. C & S Adjusters, Inc.
+* 2d cir 1992
+
+* **Parties**
+	* π: Bates
+	* ∂: C & S Adjusters
+
+* **Facts**
+	* π incurred debt while living in PA
+	* π moved to NY
+	* ∂ mailed collection notice to π at his PA address that the post office forwarded to his address in NY
+
+* **Procedural History**
+	* π sued in NY for violation of the Fair Debt Collection Practices Act & asked for damages & costs
+	* case was dismissed due to improper venue
+	* ∂ appealed & filed a counterclaim 
+
+* **Issue**
+	* Does venue exist where ∂ resides & where notice is sent?
+
+* **Reasoning**
+	* USC 28 § 1391(b)(2) allows suit where a "substantial part of the events or omission" in the controversy occurred.
+	* courts apply a "weight of contacts" test
+	* *Leroy* tried to prevent recognizing multiple venues, but § 1391(b)(2) evolved to expand the number of potential venues
+	* Other courts have recognized that mailing a collection notice to a debtor's address is sufficient.
+	* It doesn't matter that the letter went to PA before reaching π in NY.
+	* The letter ended up in NY (substantial part of events) & ∂ didn't object to PJ there, so venue was proper.
+
+* **Holding**
+	* Reversed & remanded. Venue was proper
+ 
+### Change of Venue
+#### Transfer in state cts.
+* All states allow intra-state venue transfers
+* "forum non conveniens" - court dismisses a case because it would be more appropriately decided in another venue
+
+#### Transfer in fed. cts.
+* Fed cts can transfer from one dist. to another. Dists. don't need to be in the same state.
+* § 1404, transferor is a proper venue; § 1406, transferor is an improper venue
+* Can transfer anywhere suit may have been brought: *venue & PJ are satisfied* or where all parties have consented
+* *Goldlawr* - 1406 transferor (improper venue) cts. *don't* need PJ
+* Contracts may have forum selection clauses
+#### Choice of law
+* CoL rules vary from state to state
+* In state cases, the state where the case is heard will apply its laws
+* In fed cases, if there is no relevant fed. law, ct will apply state law
+* The state's law that's used is the state in which the ct. sits.
+* When a case is transferred, the law applied is that of the state in which the *transferor* sits
+
+#### Multidistrict litigation
+* Mass torts, where there are claims in many districts, can be consolidated for *pretrial proceedings*
+* Other venue requirements don't apply
+* After pretrial,  §1407 says cases "shall be remanded" to their original venues
+* Often though, the court that hears the pretrial proceedings will 1406 or 1407 the case to itself for trial. SCOTUS rejected this practice, but it's allowed when both parties consent
