@@ -193,7 +193,7 @@
 
 ## October 4
 ### Short form citations
-* Id ("idem" -- same) - for the exact same source. Add the page or section # if different page or section
+* Id ("idem" -- same) - for the exact same source. Add the page or section # if different page or section (use "at [page number]", but no "at" for section number)
 * Can use "Id" in a citation as a "see also"
 
 ### Presentation feedback
