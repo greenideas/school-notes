@@ -1011,6 +1011,7 @@ SCOTUS 1878, J. Field
 * Can transfer anywhere suit may have been brought: *venue & PJ are satisfied* or where all parties have consented
 * *Goldlawr* - 1406 transferor (improper venue) cts. *don't* need PJ
 * Contracts may have forum selection clauses
+
 #### Choice of law
 * CoL rules vary from state to state
 * In state cases, the state where the case is heard will apply its laws
