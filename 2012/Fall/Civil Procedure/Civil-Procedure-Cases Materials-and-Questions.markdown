@@ -914,19 +914,10 @@ SCOTUS 1878, J. Field
 			* This case is comparatively small, so the potential for stepping on states' rights is pretty small.
 		* **B**
 			* *Merrell Dow* disclaimed bright-line rules for state v. fed. jurisd. ?s.
-			* 
-
-* **Holding**
-	* 
-
-* **Rule**
-	* 
  
 * **Concurrence**
 	* Thomas.
 	* Shouldn't limit federal jurisdiction just to cases where the cause of action itself arises under fed. law.
-
-* **Notes**
 
 #### Supplemental jurisdiction
 * If π has two claims, one state & one federal against ∂, and there's no other basis for claiming fed. jurisdiction regarding the state claim, fed ct.s *can* claim jurisdiction as long as the claims are closely related. "pendent" or "ancillary" justification.

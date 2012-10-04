@@ -96,6 +96,10 @@
 			- [Brown v. Stiel](#brown-v-stiel)
 				- [Notes](#notes)
 			- [Pipher v. Parsell](#pipher-v-parsell)
+			- [Indiana Consolidated Insurance Co. v. Mathew](#indiana-consolidated-insurance-co-v-mathew)
+			- [Stinnett v. Buchele](#stinnett-v-buchele)
+			- [Bernier v. Boston Edison](#bernier-v-boston-edison)
+			- [United States v. Carroll Towing](#united-states-v-carroll-towing)
 
 # Torts & Compensation - Dobbs
 ## Tort Law: Aims, Approaches and Processes
@@ -1640,3 +1644,173 @@
 * **Notes**
 	* "Foreseeable" often means likely to occur in the absence of precautions.
 	* Similarly "unforeseeable" usually means that a reasonable person wouldn't have taken precaution to prevent
+
+#### Indiana Consolidated Insurance Co. v. Mathew
+* IA ct app 1980, Hoffman
+
+* **Parties**
+	* π: Indiana Consolidated Insurance Co. 
+	* ∂: Mathew
+
+* **Facts**
+	* ∂'s brother was out of town
+	* ∂ went to brother's house to mow his lawn.
+	* got lawnmower out of garage
+	* Mower was well-maintained & working
+	* ∂ filled the gas tank 3/4 full using a funnel
+	* started the mower & left it alone for ~20mins
+	* came back & saw flame under the hood & shut the mower off
+	* saw a 4 or 5 inch flame under the gas tank
+	* tried to snuff out the fire with towels & couldn't
+	* flames grew & mower started spewing gasoline
+	* was afraid to move the mower out of the garage
+	* ran home to call the fire department
+	
+* **Procedural History**
+	* π sued saying ∂ was negligent in starting the mower
+	* Trial ct found ∂ not negligent
+	* π appealed:
+		* ∂ was negligent in filling the tank (really?)
+		* ∂ shouldn't have started the mower in the garage
+		* ∂ should've pushed the mower out
+
+* **Issue**
+	* Is there a duty to prevent harm that a RPP wouldn't foresee?
+
+* **Reasoning**
+	* Standard is whether ∂ exercised due care that RPPSSC would
+	* no neg. in filling the tank (used a funnel & not too full & didn't spill)
+	* π wants to reëvaluate evidence re: spillage, but the fact finder said there was no spillage, so that has to stand.
+	* A RPP would totally start a mower in a garage
+	* The healthy mower wasn't foreseeably going to to catch fire
+	* He was right to fear for his safety
+	* Not neg. in an emergency he didn't cause if he acts according to his best judgment
+	* sudden emergency doctrine still applies RPP standard
+	* value people over property
+	* cts have said you can be neg. for dangerous behavior to protect property
+
+* **Holding**
+	* No duty to prevent harm that a RPP wouldn't foresee.
+
+#### Stinnett v. Buchele
+* KY ct. app. 1980, Breetz
+
+* **Parties**
+	* π: Stinnett
+	* ∂: Buchele
+
+* **Facts**
+	* π was fixing the roof on ∂'s barn
+	* π fell off the roof while painting it
+	* π says ∂ was negligent in fulfilling workplace safety regs
+
+* **Procedural History**
+	* Trial ct. granted summ. judg. for ∂ -- no negligence
+	* No worker's comp benefits
+
+* **Issue**
+	* Can π sue a ∂ for negligence when harm was foreseeable by the π but not the ∂?
+
+* **Reasoning**
+	* ∂ was obligated to five π a reasonably safe place to work
+	* Standard is what a prudent employer would do--not to provide absolute safety
+	* Just asking someone to work in a dangerous location isn't a breach of that duty
+	* π said RPP would provide safety equipment, but ∂ was in a better position to know what he needed to do to stay safe (π had been painting houses for a long time)
+	* If π thought he needed safety equipment, he should've asked for it
+
+* **Holding**
+	* Aff'd
+
+* **Rule**
+	* π can't sue a ∂ for negligence when harm was foreseeable by the π but not the ∂.
+ 
+#### Bernier v. Boston Edison
+* MA 1980, Kaplan
+
+* **Parties**
+	* π: Bernier
+	* ∂: Boston Edison
+
+* **Facts**
+	* Ramsdell saw Boireau's car ~75ft behind her in her rearview as she was about to pull into traffic.
+	* by the time Ramsdell was at the intersection where she planned move over a lane and then turn right, Boireau was a lot closer & also was turning right
+	* Ramsdell pulled out & hit Boireau (who claimed to be going ~5mph and that Ramsdell "bolted out")
+	* Ramsdell says she didn't bolt out & that Boireau was going 35 mph
+	* Ramsdell was an old woman and after hitting her head in the accident, lost control of the car
+	* Her foot slipped from the brake to the gas.
+	* The car crossed Mass Ave, went up on the sidewalk, hit a parking meter & a storefront & a Chevelle before hitting a light pole & knocking it over
+	* She then hit πs (two kids coming out of the ice cream parlor)
+	* Uncertain if she hit the kids or the pole first, but certain she hit all 3
+	* light pole then hit a VW and fell across Bernier's legs.
+	* Boireau & Bernier were able to lift the pole
+	* Bernier's thighs & left shin were broken & he now has a shortened left leg
+	* Other injuries, too
+
+* **Procedural History**
+	* πs sued Ramsdell, Boireau & Edison.
+	* Alleged that ∂ was negligent in the design, construction & maintenance of the pole - should've foreseen vehicular impacts to protect injury to pedestrians
+	* Jury found against Ramsdell & Edison
+	* ∂ appealed
+
+* **Issue**
+	* Does a product manufacturer have a duty to prevent foreseeable harm caused by its products?
+
+* **Reasoning**
+	* ∂ has to anticipate where its products will be used.
+	* 100-120 Edison poles were struck per year
+	* ∂ was always replacing fallen poles
+	* Since poles end up where they're likely to be around a lot of cars, they should use the same standard cars do for foreseeability of collisions
+	* Design goals for the poles were cost, ease of integration & ease & safety of installation
+	* The seriousness of the potential injury means that the likelihood of the injury need not be high for there to be a duty to prevent it
+	* π had an expert witness saying poles didn't have enough give to absorb a collision & bend without breaking
+		* A Buick Skylark (Ramsdell's car) would only have to be going 6mph to shatter a pole
+		* There were structural reinforcements ∂ could've made to make the poles safer
+	* ∂ said if they made the poles stronger, they'd be more dangerous to the cars that hit them
+		* No duty to make an "accident-free" product
+	* But ∂ didn't try to do either
+	* People in cars face less of a risk from the poles than do peds.
+
+* **Rule**
+	* A product manufacturer has a duty to prevent foreseeable harm caused by its products.
+
+#### United States v. Carroll Towing
+* 2d cir 1947, LEARNED HAND!
+
+* **Parties**
+	* π: United States
+	* ∂: Carroll Towing
+
+* **Facts**
+	* ∂'s tugboat caused a barge loaded with Flour, the Anna C, to drift & hit a tanker, which caused the Anna C to sink
+	* There wasn't a bargee (boatman) on the Anna C to bail her out
+
+* **Procedural History**
+	* Trial ct first held ∂ liable, then considered whether the Anna C's owner should've had a bargee on her.
+
+* **Issue**
+	* How do we determine liability in cases where there are competing risks and burdensome precautions?
+
+* **Reasoning**
+	* No rule to determine when a boat owner has a responsibility to have a bargee on a boat being towed
+	* Owner's duty depends on three variables:
+		1. Probability (P) that she will break away
+		2. gravity of harm (L) if she does
+		3. Burden (B) of precautions
+	* Liability depends on whether B < P*L
+	* P & L may vary due to circumstances (stormy waters, crowded harbors)
+	* So may B. Even bargees need to leave the boat from time to time
+	* Bargee here was derelict, having left the boat & lied about where he was.
+	* There were a lot of boats in the harbor that day
+
+* **Holding**
+	* ∂ was neg. High danger, low burden.
+
+* **Rule**
+	* Liability depends on whether B < P*L
+ 
+* **Notes**
+	*  Every activity will have at least some cost & some benefit, and it costs little to warn. So a warning is often req'd even if the danger is small.
+	* Sometimes cts hold people responsible for long-standing dangers that they knew about even if an RPP would've forgotten
+	* Risk-utility assessment addresses policy goals:
+		* Deterrence, since it deters the correct amount
+		* Efficiency, since resources are allocated correctly (Don't spend $10 to prevent $5 worth of harm)

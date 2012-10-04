@@ -58,6 +58,9 @@
 		- [Declaratory Judgment (cont'd)](#declaratory-judgment-cont'd)
 		- ["Arising under"](#"arising-under")
 			- [Grable & Sons Metal Products Inc. v. Darue Engineering](#grable-&-sons-metal-products-inc-v-darue-engineering)
+	- [October 4](#october-4)
+		- [Removal](#removal)
+		- [Venue](#venue)
 
 # Civil Procedure Class Notes
 
@@ -518,3 +521,45 @@
 * Reason for the right was that the IRS failed to comply with federal law governing property seizures.
 * Tradition for balancing tests is to have three parts.
 * Factual issue is cut & dry
+
+## October 4
+* Four-part test for when federal courts may claim jurisdiction:
+	1. Substantial federal question
+	2. Actually disputed
+	3. Crucial to the case
+	4. Will it disturb Congress's understanding of the division of labor b/w fed & state cts.
+* If what we're doing is resolving a factual dispute (but not a substantive issue of interpreting law) that will have consequences under fed law, that's not going to be enough
+* The issue of whether a statute creates a federal right isn't open.
+* Always possible for cts. of appeal to all agree about something & for them to turn out to be wrong (according to SCOTUS)
+* Kee-OH-bel
+
+### Removal
+* If fed ct. could have orig. jurisdiction over a case in state ct, that case can be removed to fed. ct.
+	* Only the ∂ can move to remove
+	* ∂ cannot remove if ∂ is a citizen of the state where the suit is brought
+* In-state ∂ rule: if it's a diversity case & any of the ∂s is a local, the case can't be removed
+* § 1441(c)(2) - When there's an issue arising under fed. law where the federal issue is unrelated to the rest of the case, the case can be removed, but then the fed ct. has to remand all of the state issues back to state ct.
+* Class action fairness act - $5M+ questions require only minimal diversity (at least one of the ∂s is from a different state as one of the πs) or minimal alienage for removal.
+* § 1441(f)
+* Procedure for removal:
+	* Petition for removal has to be delivered w/in 60 days of service of process to the last-added ∂ § 1446(b)(1)
+	* When an action is removed under 1441(a), all of the ∂s have to consent
+	* Diversity case can't be removed more than 1-year from the commencement of the action unless π has acted in bad faith to prevent removal 1446(c)
+	* If initial claims aren't removable & the claim is amended to include a federal question,
+	* Once case is in dist. ct., π has 30 days to argue that it should be remanded back to state ct.
+		* If it's a ? about subject matter jurisdiction, there's no time limit
+	* 1447(d) No review of dist. judge's decision to remand
+
+### Venue
+* Given that a case will be litigated in a ct. system, which court house will we use.
+* Local action rule: If a case involves title to real property, the suit can only be brought in the state where the property is
+* Most fed. venue is governed by USC 28 § 1391
+	* local & transitory don't count for fed. venue
+	* suit can be brought 
+		* in the dist. where any ∂ lives **OR**
+		* in the dist where the controversy happened **OR**
+		* anywhere that has PJ if neither of the other criteria work
+	* Corps. can be sued in any district where it could have PJ if it were a state
+		* **OR** the state with the most significant contacts if no dist. would have PJ
+	* Foreign national can be sued in any dist.
+* Test is residence--*not* domicile.--corporate residence is not the same as domicile
