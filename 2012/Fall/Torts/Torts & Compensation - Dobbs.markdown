@@ -1597,6 +1597,7 @@
 
 #### Pipher v. Parsell
 * DE 2007, Holland
+* Joker in the passenger seat grabs the steering wheel
 
 * **Parties**
 	* π: Pipher
@@ -1613,7 +1614,7 @@
 	* Beisel grabbed the wheel again & the truck went down an embankment & hit a tree.
 	* π was hurt.
 	* π thought Beisel grabbed the wheel again *because* ∂s laughed it off the first time.
-	* Parsell acknowleged he could've done more to prevent Beisel from grabbing the wheel again:
+	* Parsell acknowledged he could've done more to prevent Beisel from grabbing the wheel again:
 		1. Could've admonished Beisel
 		2. Could've made Beisel get in the back
 		3. Could've told Beisel he was going to make her get out
@@ -1622,7 +1623,7 @@
 	* Trial judge found no duty on Parsell's part. It reasonable to assume Beisel wouldn't grab the wheel again.
 		* Not negligent to kick Beisel out
 		* Not negligent to not admonish her
-	* Superior ct. found for ∂ as a matter of law
+	* Superior ct. found for ∂ as a matter of law -- directed verdict
 	* π appealed
 
 * **Issue**
@@ -1672,6 +1673,7 @@
 	* π appealed:
 		* ∂ was negligent in filling the tank (really?)
 		* ∂ shouldn't have started the mower in the garage
+		* ∂ should've foreseen that the mower would catch fire
 		* ∂ should've pushed the mower out
 
 * **Issue**
@@ -1709,6 +1711,7 @@
 	* No worker's comp benefits
 
 * **Issue**
+	* Is it negligence to fail to provide a safe place to work or safety equipment?
 	* Can π sue a ∂ for negligence when harm was foreseeable by the π but not the ∂?
 
 * **Reasoning**

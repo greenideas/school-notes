@@ -42,6 +42,11 @@
 		- [People v. Scott](#people-v-scott)
 	- [October 3](#october-3)
 		- [People v. Atkins](#people-v-atkins)
+	- [October 4](#october-4)
+		- [Mistakes of fact](#mistakes-of-fact)
+			- [Bell v. State](#bell-v-state)
+		- [Mistakes of law](#mistakes-of-law)
+			- [People v. Marrero](#people-v-marrero)
 
 # Criminal Law Class Notes
 
@@ -296,3 +301,35 @@
 * Battery ("intentional application of unlawful force") is a general intent crime. All that is required is the intent to apply the force. You don't need to that the force is unlawful.
 * "Unlawful force" just describes the type of force.
 * "forest land" in the CA arson statute isn't a material element.
+
+## October 4
+### Mistakes of fact
+* Cts may refer to the MPC in mistake of fact cases even if they're a common law jursid. just to clear things up.
+* **MPC**
+	* Mistake of fact can negate mens rea only if the facts as ∂ believed them to be wouldn't be a crime. In that case, ∂ can be convicted of the crime he's charged with, but only sentenced for the crime he would've committed if his mistaken beliefs were true.
+* **Common Law**
+	* General intent - Mistake of fact has to be honest and reasonable
+		* If facts were as you believed them to be & it would've still been a crime, you can be convicted of the crime you were charged with *and* sentenced on that charge.
+	* Specific intent - Mistake of fact just has to be honest. No need to be reasonable.
+		* If you don't have the prohibited mental state on this analysis, you'll still likely be convicted of lesser included offense.
+
+#### Bell v. State
+* MPC has a strict liability default for age-related offenses, but it's 10.
+
+### Mistakes of law
+* General rule: mistake of law is no defense, unless:
+	* Mistake is based on official interpretation
+	* Knowledge of the law is an element of the crime
+	* No
+
+#### People v. Marrero
+* If the reason you're mistaken about the law is because you relied on an official interpretation to the law to your detriment, you're not culpable. The gov't essentially coerced you
+* Usually an intermediate appellate ct. interprets a statute, you act based on that interp. and then a higher court invalidates that interpretation
+* Can you use this defense?:
+	* Was interpreter in a position of authority?
+	* Was it an official statement?
+	* Does the jurisdiction apply to you?
+* Question here is whether "state" in the statute applies to just "prison" or to "any penal correctional facility," also?
+* Ct. says a mistaken interpretation of the statute doesn't suffice.
+* In MPC jurisd. a mistaken reading of the statute isn't enough. There has to be some subsequent mistaken official interpretation of the statute.
+* ∂ just wants to apply the rule of lenity, but since the statutory interp issue is off the table, it's no longer relevant.

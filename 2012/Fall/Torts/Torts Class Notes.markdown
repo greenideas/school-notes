@@ -56,6 +56,11 @@
 			- [O'Guin v. Bingham County](#o'guin-v-bingham-county)
 	- [October 2](#october-2)
 		- [Impson v. Structural Metals, Inc.](#impson-v-structural-metals-inc)
+	- [October 3](#october-3)
+		- [Breach](#breach)
+		- [Pipher v. Parsell](#pipher-v-parsell)
+		- [Indiana Consolidated Insurance Co. v. Mathew](#indiana-consolidated-insurance-co-v-mathew)
+		- [Stinnett v. Buchele](#stinnett-v-buchele)
 
 # Torts
 
@@ -361,4 +366,26 @@ Insurance is an alternative to the tort system
 * Questions were:
 	* Can ∂ give excuses for failure to fulfill statutory duty?
 	* Should excuse questions be put before juries?
-* Incapacity can't be part of a prima facie negligence case, but *can* be part of the defense.sddfs
+* Incapacity can't be part of a prima facie negligence case, but *can* be part of the defense.
+
+## October 3
+### Breach
+* Unreasonable risks
+* Negligence requires conduct--act or omission
+* State of mind is not sufficient by itself
+* Distinction b/w intentional torts & negligence: Creating an unreasonable risk isn't an intent to harm
+* Risk-utility balance -- Negligence is when the risk outweighs the utility
+* What is the social importance of the activity? 
+* If an activity has a greater risk, should we do it? What if it has a high benefit?
+* If we encourage risky behavior, who should pay for damage that occurs when those risks are realized?
+
+### Pipher v. Parsell
+* If a RPP wouldn't foresee the risk, there's no duty to avoid that risk
+
+### Indiana Consolidated Insurance Co. v. Mathew
+* Almost always a losing argument to ask appeals ct. to reweigh evidence
+* Sudden emergency doctrine doesn't alter the standard, but it does mean that we consider the circumstances.
+
+### Stinnett v. Buchele
+* A RPP assumes that people will act to protect themselves
+* Negligence analysis has to take into account what the π himself should've done or foreseen.

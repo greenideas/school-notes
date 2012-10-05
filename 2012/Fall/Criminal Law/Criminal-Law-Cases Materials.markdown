@@ -48,6 +48,13 @@
 				- [People v. Atkins](#people-v-atkins)
 		- [Strict Liability Crimes](#strict-liability-crimes)
 			- [Morissette v. United States](#morissette-v-united-states)
+	- [Mistake & Ignorance](#mistake-&-ignorance)
+		- [Mistakes of Fact](#mistakes-of-fact)
+			- [People v. Navarro](#people-v-navarro)
+			- [Bell v. State](#bell-v-state)
+		- [Mistakes of Law](#mistakes-of-law)
+			- [Official interpretation of the law (Entrapment by estoppel)](#official-interpretation-of-the-law-entrapment-by-estoppel)
+			- [People v. Marrero](#people-v-marrero)
 
 # Criminal Law--Cases and Materials
 ## Basic Principles of the Criminal Law
@@ -1383,3 +1390,161 @@
 * **Rule**
 	* Statutes that do not explicitly state a mens rea requirement may still have such a requirement if the crime would have such a req'ment in the common law.
 	* Strict liability only applies to crimes of negligence that threaten public safety. 
+
+## Mistake & Ignorance
+* Mistake is the inverse of mens rea
+* Common law separates mistakes of fact from mistakes of law.
+* MPC doesn't observe a specific/general intent distinction
+* MPC doesn't have a distinction b/w mistakes of fact & mistakes of law
+* Case-in-chief defense -- defense that tries to establish that prosecutor hasn't met the burden of proof
+* Mistake defenses are usually case-in-chief--proving that prosector didn't establish the necessary mens rea
+* Sometimes mistake defenses can be affirmative if they are based on an interpretation of the law.
+
+### Mistakes of Fact
+* (Common law only)
+* If ∂ is charged with a specific intent crime, if ∂ made a honest (good faith) mistake, that can negate the required mens rea. The mistake *doesn't* need to be reasonable.
+* For general intent crimes, mistake has to:
+	1. Negate the intent **AND**
+	2. Be honest **AND**
+	3. Be reasonable
+
+#### People v. Navarro
+* Superior Ct. of CA 1979, Dowds
+
+* **Parties**
+	* π: People
+	* ∂: Navarro
+
+* **Facts**
+	* ∂ charged with stealing 4 wooden beams from a construction site
+
+* **Procedural History**
+	* ∂ was charged w/ grand larceny, but convicted by a jury of petty larceny
+	* ∂ said jury was improperly instructed. Jury could've found that (1) the beams were abandoned or (2) they were valuable & ∂ had no right to take them
+	* ∂ proposed 2 sets of jury instructions:
+		1. If someone takes something he believes in good faith to be abandoned, he isn't stealing, even if it's not reasonable to believe that it's abandoned. Prosecutor has to prove ∂ didn't have that belief.
+		2. If someone takes something he believes in good faith he has permission to take, he isn't stealing, even if it's not reasonable to believe he has permission. The prosecutor must prove ∂ didn't have that belief.
+	* The court actually gave these instructions
+		1. If someone takes something in the reasonable & good faith belief that it's abandoned, then it isn't theft
+		2. If someone takes something in the reasonable & good faith belief that he has permission to take it, then it isn't theft
+		3. If you have reasonable doubt that ∂ had required criminal intent, ∂ should be acquitted.
+
+* **Issue**
+	* Does a ∂'s good faith belief that the property he took was abandoned have to be reasonable?
+
+* **Reasoning**
+	* Evidence showed ∂ believed the beams were abandoned
+	* So while he had the general intent to take the beams, he lacked the specific intent to deprive the beams' owner of them
+	* For general intent crimes, only a reasonable mistake of facts is sufficient to negate intent.
+	* There is no reasonableness requirement for specific intent crimes
+	* There is no such thing as negligent larceny
+
+* **Holding**
+	* Rev'd
+
+* **Rule**
+	* For specific intent crimes, a good faith mistake need not be reasonable in order to negate the intent requirement
+ 
+#### Bell v. State
+* AK Ct of App 1983, Bryner
+
+* **Parties**
+	* π: Bell
+	* ∂: State
+
+* **Facts**
+	* π was a 29-yo army sgt when he recruited two 16-yo (CR & MJ) & 1 14yo (DW) for prostitution.
+	* CR lived with π & started engaging in prostitution when ∂ said he would marry her & buy her a car.
+	* π assaulted MJ for drinking instead of working
+	* CR & MJ became afraid & left & called police
+	* Police got warrant to record conversations b/w MJ, CR & Bell
+
+* **Procedural History**
+	* 3 counts of promoting prostitutions in the 1st degree:
+		1. DW, for <14yo
+		2. CR, for forcing her 
+		3. MJ
+		4. Indictment said π had a house of prostitution
+	* π was convicted of promoting prostitution in the 1st degree (counts 1 & 4)
+	* Acquitted of 2
+	* Not guilty of 1st deg in count 3, but convicted of 3rd degree attempted promotion of prostitution
+	* Sentenced to 5 yrs (1 susp) for 1, & 4 years (3 susp.) for IV
+	* π appealed conviction & sentence.
+	* π said he should've been able to present a mistake of age defense in count 1.
+	* π said barring mistake of age as a defense (which AK does by statute) is a 14th amendment violation
+
+* **Issue**
+	* Can a defendant use a mistake of fact defense against a charge of a general intent crime
+
+* **Reasoning**
+	* Legislature intended age to be an aggravating factor
+	* π knew he was consciously doing the act that the law prohibited.
+	* Jury found beyond a reasonable doubt that he made DW go into prostitution
+	* That's enough for general intent crimes
+	* If behavior would've been illegal even if Bell's belief were true, then he can't use his mistaken beliefs as a defense
+
+* **Holding**
+	* Aff'd
+
+* **Rule**
+	* Mistake of fact isn't a defense in cases based on general intent crimes 
+ 
+### Mistakes of Law
+* In both common law & MPC, ignorance of the law is no excuse **UNLESS**
+	1. ∂ relied on an incorrect but official interpretation of the law
+	2. Knowledge of the law is itself an element of the crime
+	3. Not fair notice of legal duty
+
+#### Official interpretation of the law (Entrapment by estoppel)
+* In common law districts, ∂s can claim the official interpretation of the law is the cause of their criminal act.
+* This is entrapment by estoppel (reliance)
+
+#### People v. Marrero
+* Ct App NY 1987, Bellacosa
+
+* **Parties**
+	* π: People
+	* ∂: Marrero
+
+* **Facts**
+	* NY law allowed peace officers to carry handguns without permits
+	* ∂ was a fed. corrections officer
+	* ∂ was arrested for carrying a handgun without a permit
+ 	* ∂ said he believed he was a peace officer & was entitled to do so
+
+* **Procedural History**
+	* ∂ argued mistake of law
+	* ∂ was convicted of 3rd deg criminal possession
+
+* **Issue**
+	* Is a personal misinterpretation of a stature sufficient to support a mistake of law defense? 
+
+* **Reasoning**
+	* Holmes: Allowing ignorance of the law as a defense would encourage ignorance of the law
+	* ∂ claimed his mistake was based on an his interpretation of an official statement
+	* Mistake of law defense was meant to apply very narrowly to official interpretations--not personal interpretations
+	* Official statement of the law would have needed to actually permitted the conduct at some point and only been correctly interpreted later (MPC § 2.04, on which the NY statute was based)
+	* Public policy: If we permitted individual mistaken interpretation of the law to be a defense, everyone would do it.
+
+* **Holding**
+	* Conviction affirmed
+
+* **Rule**
+	* Mistaken interpretation of a statute has to be an official one in order to support a mistake of law defense.
+ 
+* **Dissent**
+	* Hancock
+	* Holding goes against the plain meaning of NY's mistake of law law.
+	* **II**
+		* Statue allows mistakes based on official statements of law
+		* Statute's obvious meaning req's that mistakes based on official statements of law are defenses
+		* Majority's understanding of the mistake of law statute (that the statute had to permit ∂'s behavior before the statute was invalidated) goes against the rule that penal statutes should favor defendants.
+		* According to the majority, only a ∂ who isn't mistaken about the law can invoke a mistake of law defense.
+		* That's clearly illogical.
+		* Purpose of the law was a jurisprudential modernization which meant to remove the common law restriction against using mistake of law as a defense.
+		* Legislators wanted there to be a mistake of law defense, but not an ignorance of law defense.
+		* MPC comparison is inapt. MPC says what the majority said, but the NY statute goes against that, and was intended to allow mistake of law defense.
+		* The "afterward determined" clause in the MPC *isn't in* the NY statute
+
+* **Notes**
+	* 
