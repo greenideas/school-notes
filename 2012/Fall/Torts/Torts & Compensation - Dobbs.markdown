@@ -100,6 +100,9 @@
 			- [Stinnett v. Buchele](#stinnett-v-buchele)
 			- [Bernier v. Boston Edison](#bernier-v-boston-edison)
 			- [United States v. Carroll Towing](#united-states-v-carroll-towing)
+		- [Assessing Responsibility when more than One Person is Negligent](#assessing-responsibility-when-more-than-one-person-is-negligent)
+		- [Proving & Evaluating Conduct](#proving-&-evaluating-conduct)
+			- [Santiago v. First Student](#santiago-v-first-student)
 
 # Torts & Compensation - Dobbs
 ## Tort Law: Aims, Approaches and Processes
@@ -1817,3 +1820,49 @@
 	* Risk-utility assessment addresses policy goals:
 		* Deterrence, since it deters the correct amount
 		* Efficiency, since resources are allocated correctly (Don't spend $10 to prevent $5 worth of harm)
+
+### Assessing Responsibility when more than One Person is Negligent
+* Factors
+	* **Comparative fault** - Damages may be reduced in proportion to fault unless ∂ committed an intentional tort.
+	* **Apportionment among defendants** - If ∂1 was 80% at fault and ∂2 was 20% at fault, ∂s would each pay those percentages of the damage award.
+	* **Joint & several liability** - π can enforce a claim against either tortfeasor (but can't get more than 100% of the damages she is owed)
+	* **Contribution** - Each ∂ should only pay the proportion of the damage award he is responsible for, so if ∂1 paid the full judgment, he could get a contribution of 20% of that judgment from ∂2.
+	* **Insolvent or immune tortfeasors** - If ∂2 either has no assets or is immune to tort liability, ∂1 will have to pay the full amount of the judgment without being able to get contribution from ∂2.
+	* **Several liability and comparative fault apportionment among tortfeasors** - Some states have "proportional share" or "comparative fault" liability.
+		* Trier of fact apportions liability.
+		* No ∂ can be liable for more than they are at fault for.
+		* In such a state, if ∂2 were (as above) immune or insolvent, π could only hope to recover the 80% of the award from ∂1.
+
+### Proving & Evaluating Conduct
+#### Santiago v. First Student
+* RI 2004
+
+* **Parties**
+	* π: Santiago
+	* ∂: First Student, Inc.
+
+* **Facts**
+	* ∂ drives a school bus.
+	* π alleges she was in an accident 7 years ago on ∂'s bus.
+	* π can no longer identify the intersection where the accident occurred.
+	* π says ∂ was approaching a stop sign on a one-way street when ∂ hit the brakes & also hit a car coming from the right.
+	* π says her face hit the seat in front of her.
+	* No police report of accident.
+	* π didn't see the accident & could offer no detail.
+
+* **Procedural History**
+	* Trial judge gave summary judgment to ∂.
+
+* **Issue**
+	* Can fault be apportioned in the absence of evidence?
+
+* **Reasoning**
+	* Granting the facts as π stated, we would still only be speculating as to ∂'s fault.
+	* There's no evidence of the interaction b/w the two vehicles, so no way to apportion fault.
+	* π has to provide sufficient evidence to support a question as to the matter of fact.
+
+* **Holding**
+	* Aff'd summary judgment.
+
+* **Rule**
+	* Apportioning liability requires evidence about the activities of the parties involved in an accident.
