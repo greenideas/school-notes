@@ -61,6 +61,10 @@
 	- [October 4](#october-4)
 		- [Removal](#removal)
 		- [Venue](#venue)
+	- [October 8](#october-8)
+		- [Section 1391](#section-1391)
+		- [Transfer of venue](#transfer-of-venue)
+	- [October 9](#october-9)
 
 # Civil Procedure Class Notes
 
@@ -563,3 +567,36 @@
 		* **OR** the state with the most significant contacts if no dist. would have PJ
 	* Foreign national can be sued in any dist.
 * Test is residence--*not* domicile.--corporate residence is not the same as domicile
+
+## October 8
+* § 1391 applies to cases that were filed in fed. ct
+* Venue for removed cases is set by §1441(a)
+* Once a case has been removed, it can be transferred to another district.
+### Section 1391
+	* Not necessary in fed. ct. to bring an action involving property in the location where the property is (probably still applies in state ct.)
+	* Rules about residence have expanded.
+	* District in which person is domiciled is how venue is determined. §1391(c)(1)
+	* Alien ∂ can be sued in any judicial district, unless he is a resident, in which the domicile rules apply.
+	* For a corp, venue is whichever district where contacts would be sufficient to uphold PJ if that district were a state.
+	* Changes to § 1391 have been intended to simplify venue questions.
+
+### Transfer of venue
+* §§ 1404, 1406
+* § 1404 - Case was filed in proper venue, but there is a better place to hear the case
+	* Case can be transferred to any venue where it might have been brought or where all parties consent.
+* § 1406 - Case is filed in an improper venue.
+	* Case can be transferred to any venue where it might have been brought.
+	* Been applied in cases where venue was improper and PJ was invalid.
+	* Rare to dismiss a case under § 1406, but it happens when π purposely files in bad faith in improper venue.
+* Fed cts. are expected to apply the substantive law of the state in which they sit.
+	* Some states disallow forum selection clauses
+	* Fed. forum selection rules trump this, so the clauses are proper, but fed cts can use the state laws as a factor in deciding venue.
+* When cases are transferred, the state law applied is that of the state where the claim was initially brought.
+* Differences b/w 1404 transfer and forum non-conveniens
+	* 1404 is a transfer. Same case in a new venue.
+	* Forum non-conveniens, the original case is dismissed in the original ct. system & filed again the new ct. system.
+	* A 1404 transfer is within a ct. system, but in forum non-conveniens, the case ends up in a different ct. system from the one in which it was brought.
+	* 1404 is available to either π or ∂. F n-c is available only to ∂s.
+	* 1404 transfer uses the law of the transferor venue state.
+
+## October 9

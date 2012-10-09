@@ -55,6 +55,10 @@
 		- [Mistakes of Law](#mistakes-of-law)
 			- [Official interpretation of the law (Entrapment by estoppel)](#official-interpretation-of-the-law-entrapment-by-estoppel)
 			- [People v. Marrero](#people-v-marrero)
+			- [Cheek v. United States](#cheek-v-united-states)
+			- [Bryan v. United States](#bryan-v-united-states)
+			- [Lambert v. California](#lambert-v-california)
+			- [State v. Bryant](#state-v-bryant)
 
 # Criminal Law--Cases and Materials
 ## Basic Principles of the Criminal Law
@@ -1546,5 +1550,191 @@
 		* MPC comparison is inapt. MPC says what the majority said, but the NY statute goes against that, and was intended to allow mistake of law defense.
 		* The "afterward determined" clause in the MPC *isn't in* the NY statute
 
-* **Notes**
+#### Cheek v. United States
+* SCOTUS 1991, White
+
+* **Parties**
+	* π: Cheek, conscientious objector to the income tax system
+	* ∂: US
+
+* **Facts**
+	* Tax law only criminalizes "willful" tax evasion.
+	* Cheek didn't pay income tax in 1980, 81, or 83-86.
+	* Was told by attorneys that federal tax laws were invalid & 16th amendment didn't authorize a tax on wages.
+
+* **Procedural History**
+	* Jury instructions:
+		1. For willfulness, gov't had to prove intentional violation of a known legal duty--not mistake, ignorance, or negligence.
+		2. Objectively reasonable, good-faith misunderstanding of the law would negate willfulness
+		3. Cheek is not guilty if jury believes he honestly & reasonably believed that he didn't have to pay income tax. 
+		4. An opinion that tax law is unconstitutional doesn't count as a good faith misunderstanding. 
+	* After all of that, with the jury still deadlocked, they got another instruction from the judge:
+		5. An honest but unreasonable belief does not negate willfulness
+	* Jury found Cheek guilty on all counts.
+	* Cheek appealed objecting to (5).
+
+* **Issue**
+	* Is an unreasonable good-faith misunderstanding sufficient to negate mens rea?
+
+* **Reasoning**
+	* Ignorance or mistake of the law is generally no defense.
+	* Tax law is huge & complicated, so Congress added mens rea req'ments to the criminal parts of tax law so that nobody would be a criminal just for failing to pay taxes (specific intent)(*US v. Murdock*).
+	* Murdock ct. said proper standard to tell the jury is whether ∂ acted in good faith based on his actual belief.
+	* *Bishop* & *Pomponio* together make the standard that willfulness is the voluntary intentional violation of a known legal duty.
+	* **III**
+		* **A**
+			* In a case where a ∂ knew of a statute and believed the statute was valid, gov't just has prove actual knowledge of the duty in order to establish willfulness
+			* If jury believed Cheek really didn't believe he had a legal duty to pay income tax, the gov'ts case wouldn't be enough to prove willfulness.
+			* Saying a belief isn't reasonable takes this case from being a question of fact to being a question of law, and out of the jury's hands.
+		* **B**
+			* Cheek said his good faith belief that income tax is unconstitutional and therefore he couldn't have known he had a duty
+			* That dog won't hunt.
+			* Such beliefs aren't innocent mistakes.
+			* He was free to to pay the taxes and then ask for a refund on the grounds that the taxes were invalid.
+			* Belief in the validity of the tax system is irrelevant to the willfulness question so the court was right to tell the jury to disregard that belief. (4) is okay.
+			
+* **Holding**
+	* An honest but unreasonable mistake negates mens rea
+	* But the belief that the tax code is unconstitutional is not that. The belief is based on study & understanding of the law.
+
+* **Rule**
+	* The standard for statutory willfulness is the voluntary intentional violation of a known legal duty => implies bad faith
+ 
+* **Concurrence**
+	* Scalia.
+	* If "willful" means "evil," that doesn't match up with the thought process of someone who doesn't pay taxes because he doesn't believe the law requires him to.
+	* An honest but wrong belief about the unconstitutionality of a law should negate the mens rea of violating that law.
+	* If you have an honest belief that a law is unconstitutional, how is that constitute knowledge of a duty?
+	
+#### Bryan v. United States
+* SCOTUS 1998, Stevens
+
+* **Parties**
+	* π: Bryan
+	* ∂: United States
+
+* **Facts**
+	* Omnibus crime bill made it illegal to deal firearms without a license.
+	* Lack of any intent req'ment essentially made selling guns a strict liability crime.
+	* Congress later amended the law to req that a defendant acted "willfully"
+	* π didn't have a license to sell guns
+	* π bought guns from straw purchasers to whom he gave assurances that he world file the serial nos off of the guns.
+	* He knew he was doing illegal things, but there's no evidence that he knew he was violating the particular law of which he was convicted.
+
+* **Procedural History**
+	* At trial, π asked that jury be told that he needed to know of the licensing req'ment in order to be convicted.
+	* Judge denied, instructing instead that: willfully means acting intentionally with the purpose of doing something the law forbids, even if he doesn't know the specific law he is breaking.
+	* π was convicted of dealing firearms w/o a license
+	* Ct. of app. affirmed.
+
+* **Issue**
+	* Does a statutory requirement of willfulness require just that he knew his act was illegal or did he have to know about the licensing requirement?
+
+* **Reasoning**
+* Willful req's bad purpose. Gov't has to prove conduct was knowingly unlawful.
+		* π argues that since congress said "knowingly" in three other places & "willfully" here, they meant to set a higher standard.
+			* This is irrelevant b/c "knowingly" is not a mental state req'ment.
+		* "factual knowledge" is different from "knowledge of the law"
+		* *Staples*: If you know you have a machine gun with the characteristics that violate the law, you don't have to know the law itself. Knowing the facts that constitute the offense is sufficient.
+		* π argues that since 'willfully' in tax law req's knowledge of the specific law, it should here, too
+			* but those laws were designed to protect people from violating those laws accidentally. *they are an exception*
+
+* **Holding**
+	* Aff'd
+
+* **Rule**
+	* ∂ doesn't have to know the specific statute he is violating in order to "willfully" violate it
+ 
+* **Dissent**
+	* Scalia
+	* Statute is genuinely ambiguous on the issue.
+	* Rule of lenity should apply.
+	
+#### Lambert v. California
+* SCOTUS 1957, Douglas
+
+* **Parties**
+	* π: Lambert
+	* ∂: CA
+
+* **Facts**
+	* LA Municipal Code defs a "convicted person" as anyone convicted of a crime in CA or convicted of something elsewhere that would also be a crime in CA.
+	* LA Code also says it's illegal for a "convicted person" to be in LA for more thane 5 days without registering
+	* π was arrested for something else & then charged with violating the reg. law.
+	* She had been convicted of forgery 7 yrs prior but never registered.
+
+* **Procedural History**
+	* Convicted at trial by jury
+	* Appealed saying LA law is unconstitutional.
+
+* **Issue**
+	* Can a registration law apply to someone who does not know of the law?
+
+* **Reasoning**
+	* No willfulness req'ment in LA Muni. Code.
+	* Assume she didn't know the law.
+	* Conduct alone is often enough for violation, but in such cases the conduct is usually commission rather than omission.
+	* Notice is essential to due process in cases where penalty may be incurred due to failure to act.
+	* Statute is just an easy way for law enforcement to get a list of names & addresses of convicted people.
+	* When she was told of the law & her violation of it, she didn't get a chance to bring herself into compliance.
+	* Actual knowledge of the law is necessary to establish duty
+
+* **Holding**
+	* Rev'd. LA reg law violates 14th amendment due process
+
+* **Rule**
+	* Can't punish conduct when offender doesn't know the law prohibiting that conduct and there's no reason she should know.
+ 
+* **Dissent**
+	* There are plenty of laws that you can break without knowing they exist.
+
+#### State v. Bryant
+* Supreme Ct. of NC 2005, Brady
+
+* **Parties**
+	* π: NC
+	* ∂: Bryant
+
+* **Facts**
+	* When ∂ was in jail in SC he was told that he needed to put himself on the SC sex offender registry when he got out.
+	* Statute says that when offender leaves SC, he has to notify the state w/in 10 days.
+	* ∂ reregistered in 8/2000 saying he moved to Pickens County, SC.
+	* ∂ was in W-S, NC working the Dixie Classic Fair in 10/2000
+	* While he was there he met a woman.
+	* He moved in with her in 11/2000 & proposed to her in 12/2000.
+	* He lived & got mail at her address.
+	* ∂ stayed there until 3/2001 when they broke up.
+	* ∂ didn't dispute his NC residence, but never reg'd with SC after moving.
+	* ∂ acknowledged to police that he didn't register with SC & also that was convicted as a sex offender in FL, too.
+	* NC also had a law like SC's req'ing sex offenders to register.
+
+* **Procedural History**
+	* ∂ was convicted of failing to register & became a habitual felon.
+	* ∂ appealed saying NC registry law was unconstitutional as applied to an out-of-stater.
+
+* **Issue**
+	* Can a registration law apply to someone who hasn't received actual notice of the law?
+
+* **Reasoning**
+	* There had been registry req'ments in all 50 states & DC for 6 years before ∂'s arrest in NC.
+	* Program is meant to help NC police & sex offenders have a high recidivism rate
+	* State has a strong safety interest in keeping tabs on sex offenders.
+	* NC law requires new residents who are sex offender to register within 10 days
+	* Legislature removed the mens rea req'ment from the statute in 1997. Strict liability offense.
+	* Not every crime needs an intent req'ment to satisfy due process. The clear legislative intent here plugs the due process hole.
+	* Substantive vs. procedural due process.
+	* ∂ is relying on PDP here saying he didn't have notice.
+	* ∂ says state has to prove actual notice of the registration requirement in order to satisfy PDP & SC statutes didn't say anything about registering outside of SC.
+	* Difference between this case & *Lambert* is that in *Lambert* she had no reason to think she should ask if she needed to register.
+	* That was a municipal ordinance, contrasted with an statewide state law in NC
+	* NC law narrowly targets sex offenders
+	* NC registry isn't just an administrative convenience--it's a public safety effort
+	* ∂ knew of his lifelong duty to reg in SC & he himself volunteered the info about his FL conviction.
+	* Sex offender reg's are pervasive.
+	* Not asking about local reg laws is neither innocent nor wholly passive.
+
+* **Holding**
 	* 
+
+* **Rule**
+	* Sex offender registration laws can apply to someone who hasn't received actual notice of the law.

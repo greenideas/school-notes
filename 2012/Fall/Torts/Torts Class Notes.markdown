@@ -61,6 +61,9 @@
 		- [Pipher v. Parsell](#pipher-v-parsell)
 		- [Indiana Consolidated Insurance Co. v. Mathew](#indiana-consolidated-insurance-co-v-mathew)
 		- [Stinnett v. Buchele](#stinnett-v-buchele)
+	- [October 4](#october-4)
+		- [US v. Carroll](#us-v-carroll)
+		- [Assessing responsibility among multiple tortfeasors](#assessing-responsibility-among-multiple-tortfeasors)
 
 # Torts
 
@@ -389,3 +392,12 @@ Insurance is an alternative to the tort system
 ### Stinnett v. Buchele
 * A RPP assumes that people will act to protect themselves
 * Negligence analysis has to take into account what the π himself should've done or foreseen.
+
+## October 4
+### US v. Carroll
+* US sued Conners Co. & Conners Co. impleaded Carroll
+* Grace line was contributorily negligent
+* Hand rule can be useful in property contexts when you can plug in actual values, but also as a heuristic in other kinds of cases as well.
+
+### Assessing responsibility among multiple tortfeasors
+* In most jurisdictions, the rule is joint & several liability.

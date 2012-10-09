@@ -55,6 +55,9 @@
 			- [Transfer in fed. cts.](#transfer-in-fed-cts)
 			- [Choice of law](#choice-of-law)
 			- [Multidistrict litigation](#multidistrict-litigation)
+			- [Forum non-conveniens](#forum-non-conveniens)
+			- [Piper Aircraft Co v. Reyno](#piper-aircraft-co-v-reyno)
+	- [What Law Applies in Federal Court](#what-law-applies-in-federal-court)
 
 # Civil Procedure: Cases, Materials, and Questions
 
@@ -1015,3 +1018,68 @@ SCOTUS 1878, J. Field
 * Other venue requirements don't apply
 * After pretrial,  §1407 says cases "shall be remanded" to their original venues
 * Often though, the court that hears the pretrial proceedings will 1406 or 1407 the case to itself for trial. SCOTUS rejected this practice, but it's allowed when both parties consent
+
+#### Forum non-conveniens
+#### Piper Aircraft Co v. Reyno
+* SCOTUS 1981, Marshall
+
+* **Parties**
+	* π: Piper Aircraft
+	* ∂: Reyno
+
+* **Facts**
+	* 6 Scottish citizens were killed in a plane crash in Scotland.
+	* The plane was mfrd in PA by π & reg'd in Great Britain & operated by a Scottish air taxi svc.
+	* CA probate ct appointed ∂ to be administrator of the 5 passengers' estates.
+
+* **Procedural History**
+	* ∂ sued π for wrongful death
+	* She did so in the US because US liability law is more favorable that Scottish law.
+	* Case was filed in CA
+	* ∂ had it removed to dist. ct. in middle PA. 
+	* π moved to dismiss on forum non-conveniens.
+	* Dist ct. granted b/c of an alternative forum in Scotland.
+	* 3rd circuit rev'd.
+	* ∂ moved for non-conveniens dismissal.
+	* PA dist ct granted because the hardship to Piper far outweighed the conveience to Reyno.
+	* *district ct's reasonimg*
+		* Plaintiff's choice of forum is given little weight.
+		* The real parties of interest are Scottish as are the decedents. 
+		* All witnesses would be in Scotland
+		* Would be most fair to let one jury hear all of the defendants' cases.
+		* A PA jury would have a hard time with this Scottish case & so would PA judges
+	* 3d circ. rev'd & remanded.
+
+* **Issue**
+	* Should the court allow dismissal for non-conveniens when the new forum will be less favorable to the plaintiff?
+
+* **Reasoning**
+	* 3rd circ. was wrong to decide based on unfavorable change of law for Reyno.
+	* Main reason for non-conveniens is convenience
+	* If we worried about favorability, we might put people in favorable but inconvenient forums
+	* Since πs are usually able to choose from a number of venues, often with very favorable laws, it would often be the case that a new venue would be less favorable, so if that were a consideration we would never dismiss.
+	* If we made choice-of-law, judges would have to know about the laws of many (foreign) jurisdictions.
+	* Wd encourage an inflow of litigation into the US.
+	* f n-c is unlike a §1404 transfer. 1404 was meant to allow easy transfer within the federal system.
+	* Favorableness of change-of-law shouldn't be excluded as a consideration, but it shouldn't be the deciding factor. If the decedents' families wouldn't be able to get any remedy under Scottish law, we wouldn't dismiss under f n-c, but this isn't the case.
+	* **III**
+		* Dist ct. correctly weighed public & private interests.
+		* Strong presumption for π's choice of forum that can only be outweighed by strong public & private interests.
+		* Presumption is weaker when π is foreign.
+		* Discretion for f n-c belongs to the dist. ct. & deserves substantial deference.
+		* Difficulty of impleading foreign co-defendants is relevant to motion.
+		* 
+
+* **Holding**
+	* Reversed
+
+* **Rule**
+	* A change in favorability of law is not sufficient grounds to bar a forum non-conveniens dismissal.
+	 
+## What Law Applies in Federal Court
+* 'horizontal' choice-of-law -- which of several states' laws applies?
+* 'vertical' c-o-l -- whether federal or state law governs a decision
+* Rules of Decision Act (U.S.C. 28 § 1652) - Fed cts will apply state laws in civil actions only where there is no federal law.
+* Article VI Supremacy Clause makes fed law supreme.
+* Rule of Decision Act applies to substantive but not procedural issues.
+* RoDA only includes statutes--not common law.

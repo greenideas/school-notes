@@ -47,6 +47,9 @@
 			- [Bell v. State](#bell-v-state)
 		- [Mistakes of law](#mistakes-of-law)
 			- [People v. Marrero](#people-v-marrero)
+	- [October 9](#october-9)
+		- [Mistake of Law](#mistake-of-law)
+		- [Cheek v. United States](#cheek-v-united-states)
 
 # Criminal Law Class Notes
 
@@ -333,3 +336,22 @@
 * Ct. says a mistaken interpretation of the statute doesn't suffice.
 * In MPC jurisd. a mistaken reading of the statute isn't enough. There has to be some subsequent mistaken official interpretation of the statute.
 * ∂ just wants to apply the rule of lenity, but since the statutory interp issue is off the table, it's no longer relevant.
+* In NY (& most jurisd) if you want to say mistake of law can negate mens rea (mistaken interp. matters), the interpretation has to be official & a formal pronouncement.
+
+## October 9
+* Honest mistake of fact can negate purposely, knowingly, and recklessly, but not neglegently.
+* To negate neglegently, honest mistake of fact has to be reasonable.
+* MPC: If the beliefs you acted on would've been a lesser crime, you can be convicted of the original crime, but punished at the crime your beliefs would've constituted.
+
+### Mistake of Law
+* Statutory interp canon: Don't read a statute to be redundant.
+* Generally mistake of law isn't a defense.
+* Exceptions:
+	* Mistake was based on official interpretation.
+
+### Cheek v. United States
+* Congress imposed a standard of super-purposely for criminal tax law. You have to know that you're doing the prohibited conduct and you have to know that your conduct is prohibited under the statute.
+* In MoL cases, always go back to the standard that MoL is no defense and reason out if/why there could be an exception under the particular circucmstances.
+* "Willfully" when written into a statute connotes "super-purposely"
+* Mistake of law defenses apply differently in omissions vs commissions.
+* Tax cases are super exceptional.

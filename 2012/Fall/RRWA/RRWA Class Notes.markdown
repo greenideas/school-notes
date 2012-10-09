@@ -19,6 +19,7 @@
 		- [Short form citations](#short-form-citations)
 		- [Presentation feedback](#presentation-feedback)
 		- [Counter-analysis ](#counter-analysis)
+	- [October 8](#october-8)
 
 # RRWA Class Notes
 * [8/27/2012][8-27-2012]
@@ -207,3 +208,12 @@
 ### Counter-analysis 
 * Does a robot count as the kind of goods in which Segal deals?
 * Attack entrustment
+
+## October 8
+* "court" should be capitalized when :
+	* you're using the full name of the court
+	* you're writing to the specific court
+	* you're referring to SCOTUS
+* "constitutions":
+	* you name the whole constitution
+	* you are referring to the US Constitution 

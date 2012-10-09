@@ -103,6 +103,12 @@
 		- [Assessing Responsibility when more than One Person is Negligent](#assessing-responsibility-when-more-than-one-person-is-negligent)
 		- [Proving & Evaluating Conduct](#proving-&-evaluating-conduct)
 			- [Santiago v. First Student](#santiago-v-first-student)
+			- [Upchurch v. Rotenberry](#upchurch-v-rotenberry)
+			- [Forsyth v. Joseph](#forsyth-v-joseph)
+			- [Thoma v. Cracker Barrel Old Country Store, Inc.](#thoma-v-cracker-barrel-old-country-store-inc)
+			- [Wal-Mart Stores, Inc. v. Wright](#wal-mart-stores-inc-v-wright)
+			- [Duncan v. Corbetta](#duncan-v-corbetta)
+			- [The TJ Hooper](#the-tj-hooper)
 
 # Torts & Compensation - Dobbs
 ## Tort Law: Aims, Approaches and Processes
@@ -1798,7 +1804,7 @@
 
 * **Reasoning**
 	* No rule to determine when a boat owner has a responsibility to have a bargee on a boat being towed
-	* Owner's duty depends on three variables:
+	* Owner's liability depends on three variables:
 		1. Probability (P) that she will break away
 		2. gravity of harm (L) if she does
 		3. Burden (B) of precautions
@@ -1866,3 +1872,205 @@
 
 * **Rule**
 	* Apportioning liability requires evidence about the activities of the parties involved in an accident.
+
+#### Upchurch v. Rotenberry
+* MI 2000, Pittman
+
+* **Parties**
+	* π: Upchurch
+	* ∂: Rotenberry
+
+* **Facts**
+	* ∂ was driving.
+	* Adam Upchurch was in the passenger seat.
+	* ∂ lost control of the car which left the road suddenly causing injuries that killed Adam.
+	* No witnesses besides ∂.
+
+* **Procedural History**
+	* π sued for wrongful death.
+	* Jury found for ∂.
+	* π moved for JNOV
+	* Trial ct. denied & π appealed.
+	* Expert witness testified that there were no skid marks and that ∂'s car travelled in a straight line from the road to the tree.
+	* ∂ hit the tree going 60mph.
+	* ∂ had an expert that said there *were* tire marks--yaw marks, that indicated where the car turned--and that ∂ was only going 25-35 mph until he was x-examined, when he said it was 42-50.
+	* ∂'s expert said evidence showed ∂ swerved to avoid something on the road.
+	* ∂ said she couldn't remember the two days leading up to the accident.
+	* ∂ said there was a dog or deer in the road that she swerved to avoid.
+	* π's expert said he smelled alcohol on ∂ at the scene.
+	* There was beer in the car.
+	* Officer at the scene said that ∂ told him that she had had two beers earlier in the night, but he didn't put that in his report.
+
+* **Issue**
+	* How much discretion are jurors entitled to use in determining matters of fact based on testimony.
+
+* **Reasoning**
+	* A jury could reasonably disagree about what to conclude from these facts.
+	* Jury gets to decide what portions of testimony & what witnesses they will accept.
+	* Cts will accept a jury verdict unless it's clearly contradicted by the overwhelming weight of the testimony.
+
+* **Holding**
+	* Upheld, JNOV denied.
+
+* **Rule**
+	* Jurors may use discretion in deciding matters of fact based on testimony unless the overwhelming weight of the evidence contravenes the verdict.
+ 
+* **Notes**
+	* *Determining fault*
+		* Small physical limitations
+		* Accuracy of testimony
+		* Using traffic rules to test for fault -- traffic laws are usually the central issue
+		* Changing safety environments
+	* *Credibility rule*
+		* Jury role - juries determine the credibility of witnesses.
+		* Lawyers' role
+		* Credibility & directed verdicts - often courts will not give directed verdicts even when ∂ doesn't give testimony -- just so the jury can decide the credibility of the π's testimony.
+
+#### Forsyth v. Joseph
+* NM Ct. of App. 1968
+
+* **Parties**
+	* π: Forsyth
+	* ∂: Joseph
+
+* **Facts**
+	* Villa's truck struck a car.
+	* Someone in the kar was killed.
+	* Evidence suggested that Villa's truck skidded 129 ft. before impact.
+	* Speed limit was 55 & Villa was going 55 at the time of impact.
+
+* **Procedural History**
+	* Trial ct. found Villa to be negligent partly due to the speed.
+
+* **Issue**
+	* 
+
+* **Reasoning**
+	* 
+
+* **Holding**
+	* 
+
+* **Rule**
+	* 
+
+* **Notes**
+	* Circumstantial evidence is often the most important in tort cases & there are often factual inferences to make
+	* Witnesses can't give opinions about the issue before the court--testimony is limited to facts in their knowledge.
+	* Experts & investigating officers can give opinions based on their expertise, but only if that testimony is necessary to help the jury interpret the facts.
+
+#### Thoma v. Cracker Barrel Old Country Store, Inc.
+* FL dist. ct. 1995
+
+* **Parties**
+	* π: Thoma
+	* ∂: Cracker Barrel
+
+* **Facts**
+	* At Cracker Barrel, π slipped & fell after standing up from her table.
+	* She noticed a 1-2 ft area with droplets of clear liquid & claims that's what she slipped on
+	* No one spilled anything & no one else slipped on that liquid in the 30 mins she was there.
+
+* **Procedural History**
+	* Trial ct. granted ∂ summary judgment
+
+* **Issue**
+	* Is summary judgment appropriate if there are sufficient facts to support multiple inferences about a claim.
+
+* **Reasoning**
+	* For a slip & fall, π has to show that ∂ created or knew about a dangerous condition.
+	* In another case, when the facts supported the inference that the liquid had been around for a long time, ct. reversed a summary judgment for ∂, since they ought to have known.
+
+* **Holding**
+	* Rev'd & remanded.
+
+* **Rule**
+	* If there are sufficient facts to support multiple inferences, the question should go to a jury.
+ 
+* **Notes**
+	* Three theories of liability:
+		1. ∂ created & failed to take reasonable steps to remedy a hazard.
+		2. ∂ didn't create but should've know about a hazard ("constructive notice")
+		3. ∂'s business operations make hazard foreseeable but ∂ doesn't fix that hazard (loose beans on the floor by the bulk foods aisle).
+	* To show ∂ should've known about a hazard, you have to show that it was there for a long time. That counts as constructive notice.
+	* Corollary rules help slip & fall πs
+
+#### Wal-Mart Stores, Inc. v. Wright
+* IN 2002
+
+* **Parties**
+	* π: Wal-Mart
+	* ∂: Wright
+
+* **Facts**
+	* Woman slipped on a puddle in the garden section.
+	* Wal-Mart's employee handbook had detailed rules & instructions for cleaning up spills.
+
+* **Procedural History**
+	* Trial judge instructed jury that the manual's policy set a higher standard of ordinary care for WM employees.
+	* Trial ct. found for Wright.
+	* WM appealed.
+
+* **Issue**
+	* Can someone be held liable for not meeting an ordinary care standard that they set themselves?
+
+* **Reasoning**
+	* Just because WM set a standard for its employees that was higher than ordinary care, the legal standard is still ordinary care.
+
+* **Rule**
+	* Just because a party sets a standard for himself that is higher than ordinary care, the legal standard is still ordinary care.
+
+#### Duncan v. Corbetta
+* NY app. div. 1991
+
+* **Parties**
+	* π: Duncan
+	* ∂: Corbetta
+
+* **Facts**
+	* π was hurt when the top step on ∂'s external staircase collapsed.
+
+* **Procedural History**
+	* Ct. disallowed π's expert's testimony that many people use pressure treated lumber for building exterior staircases (even though it's not required by code)
+
+* **Issue**
+	* Can ordinary care be a higher standard than a statutory one if a general custom exists?
+
+* **Rule**
+	* Ordinary care may be a higher standard than the statutory standard if there is a general custom.
+
+* **Notes**
+	* Custom can prove that harm was foreseeable.
+
+#### The TJ Hooper
+* 2nd cir. 1932. Hand :D
+
+* **Parties**
+	* π: 
+	* ∂: 
+
+* **Facts**
+	* Two barges picked up cargo in Norfolk.
+	* En route to NY, two tugs towed the barges.
+	* The boats were lost off of the NJ coast.
+	* Cargo owners sued the tug co.
+	* Radio broadcasts old of the weather that drove the boats off course.
+	* Tugs didn't have radios equipped.
+	* Both tugs' pilots' personal radios were broken.
+
+* **Procedural History**
+	* Trial ct found that all of the boats were unseaworthy since the lacked radio comms.
+	* Barge & tug owners were jointly liable.
+
+* **Issue**
+	* Can we hold ∂s liable for failing to meet a standard of reasonable care that outpaces custom?
+
+* **Reasoning**
+ 	* No custom to put radios on tugs.
+	* Tugs pulling barges are a lot less maneuverable than other boats & so are more susceptible to stormy weather.
+
+* **Rule**
+	* Even if custom hasn't caught up to what is now reasonable, we still must hold ∂s to the reasonable care standard.
+ 
+* **Notes**
+	* 
