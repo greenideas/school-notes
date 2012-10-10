@@ -109,6 +109,12 @@
 			- [Wal-Mart Stores, Inc. v. Wright](#wal-mart-stores-inc-v-wright)
 			- [Duncan v. Corbetta](#duncan-v-corbetta)
 			- [The TJ Hooper](#the-tj-hooper)
+		- [Proving Unspecified Negligence -- Res Ipsa Loquitur](#proving-unspecified-negligence----res-ipsa-loquitur)
+			- [Byrne v. Boadle](#byrne-v-boadle)
+			- [Procedural incidents](#procedural-incidents)
+			- [Koch v. Norris public power district](#koch-v-norris-public-power-district)
+			- [Cosgrove v. Commonwealth Edison Co.](#cosgrove-v-commonwealth-edison-co)
+			- [Warren v. Jeffries](#warren-v-jeffries)
 
 # Torts & Compensation - Dobbs
 ## Tort Law: Aims, Approaches and Processes
@@ -1861,7 +1867,7 @@
 
 * **Issue**
 	* Can fault be apportioned in the absence of evidence?
-
+	
 * **Reasoning**
 	* Granting the facts as π stated, we would still only be speculating as to ∂'s fault.
 	* There's no evidence of the interaction b/w the two vehicles, so no way to apportion fault.
@@ -1935,24 +1941,12 @@
 
 * **Facts**
 	* Villa's truck struck a car.
-	* Someone in the kar was killed.
+	* Someone in the car was killed.
 	* Evidence suggested that Villa's truck skidded 129 ft. before impact.
 	* Speed limit was 55 & Villa was going 55 at the time of impact.
 
 * **Procedural History**
 	* Trial ct. found Villa to be negligent partly due to the speed.
-
-* **Issue**
-	* 
-
-* **Reasoning**
-	* 
-
-* **Holding**
-	* 
-
-* **Rule**
-	* 
 
 * **Notes**
 	* Circumstantial evidence is often the most important in tort cases & there are often factual inferences to make
@@ -2072,5 +2066,93 @@
 * **Rule**
 	* Even if custom hasn't caught up to what is now reasonable, we still must hold ∂s to the reasonable care standard.
  
+### Proving Unspecified Negligence -- Res Ipsa Loquitur
+#### Byrne v. Boadle
+* UK 1863
+
+* **Parties**
+	* π: Byrne
+	* ∂: Boadle
+
+* **Facts**
+	* π was walking & doesn't remember anything else
+	* Witnesses say they saw a barrel of flour hit him on the head
+
+* **Procedural History**
+	* Trial judge nonsuited -- no cause of action
+	* π appealed
+
+* **Issue**
+	* Can an accident itself be sufficient evidence of a negligence claim?
+
+* **Reasoning**
+	* ∂ said π needed to prove an affirmative case but he couldn't connect ∂ with the incident
+	* Sometimes the fact that the accident occurred is evidence of negligence (railway collisions)
+	* ∂ argued that cases shouldn't go to a jury unless they give some evidence of negligence
+	* That shouldn't apply to every case.
+	* General cause of accidents is negligence
+	* ∂ said accidents where due care can be proved aren't negligent
+	* It is the duty of people who keep barrels in warehouses to make sure that those barrels don't roll away. Barrels don't roll without negligence.
+
+* **Rule**
+	* The fact that an accident occurred can itself be sufficient evidence of a negligence claim.
+ 
 * **Notes**
+	* Traditional criteria for when res ipsa loquitur can apply:
+		1. The specific kind of accident is one that doesn't ordinarily happen without some negligence
+		2. The instrumentality of the accident was under sole control of the ∂
+		3. π can not have caused the accident in any way
+	* Restatement criteria:  
+		1. The specific kind of accident is one that doesn't ordinarily happen without some negligence
+		2. Other causes, like involvement of π or 3rd parties, are ruled out by the evidence.
+		3. ∂ had some duty that he breached which caused the accident.
+
+#### Procedural incidents
+* Application of res ipsa gets a case past directed verdict and in front of a jury
+* res ipsa jury instruction: if jury finds the elements, they can infer negligence
+* res ipsa is a permissible inference but π still has the burden of proof
+* res ipsa usually permits rather than requires an inference of negligence, but sometimes the evidence is so strong that the inference is mandatory.
+	* Here the judge can give the π summary judgment or a directed verdict
+* Some cts say res ipsa creates presumption against ∂, so ∂ has to prove he wasn't neg. & judge can give summ judg if he doesn't think ∂ has so proved.
+
+#### Koch v. Norris public power district
+* High voltage line fell causing a fire & damage to π's property.
+* Inconclusive evidence about whether the line was shot.
+* Power lines don'f fall unless there's negligence on the part of the power company
+
+#### Cosgrove v. Commonwealth Edison Co.
+* Same as Koch, only instead of dry brush, there was a gas leak.
+* Power lines fall for reasons other than negligence, but gas leaks don't happen without negligence.
+* lol.
+
+#### Warren v. Jeffries
+* NC 1965
+
+* **Parties**
+	* π: Warren
+	* ∂: Jeffries
+
+* **Facts**
+	* 6-yo TLE was killed when a wheel of ∂'s car ran him over.
+	* ∂ went to TLE's house to see his dad & parked the car in the yard.
+	* Car was parked on an incline.
+	* There were ~12 kids around from 18mos to 20yrs
+
+* **Procedural History**
+	* π sued for wrongful death
+	* Trial ct. gave involuntary nonsuit
+	* π appealed.
+
+* **Issue**
 	* 
+
+* **Reasoning**
+	* π said ∂ (1) didn't set the hand brake, (2) didn't engage the xmission (3) didn't maintain his brakes.
+	* There's no evidence of any of that.
+	* res ipsa loquitur doesn't apply
+
+* **Holding**
+	* Aff'd
+
+* **Rule**
+	* All of the elements of res ipsa negligence have to be present (more likely than not) to establish it

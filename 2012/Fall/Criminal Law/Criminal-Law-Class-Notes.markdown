@@ -50,6 +50,12 @@
 	- [October 9](#october-9)
 		- [Mistake of Law](#mistake-of-law)
 		- [Cheek v. United States](#cheek-v-united-states)
+	- [October 10](#october-10)
+		- [Lambert v. California](#lambert-v-california)
+		- [State v. Bryant](#state-v-bryant)
+		- [Mistake recap](#mistake-recap)
+			- [Mistakes of fact](#mistakes-of-fact)
+			- [Mistakes of law](#mistakes-of-law)
 
 # Criminal Law Class Notes
 
@@ -351,7 +357,58 @@
 
 ### Cheek v. United States
 * Congress imposed a standard of super-purposely for criminal tax law. You have to know that you're doing the prohibited conduct and you have to know that your conduct is prohibited under the statute.
-* In MoL cases, always go back to the standard that MoL is no defense and reason out if/why there could be an exception under the particular circucmstances.
+* In MoL cases, always go back to the standard that MoL is no defense and reason out if/why there could be an exception under the particular circumstances.
 * "Willfully" when written into a statute connotes "super-purposely"
 * Mistake of law defenses apply differently in omissions vs commissions.
 * Tax cases are super exceptional.
+
+## October 10
+* Default rule: Mistake of law is not a defense.
+	* Exceptions:
+		* Mistake was based on an official interpretation.
+			* We don't want to hold people liable for the gov't screw ups.
+		* Only ever relevant when they negate the mens rea of the crime
+		* Lack of notice--due process violations
+	
+### Lambert v. California
+* reg statute is extremely broad, capacious.
+* continuing offense - can be punished for every day you don't register
+* SCOTUS had to assume ∂ had no knowledge, since they're deciding the case as a matter of law.
+* police power - law enforcement, but also broad authority over public interest & safety, e.g. zoning, public health, etc.
+* Any powers not enumerated by the fed gov't are left to the states. Police power lives in there.
+* Due process & notice req are how we limit police powers
+* Gov't would have to prove either:
+	* ∂ had actual knowledge about her legal duty
+	* ∂ was very likely to have known of her legal duty due to the circumstances (constructive knowledge?)
+* SCOTUS can't read a mens rea req'ment into the CA statute. That's outside the scope of its authority.
+* Dissent
+	* Majority is backing into a result they favor.
+	* *Balint* should be the standard.
+* *Lambert* is a narrow exception to a narrow exception: failure of notice *and* omission rather than commission.
+
+### State v. Bryant
+* NC statute had no mens rea req'ment
+* Same principles as *Lambert*, but circumstances are a lot different. 
+* Many more reasons ∂ should've had notice of his duty to register.
+
+### Mistake recap
+* For both mistake of fact & mistake of law, mistakes are only relevant when they negate the mens rea requirement of a crime
+	* Except in some mistake of law cases
+
+#### Mistakes of fact
+* Depends on whether we're in a common law or MPC jursidiction
+	* Common law: 
+		* If the facts as ∂ believes them still constitute a crime, ∂ can be convicted of & punished for the crime he's charged with
+		* General intent: mistake needs to be honest & reasonable
+		* Specific intent: mistake needs to be honest but not necessarily reasonable
+	* MPC:
+		* Mistake that is honest (whether or not it was reasonable) can negate "purposely," "knowingly," or "recklessly"
+		* Mistake that is honest and reasonable can negate "negligently"
+		* If the facts as ∂ believes them still constitute a crime, ∂ can be convicted of  the crime he's charged with but only punished for the crime he thought he committed
+
+#### Mistakes of law
+* Only exceptions to 
+	* Official interpretation
+	* Ignorance or mistake of law that negates the mens rea
+		* Tax law is different because it's technical & likely to snare innocent people
+	* Due process/notice

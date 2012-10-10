@@ -65,6 +65,10 @@
 		- [Section 1391](#section-1391)
 		- [Transfer of venue](#transfer-of-venue)
 	- [October 9](#october-9)
+		- [Piper Aircraft v. Reyno](#piper-aircraft-v-reyno)
+	- [October 10](#october-10)
+		- [Raising issues of personal jurisdiction, subj. matter jurisdiction & venue](#raising-issues-of-personal-jurisdiction-subj-matter-jurisdiction-&-venue)
+		- [Erie R.R. Co. v. Tompkins](#erie-rr-co-v-tompkins)
 
 # Civil Procedure Class Notes
 
@@ -600,3 +604,39 @@
 	* 1404 transfer uses the law of the transferor venue state.
 
 ## October 9
+### Piper Aircraft v. Reyno
+* f n-c is only available to ∂s.
+* f n-c can only be used if there's an alternative forum, such as where there is an subject matter court to hear the case in that forum.
+* f n-c isn't wrong as long as π can find some remedy in the alternative forum.
+* If the remedy is unsatisfactory, you can't move a case there.
+* The point of forum non is to prevent having to do hard work in comparative law.
+* Can only reverse a dist. ct. dismissal of forum non if there's abuse of discretion.
+
+## October 10
+* Reread p. 260 n. 6 for factors to consider when deciding forum non cases
+* In a forum non analysis, the π's choice of forum gets a lot of weight. 
+* In a 1404 transfer, either party can move to transfer.
+* State law on forum non can differ from the federal standard, some states may make it easier, some make it harder, and some forbid it.
+* The availability of forum non can be relevant in a case where ∂ wants to remove from state to fed ct because a problem arises under fed law
+* Foreign ∂s will try to get forum non in cases where it wouldn't be worth it to sue outside of the US.
+* You apply the *Gilbert* criteria for both forum non cases *and* for 1404 transfers.
+
+### Raising issues of personal jurisdiction, subj. matter jurisdiction & venue
+* collateral v. direct attack on judgment
+	* Direct - asking for judgment as a matter of law, appealing. Trying to make a judgment go away. The judgment is recorded, but you want it thrown out.
+	* Collateral - Ask the second court to act as if the original judgment had never been made. Refusing to give ff&c.
+* **Rule 12(b) - direct attack**
+	* Permits joining all defenses in a responsive plea. 12(b) defenses and defenses on the merits can be entered on the same plea.
+	* 12(b)(2), (3), (4) and (5) are *disfavored defenses* and always waived if not brought up right away.
+	* Can't make a 12(h)(1) defense if you've already made a Rule 12 motion and didn't include a 12(h)(1) defense then (unless 12(h)(1) wasn't available when you made the original Rule 12 motion)
+	* 12(h)(1)(a) says that such defenses are waived, so you can't raise them at all.
+	* This happened to the ∂s in *Bates*. They asserted improper venue, but didn' t claim lack of PJ, so they waived the PJ defense.
+	* 12(h)(2) - can't assert failure to state a claim on appeal
+	* 12(h)(3) - Court has to dismiss the case if it finds it has no subject matter jurisdiction no matter when it finds that out.
+* If ∂ wasn't present (defaulting) in the original suit, he can then say the judgment in that suit shouldn't get ff&c.
+* Defaulting as a tactic isn't a good idea.
+* SCOTUS says no collateral attack on federal subject matter jurisdiction.
+* Some state cts will re-examine subject matter jurisdiction.
+
+### Erie R.R. Co. v. Tompkins
+* What does "law" mean?

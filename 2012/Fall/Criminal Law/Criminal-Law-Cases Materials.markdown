@@ -1654,13 +1654,13 @@
 * SCOTUS 1957, Douglas
 
 * **Parties**
-	* π: Lambert
-	* ∂: CA
+	* π: CA
+	* ∂: Lambert
 
 * **Facts**
 	* LA Municipal Code defs a "convicted person" as anyone convicted of a crime in CA or convicted of something elsewhere that would also be a crime in CA.
-	* LA Code also says it's illegal for a "convicted person" to be in LA for more thane 5 days without registering
-	* π was arrested for something else & then charged with violating the reg. law.
+	* LA Code also says it's illegal for a "convicted person" to be in LA for more than 5 days without registering
+	* ∂ was arrested for something else & then charged with violating the reg. law.
 	* She had been convicted of forgery 7 yrs prior but never registered.
 
 * **Procedural History**

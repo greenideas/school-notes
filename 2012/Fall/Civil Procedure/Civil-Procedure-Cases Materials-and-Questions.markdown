@@ -58,6 +58,8 @@
 			- [Forum non-conveniens](#forum-non-conveniens)
 			- [Piper Aircraft Co v. Reyno](#piper-aircraft-co-v-reyno)
 	- [What Law Applies in Federal Court](#what-law-applies-in-federal-court)
+			- [Erie Railroad Co. v. Tompkins](#erie-railroad-co-v-tompkins)
+			- [Hanna v. Plumer](#hanna-v-plumer)
 
 # Civil Procedure: Cases, Materials, and Questions
 
@@ -1035,8 +1037,9 @@ SCOTUS 1878, J. Field
 * **Procedural History**
 	* ∂ sued π for wrongful death
 	* She did so in the US because US liability law is more favorable that Scottish law.
-	* Case was filed in CA
-	* ∂ had it removed to dist. ct. in middle PA. 
+	* Case was filed in CA Superior Ct.
+	* Case was removed first to dist. ct. in CA.
+	* § 1404 transfer to dist. ct. in middle PA.
 	* π moved to dismiss on forum non-conveniens.
 	* Dist ct. granted b/c of an alternative forum in Scotland.
 	* 3rd circuit rev'd.
@@ -1068,7 +1071,6 @@ SCOTUS 1878, J. Field
 		* Presumption is weaker when π is foreign.
 		* Discretion for f n-c belongs to the dist. ct. & deserves substantial deference.
 		* Difficulty of impleading foreign co-defendants is relevant to motion.
-		* 
 
 * **Holding**
 	* Reversed
@@ -1083,3 +1085,119 @@ SCOTUS 1878, J. Field
 * Article VI Supremacy Clause makes fed law supreme.
 * Rule of Decision Act applies to substantive but not procedural issues.
 * RoDA only includes statutes--not common law.
+
+#### Erie Railroad Co. v. Tompkins
+* SCOTUS 1938, Brandeis
+
+* **Parties**
+	* π: Tompkins
+	* ∂: Erie RR Co.
+
+* **Facts**
+	* π was a PA citizen
+	* ∂ was a NY corp.
+	* π was walking along the tracks of ∂'s right-of-way when he was injured by one of ∂'s trains.
+	* π said he was on a common footpath.
+	* π said he was hit by an open door on the train
+	* Injury occurred in PA.
+
+* **Procedural History**
+	* π sued ∂ for negligence in fed. dist. ct. in NY (b/c ∂ was incorporated there)
+	* ∂ argued their duty to π was the same as to a trespasser. 
+	* ∂ said duty was determined under PA law, which said that people walking on paths next to right-of-ways are trespassers
+	* π said PA law didn't say that & in absence of a state statute it was up to fed cts to decide liability
+	* trial judge wouldn't preclude liability & jury gave π $30k
+	* Circuit ct. of app. affirmed saying railroads are a matter of "general law" and so any PA law (or lack thereof) is irrelevant
+	* ∂ said Rule of Decision Act required ct to use PA law.
+
+* **Issue**
+	* Can a federal court disregard an alleged rule of state common law?
+
+* **Reasoning**
+	* **I**
+		* *Swift v. Tyson*
+			* In a diversity case, fed ct don't have to apply unwritten rules of state law as that state's highest court has interpreted them. 
+			* fed ct. can do its own interpretation of a state's common law.
+			* Scholarship of the RoDA after *Swift* showed that its intent was to allow a states statutes *and* common law to control.
+		* *Black & White Taxicab Co. v. Brown & Yellow Taxicab Co.*
+			* Brown & Yellow, a KY corp, tried to reincorporate in TN in order to enter into a contract that would've been illegal in KY. They then sued to enjoin B&W, the KY corp from competing under KY common law.
+			* Injunction was affirmed by Ct. of App. applying *Swift*'s doctrine.
+	* **II**
+		* Under *Swift* the multifarious state interps of their common law made laws unpredictable
+		* The purpose of diversity jurisdiction was to prevent discrimination against out-of-staters
+		* *Swift* encouraged this discrimination. 
+			* Common law could be interpreted more or less favorably to out-of-staters depending on whether suit was brought in state or federal ct.
+		* Goal of *Swift* was to promote consistency while it had the opposite effect.
+		* "general law" started to encompass more and more subjects, including contracts, some kinds of tort liability, deeds, real estate, etc.
+		* People in corps were abusing *Swift* by moving or reincorporating (like Black & Yellow)
+	* **III**
+		* There is no federal common law--just the constitution & acts of Congress.
+		* Congress can't make common law enforceable and neither can federal courts.
+		* States are the ultimate deciders of how the force of common law is to be applied within them
+
+* **Holding**
+	* Federal courts must apply state common law in addition to statutory law.
+
+* **Rule**
+	* 
+ 
+* **Concurrence**
+	* Reversing *Swift* means saying that local cts' decisions have the force of law.
+	* "laws" includes "decisions"
+
+* **Notes**
+	* "general law" is a non-state-specific common law tradition.
+	* Brandeis reversed *Swift* saying it was unconstitutional without saying what part of the Constitution it ran afoul of. It was probably the 10th amendment which enumerated the powers of the federal government and didn't include authority to establish a federal common law.
+
+#### Hanna v. Plumer
+* SCOTUS 1965, Warren
+
+* **Parties**
+	* π: Hanna
+	* ∂: Plumer executor of the estate of the person π was in an accident with
+
+* **Facts**
+	* Svc was made by leaving notice at ∂'s address with his wife, according to 4(e)(2)
+	* MA svc rule said an executor couldn't be sued by a creditor after he's been executor for over a year.
+
+* **Procedural History**
+	* Accident in SC.
+	* π sued for an amount meeting the amt in controversy req'ment
+	* π was an OH citizen
+	* ∂ was a MA citizen (deceased)
+	* π sued in MA dist. ct.
+	* Ct granted ∂ summary judgment
+	* 1st circ. affirmed
+
+* **Issue**
+	* In a diversity case, should process be served under state law or according to Rule 4(e)(2)?
+
+* **Reasoning**
+	* Service under rule 4 is in the scope of Rules Enabling Act 28 USC § 2072 since suit was brought in district ct.
+	* ∂'s argument
+		* *Erie* said that fed cts are bound by state ct. decisions in addition to statutes whenever applying federal law would change the outcome of the case.
+		* That would happen here, since MA law goes automatically for ∂.
+		* Therefore, we should apply MA law
+	* There is no automatic test like this to determine which law should apply
+	* The point of *Erie* was to prevent cases from turning out differently if they were brought in fed vs. state ct.
+	* *Erie* ct wanted to prevent forum shopping
+	* Post-*Erie*, the cases that look like state law "winning" over fed law are just cases where the federal rule was narrower in scope than the people who wanted it applied were arguing.
+	* *Erie* allows state decisions & laws to apply in places where there's no controlling federal rule.
+	* A rough interpretation of the effect of the enabling rule and the *Erie* rule is that federal procedural law should apply and state substantive law should apply 
+	
+	
+* **Holding**
+	* Svc was valid.
+
+* **Rule**
+	* FRCP service rules trump state service rules
+ 
+* **Concurrence**
+	* Harlan
+	* *Erie* was about more than when to apply FRCP. It was the cornerstone of modern federalism.
+
+* **Notes**
+	* Two prongs of analysis for *Erie* cases
+		1. Rules Enabling Act applies if there's a federal rule on point.
+			* This is ironclad from the Supremacy Clause
+		2. Rule of Decision Act applies if there is no federal rule.

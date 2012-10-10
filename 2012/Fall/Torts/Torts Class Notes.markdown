@@ -64,6 +64,8 @@
 	- [October 4](#october-4)
 		- [US v. Carroll](#us-v-carroll)
 		- [Assessing responsibility among multiple tortfeasors](#assessing-responsibility-among-multiple-tortfeasors)
+	- [October 5](#october-5)
+		- [Categories of evidence](#categories-of-evidence)
 
 # Torts
 
@@ -401,3 +403,20 @@ Insurance is an alternative to the tort system
 
 ### Assessing responsibility among multiple tortfeasors
 * In most jurisdictions, the rule is joint & several liability.
+
+## October 5
+* Claimant's burden in establishing breach to offer alternative courses of action to what the defendant actually did
+* Reasonable doubt (criminal) vs. preponderance of the evidence (civil)
+* Civil standard is just more likely than not (51%)
+* Juries are supposed to use their own knowledge & experience
+* Baseline alternative conduct is necessary since we judge the actual behavior against that.
+
+### Categories of evidence
+1. Fact witnesses - Have first-hand knowledge of material facts.
+2. Expert witnesses - Testimony based on expertise. Opinion.
+3. Physical evidence
+4. Documentary evidence
+5. Circumstantial evidence
+	* Inferences made from the facts
+
+* Spitball alternative courses of action
