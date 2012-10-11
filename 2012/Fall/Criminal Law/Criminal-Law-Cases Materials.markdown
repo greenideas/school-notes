@@ -59,6 +59,13 @@
 			- [Bryan v. United States](#bryan-v-united-states)
 			- [Lambert v. California](#lambert-v-california)
 			- [State v. Bryant](#state-v-bryant)
+	- [Causation and Concurrence](#causation-and-concurrence)
+		- [Actual ("but for") causation](#actual-"but-for"-causation)
+		- [Proximate causation](#proximate-causation)
+			- [Commonwealth v. Rementer](#commonwealth-v-rementer)
+			- [State v. Govan](#state-v-govan)
+		- [Concurrence](#concurrence)
+			- [Thabo Meli v. Reginam](#thabo-meli-v-reginam)
 
 # Criminal Law--Cases and Materials
 ## Basic Principles of the Criminal Law
@@ -1738,3 +1745,151 @@
 
 * **Rule**
 	* Sex offender registration laws can apply to someone who hasn't received actual notice of the law.
+
+## Causation and Concurrence
+* Causation is part of the actus reus requirement. The actus reus is (1) a voluntary act or omission (2) that *causes* (3) social harm.
+* Criminal causation is stricter than tort causation.
+* Two kinds of causation, both of which need to apply for criminal responsibility
+
+### Actual ("but for") causation
+* ∂ has to be the actual cause (or at least one cause among many) of the social harm
+* "but for" test: "but for ∂'s act or omission, would the harm have occurred when it did?"
+
+### Proximate causation
+* ∂'s act or omission has to be the (or a) nonintermediated cause of the harm **OR**
+	* if there are intervening causes, they must be dependent ("responsive") on ∂'s act or omission.
+* Independent intervening causes usually negate criminal liability.
+
+#### Commonwealth v. Rementer
+* Superior ct of PA 1991, Beck
+
+* **Parties**
+	* π: PA
+	* ∂: Rementer
+
+* **Facts**
+	* Mary Berry was killed by a car while trying to escape continued assault by ∂
+	* ∂ & Berry were in a bar together.
+	* Bartender saw them arguing.
+	* Berry was upset & crying hysterically.
+ 	* Berry got into her cab, π pushed her out of the driver's seat & drove away.
+	* Witness saw Berry hanging out of the window calling for help saying ∂ was going to kill her.
+	* ∂ was beating her & pulling her hair
+	* Berry fell out of the window.
+	* ∂ got out of the car & kept beating her.
+	* More witnesses saw Berry escape & be beaten & recaptured until one witness saw ∂ punch Berry in the head & then run into traffic.
+	* That witness saw her grab the window of a station wagon then fall under its wheels (2min after ∂ punched her in the head)
+	* Station wagon driver had his family in the car & they were scared of Berry screaming & trying to get into the car
+	* Driver pushed Berry away & sped off. He didn't know he had run her over until he saw it on the news days later.
+	* Coroner found blunt trauma to the head (from the beating) & that the cause of death was the crush injury to the chest caused by the car
+	* ∂ said he & Berry had injected cocaine & were drinking & that he drove her cab out of concern for her due to her "schizy" behavior.
+	* Claimed he only hit her once & didn't intend to kill her.
+
+* **Procedural History**
+	* ∂ was convicted of 3rd deg murder in a bench trial
+	* ∂ appealed saying π didn't prove he caused the death or prove malice (an element of murder-3)	
+	* ∂ said the argument was over by the time Berry got to the car so the car was an intervening cause. Chain of causation was broken.
+	* ∂ said her death was not foreseeable.
+
+* **Issue**
+	* Can ∂ be convicted of murder that he did not directly cause?
+
+* **Reasoning**
+	* Stricter standard for criminal causation than for tort causation.
+	* Causation must be direct and substantial.
+	* Has to be determined case by case
+	* Standard: was ∂'s conduct so directly and substantially linked to the harm that it would be *fair* to hold ∂ criminally liable?
+	* Immediate cause was not the assault.
+	* Two part test:
+		1. "but for" analysis
+			* Conduct was a direct & substantial cause, even though there were other causal factors
+			* If i do something that causes you to have to be on life support & you are disoriented & interfere with your life support & die as a result, i am still responsible
+		2. was the causal connection close enough to fairly impose criminal liability?
+			* Result has to be "foreseeable" in light of ∂'s conduct
+	* Witnesses saw ∂ & Berry fighting right up until Berry ran into traffic, & the station wagon family saw ∂ chase Berry
+	* Death in the way Berry died is a foreseeable consequence of assault in & around a public street
+
+* **Holding**
+	* Aff'd
+
+* **Rule**
+	* Two part test for whether an intermediate cause is "proximate" for the purposes of establishing criminal liability
+		1. "but for" analysis
+			* Conduct was a direct & substantial cause, even though there were other causal factors
+		2. was the causal connection close enough to fairly impose criminal liability?
+			* Result has to be "foreseeable" in light of ∂'s conduct
+
+#### State v. Govan
+* AZ ct of app, 1987
+
+* **Parties**
+	* π: AZ
+	* ∂: Govan
+
+* **Facts**
+	* ∂ lived with Keeble for 3 years.
+	* ∂ & Keeble were arguing over ∂'s alleged molestation of K's teenage daughter
+	* K shot at ∂.
+	* ∂ ran away, but came back later & was seen arguing with K.
+	* K tried to call the police on a neighbor's phone but ∂ pulled out a gun & shot K in the neck while she was dialing.
+	* K became paralyzed from the neck down.
+	* ∂ said he didn't intend to shoot, but that he drew the gun & fired behind him without aiming.
+	* ∂ was charged with aggravated assault.
+	* ∂ & K got married while K was in the hospital.
+	* Assault charges were dismissed without prejudice.
+	* She got pneumonia & died.
+
+* **Procedural History**
+	* ∂ charged with murder-2 & convicted by a jury of manslaughter
+
+* **Issue**
+	* Can ∂ be criminally responsible for causally distant harms, such as illness or hospital complications due to ∂'s conduct?
+
+* **Reasoning**
+	* ∂ argued the shot wasn't necessarily the cause of the quadriplegia.
+	* Drs said gunshot caused quadriplegia which caused pneumonia which caused death
+	* Gunshot was *substantial* cause of quadriplegia.
+	* Any link in that causal chain would be insufficient if it were not a foreseeable consequence but each was, so ∂'s conduct was a proximate cause of K's death.
+	* ∂ argued K didn't seek medical attention for two weeks after knowing she was sick & had lost the will to live, which broke the causal chain going back to the gunshot.
+	* Had K voluntarily harmed herself, this would've broken the chain.
+	* As it was, she just failed to act. The pain & sickness that caused K to no longer want to live were still all caused by ∂'s conduct.
+
+* **Holding**
+	* Aff'd
+
+* **Rule**
+	* ∂ can be criminally responsible for causally distant harms as long as they are foreseeable consequences of ∂'s actions.
+
+### Concurrence
+* The mens rea must occur at the same time as the actus reus **AND**
+* The mens rea must cause the actus reus
+
+#### Thabo Meli v. Reginam
+* Privy Council 1954
+
+* **Parties**
+	* π: Reginam
+	* ∂: Thabo Meli
+
+* **Facts**
+	* ∂s plotted to bring v to a hut and kill him.
+	* ∂s took v to hut, gave him a beer  & hit him on the head.
+	* ∂s thought v was dead, but he probably wasn't
+	* ∂s took v from the hut & rolled him off a small cliff intending it to look like an accident.
+	* v died at the bottom of the cliff of exposure.
+
+* **Procedural History**
+	* 4 ∂s convicted of murder
+
+* **Issue**
+	* Can concurrence requirement be satisfied when cause of death is not concurrent with mens rea?
+	
+* **Reasoning**
+	* The cause of death (exposure) was not concurrent with the mens rea.
+	* Just because ∂s were wrong about v being dead when they rolled him off the cliff, they intended to kill him and they did.
+
+* **Holding**
+	* Conviction affirmed
+
+* **Rule**
+	* Concurrence requirement can be satisfied even when the actual cause of death is not concurrent with the mens rea as long as intent to kill is concurrent with the first step in the causal chain that brought about death.
