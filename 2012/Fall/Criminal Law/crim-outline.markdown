@@ -7,6 +7,11 @@
 			- [People v. Suitte](#people-v-suitte)
 		- [Constitutional Limits on the Power to Punish](#constitutional-limits-on-the-power-to-punish)
 			- [14th Amendment Due Process: Void for Vagueness](#14th-amendment-due-process:-void-for-vagueness)
+			- [8th amendment prohibition on cruel & unusual punishment](#8th-amendment-prohibition-on-cruel-&-unusual-punishment)
+			- [Equal protection](#equal-protection)
+	- [Elements of a crime](#elements-of-a-crime)
+		- [Actus Reus](#actus-reus)
+		- [Mens Rea](#mens-rea)
 
 # Criminal Law Outline
 ## Punishment
@@ -33,5 +38,24 @@
 * The judiciary protects the minority from the majority
 
 #### 14th Amendment Due Process: Void for Vagueness
-* A statue can be void for vagueness if:
-	* It does not give ordinary citizens fair notice what conduct is prohibited
+* A statute is void for vagueness iff:
+	1. There is insufficient notice, **or**
+	2. Insufficient guidelines for application--too much discretion
+
+#### 8th amendment prohibition on cruel & unusual punishment
+* Punishment is prohibited under the 8th amendment ban on cruel & unusual punishment if:
+	* Punishment is disproportionate to the harm caused
+		* *narrow proportionality* - punishment has to be grossly disproportionate in order to run afoul of the 8th amendment
+	* **OR** 	punishment is categorically excluded
+		* DP based on characteristics of offense (Robbery? No. Adult rape? No. Child rape? No.)
+		* DP based on characteristics of the offender
+
+#### Equal protection
+
+## Elements of a crime
+* Elements of a crime: 1) Prohibited thought that leads to a 2) prohibited act that 3) causes a social harm. And 4) (1) and (2) happen concurrently and (1) causes (2).
+
+### Actus Reus
+* A volitional act or omission that causes a social harm
+
+### Mens Rea

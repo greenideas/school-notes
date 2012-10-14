@@ -65,7 +65,10 @@
 		- [US v. Carroll](#us-v-carroll)
 		- [Assessing responsibility among multiple tortfeasors](#assessing-responsibility-among-multiple-tortfeasors)
 	- [October 5](#october-5)
+	- [October 9](#october-9)
 		- [Categories of evidence](#categories-of-evidence)
+	- [October 11](#october-11)
+		- [Res ipsa loquitur](#res-ipsa-loquitur)
 
 # Torts
 
@@ -411,6 +414,7 @@ Insurance is an alternative to the tort system
 * Juries are supposed to use their own knowledge & experience
 * Baseline alternative conduct is necessary since we judge the actual behavior against that.
 
+## October 9
 ### Categories of evidence
 1. Fact witnesses - Have first-hand knowledge of material facts.
 2. Expert witnesses - Testimony based on expertise. Opinion.
@@ -420,3 +424,29 @@ Insurance is an alternative to the tort system
 	* Inferences made from the facts
 
 * Spitball alternative courses of action
+
+## October 11
+* Three theories of slip & fall liability:
+	1. ∂ created & failed to take reasonable steps to remedy a hazard.
+	2. ∂ didn't create but should've know about a hazard ("constructive notice")
+	3. ∂'s business operations make hazard foreseeable but ∂ doesn't fix that hazard (loose beans on the floor by the bulk foods aisle).
+* To show ∂ should've known about a hazard, you have to show that it was there for a long time. That counts as constructive notice.
+* Foreseeability is tied to RPP standard. "What would an RPP foresee?"
+* Slip & fall circumstantial evidence: Color of the liquid, length of time spill has been on the ground, etc.
+* Practices that aren't wide enough to count as custom, incl bus. pracs., can be relevant not to prove negligence but to prove particular points along the way.
+
+### Res ipsa loquitur
+* In the circumstantial evidence cases, we infer facts from the circumstances
+* In res ipsa loquitur, we go all the way to inferring breach.
+* Traditional criteria for when res ipsa loquitur can apply:
+	1. The specific kind of accident is one that doesn't ordinarily happen without some negligence **AND**
+	2. The instrumentality of the accident was under sole control of the ∂ **AND**
+	3. π can not have caused the accident in any way
+* 2nd Restatement criteria:  
+	1. The specific kind of accident is one that doesn't ordinarily happen without some negligence **AND**
+	2. Other causes, like involvement of π or 3rd parties, are ruled out by the evidence  **AND** 
+	3. ∂ had some duty that he breached which caused the accident.
+* All res ipsa loquitur does is establish duty & breach
+* It establishes a prima facie case--gets π past summary judgment.
+* Some (*very few*) jurisdictions say that res ipsa goes further than this & shifts the burden to the ∂.
+* We want the π to get to the fact-finder when they wouldn't otherwise

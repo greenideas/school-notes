@@ -115,6 +115,11 @@
 			- [Koch v. Norris public power district](#koch-v-norris-public-power-district)
 			- [Cosgrove v. Commonwealth Edison Co.](#cosgrove-v-commonwealth-edison-co)
 			- [Warren v. Jeffries](#warren-v-jeffries)
+			- [Giles v. City of New Haven](#giles-v-city-of-new-haven)
+			- [Collins v. Superior Air-Ground Ambulance Svc](#collins-v-superior-air-ground-ambulance-svc)
+	- [Harm & Causation in Fact](#harm-&-causation-in-fact)
+		- [Actual Harm](#actual-harm)
+			- [Right v. Breen](#right-v-breen)
 
 # Torts & Compensation - Dobbs
 ## Tort Law: Aims, Approaches and Processes
@@ -2099,12 +2104,12 @@
  
 * **Notes**
 	* Traditional criteria for when res ipsa loquitur can apply:
-		1. The specific kind of accident is one that doesn't ordinarily happen without some negligence
-		2. The instrumentality of the accident was under sole control of the ∂
+		1. The specific kind of accident is one that doesn't ordinarily happen without some negligence **AND**
+		2. The instrumentality of the accident was under sole control of the ∂ **AND**
 		3. π can not have caused the accident in any way
-	* Restatement criteria:  
-		1. The specific kind of accident is one that doesn't ordinarily happen without some negligence
-		2. Other causes, like involvement of π or 3rd parties, are ruled out by the evidence.
+	* 2nd Restatement criteria:  
+		1. The specific kind of accident is one that doesn't ordinarily happen without some negligence **AND**
+		2. Other causes, like involvement of π or 3rd parties, are ruled out by the evidence  **AND** 
 		3. ∂ had some duty that he breached which caused the accident.
 
 #### Procedural incidents
@@ -2156,3 +2161,107 @@
 
 * **Rule**
 	* All of the elements of res ipsa negligence have to be present (more likely than not) to establish it
+
+#### Giles v. City of New Haven
+* CT 1994, Katz, AJ
+
+* **Parties**
+	* π: Giles, elevator operator
+	* ∂: Otis elevators
+
+* **Facts**
+	* π was an elevator operator for 14 years in a New Haven bldg
+	* elevator's compensation chain got caught on a rail bracket .
+	* π couldn't control the elevator from inside
+	* cab shook & π hit her head
+	* chain fell off & made a loud crash which scared π
+	* π got the elevator to the 11th floor & jumped out, causing more injury
+	* ∂ had a contract to maintain the elevator
+	* ∂ said for the chain to get caught it would have to sway very far, which would only happen if there was operator error
+	* π & ∂ agreed the accident wouldn't have happened w/o neg
+
+* **Procedural History**
+	* Trial ct. granted ∂ a directed verdict.
+	* App. ct. said DV was improper.
+
+* **Issue**
+	* Can res ipsa apply even when ∂ shares control of the instrumentality with the π or a 3rd party?
+
+* **Reasoning**
+	* ∂'s argument:
+		* π didn't show that ∂ had exclusive control of the elevator (2nd req. for res ipsa)
+	* It's not the case that the π can't have used the instrumentality at all in order for res ipsa to apply. It's a question of the degree of management and control.
+	* "control" has to be interpreted with some flexibility. The point of including the control req'ment was as a basis for inferring that the negligence could only be attributed to the ∂
+	* if the ∂'s share of control is responsible for the negligence, but others with control are not negligent, that is sufficient for req 2 of res ipsa
+	* Res ipsa can even apply when π is partially neg
+
+* **Holding**
+	* affirmed
+
+* **Rule**
+	* res ipsa apply can even when ∂ shares control of the instrumentality with the π or a 3rd party
+ 
+* **Notes**
+	* Control rule is applied loosely now. Res ipsa can apply when ∂ was one of the parties who was probably negligent.
+
+#### Collins v. Superior Air-Ground Ambulance Svc
+* IL ct. app. 2003
+
+* **Parties**
+	* π: Collins
+	* ∂: Superior Air-Ground & Alden Rehabilitation
+
+* **Facts**
+	* Bedridden woman came back from a rehab facility (via ambulance) dehydrated & with a broken leg.
+
+* **Procedural History**
+	* π sued ∂s for neglience
+
+* **Issue**
+	* Can the control req'ment of res ipsa apply when there are multiple ∂'s?
+
+* **Rule**
+	* When there are only 2 ∂s who had consecutive, exclusive control over π, res ipsa can apply.
+ 
+## Harm & Causation in Fact
+### Actual Harm
+* 3rd element of negligence prima facie case is that harm must occur ("actual damages")
+
+#### Right v. Breen
+* CT 2006, Katz
+
+* **Parties**
+	* π: Right
+	* ∂: Breen
+
+* **Facts**
+	* π was stopped at a red light when ∂ hit him from behind
+	* π showed evidence that his injuries were from the accident with ∂
+	* ∂ had evidence that π's injuries were caused by π's 5 previous accidents
+
+* **Procedural History**
+	* π sued for neg due to bodily injury causing economic & noneconomic damages
+	* trial ct awarded 0 econ & 0 nonecon damages
+	* π moved to have verdict set aside (JNOV?) and asked for additur saying he should have at least gotten nominal damages since he was legally injured by ∂ in an accident ∂ admitted to causing
+	* trial ct cave π $1 damages + ct costs.
+	* ∂ appealed & app. ct. aff'd
+	* ∂ petitioned for cert
+
+* **Issue**
+	* Can a π establish a negligence claim when the only damages are notional (e.g. statutory)?
+
+* **Reasoning**
+	* ∂'s argument
+		* Causation & injury are essential elements of neg claim. claim has to fail if π can't establish both
+	* π's argument:
+		* ∂'s admission of fault establishes a technical legal injury which is sufficient to meet the damages requirement of a negligence claim (citing a CT statute)
+	* "technical legal injury" != "actual damages"
+	* Recovery req's a real trespass against a person's rights.
+	* We don't want to punish harmless jostling in a crowd.
+	* Efficiency: we don't want to clog the cts with cases like these.
+
+* **Holding**
+	* Rev'd & remanded
+
+* **Rule**
+	* Actual damages (as opposed to statutorily defined legal damage) is an essential requirement of a negligence claim.

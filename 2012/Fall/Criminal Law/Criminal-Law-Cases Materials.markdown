@@ -1792,7 +1792,7 @@
 	* ∂ said her death was not foreseeable.
 
 * **Issue**
-	* Can ∂ be convicted of murder that he did not directly cause?
+	* Is there sufficient evidence to show that ∂ caused Berry's death?
 
 * **Reasoning**
 	* Stricter standard for criminal causation than for tort causation.

@@ -1111,7 +1111,7 @@ SCOTUS 1878, J. Field
 	* ∂ said Rule of Decision Act required ct to use PA law.
 
 * **Issue**
-	* Can a federal court disregard an alleged rule of state common law?
+	* Can a federal court in a diversity case disregard an alleged rule of state common law?
 
 * **Reasoning**
 	* **I**
@@ -1131,16 +1131,13 @@ SCOTUS 1878, J. Field
 		* "general law" started to encompass more and more subjects, including contracts, some kinds of tort liability, deeds, real estate, etc.
 		* People in corps were abusing *Swift* by moving or reincorporating (like Black & Yellow)
 	* **III**
-		* There is no federal common law--just the constitution & acts of Congress.
+		* There is no *general* federal common law--just the constitution & acts of Congress.
 		* Congress can't make common law enforceable and neither can federal courts.
 		* States are the ultimate deciders of how the force of common law is to be applied within them
 
 * **Holding**
 	* Federal courts must apply state common law in addition to statutory law.
 
-* **Rule**
-	* 
- 
 * **Concurrence**
 	* Reversing *Swift* means saying that local cts' decisions have the force of law.
 	* "laws" includes "decisions"

@@ -56,6 +56,7 @@
 		- [Mistake recap](#mistake-recap)
 			- [Mistakes of fact](#mistakes-of-fact)
 			- [Mistakes of law](#mistakes-of-law)
+	- [October 12](#october-12)
 
 # Criminal Law Class Notes
 
@@ -174,7 +175,7 @@
 
 ## September 12
 * Biggest problem with *McKlesky* is the lack of a limiting principle.
-* Statistics can be used as eviidence in:
+* Statistics can be used as evidence in:
 	* Jury Venire cases - if the composition of a jury doesn't match the local demography
 	* Title VII Civil Rights Claims
 	* Why not capital sentencing?
@@ -412,3 +413,19 @@
 	* Ignorance or mistake of law that negates the mens rea
 		* Tax law is different because it's technical & likely to snare innocent people
 	* Due process/notice
+
+## October 12
+* Causation isn't part of every crime -- conduct offenses (e.g. possession) don't need causation
+* Only applies to result crimes.
+1. Actual Cause (aka "Cause-in-fact", "but for")
+	* Is ∂'s (1) voluntary act or omission (2) one of the causes of (3) the social harm
+	* "but for" ∂'s act or omission, would the harm have occurred when it did?
+2. Proximate Cause (aka "legal cause")
+	* Is ∂ the direct (rather than remote & attenuated) cause of the social harm?
+	* Act comes before social harm **AND**
+		* Either no intervening factors **OR**
+		* If there are intervening factors, are they dependent (responsive) (as opposed to independent/coincidental)?
+			* If dependent, were the intervening causes extremely unlikely, unusual or bizarre?
+			* If independent, was the independent intervening cause foreseeable? (some courts ask whether the social harm was foreseeable rather than the intermediate intervening cause)
+* Concurrent sufficient causes - ∂1 shoots v in the head. ∂2 shoots v in the heart. either bullet would kill v in an hour. v dies an hour later.
+	* Modified "but for" test: would the social harm have occurred when *and how* it did? Was ∂ a "substantial factor" in causing the social harm?
