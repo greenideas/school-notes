@@ -1,4 +1,9 @@
-Title: Evidence Summary
+latex input:        mmd-article-header
+Title:              Evidence Summary
+Base Header Level:  2  
+LaTeX Mode:         memoir  
+latex input:        mmd-article-begin-doc
+latex footer:       mmd-memoir-footer
 
 # Evidence Summary
 ## Course Basics
