@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
+  <head>
+    <title>Motion Memo Outline</title>
+    <expansionState>1,3,5,7,10,14,15,16,17,20,22,25,26,33,34,36,38,40,41,45,50</expansionState>
+  </head>
+  <body>
+    <outline text="Issue: Under FMLA, was Paulson's termination unlawful"/>
+    <outline text="Paulson's argument">
+      <outline text="Termination occurred just before FMLA leave was about to start"/>
+      <outline text="Interference theory of FMLA violation (29 U.S.C.A. § 2615(a)(1))">
+        <outline text="Termination occurred 2 days after FMLA request."/>
+      </outline>
+      <outline text="Legitimate reason was just pretext.">
+        <outline text="3 bases for establishing pretext &amp; we have to rebut all 3"/>
+      </outline>
+    </outline>
+    <outline text="Dracon facts:">
+      <outline text="HR Facts" _note="Paulson violated policy:&#10;&quot;On many of his sick days during 2010 and 2011, Mr. Paulson failed to comply with the Dracon Sick Leave Policy for reporting absences.&quot; Miceli aff. 9&#10;&#10;Paulson warned:&#10;&quot;Due to Mr. Paulson’s repeated violation of Dracon’s Sick Leave Policy, I placed him on the Employee Warning List on October 28, 2011. I told Mr. Paulson that from that date forward, any failure by him to strictly comply with the Dracon Sick Leave Policy could result in termination of his employment. In particular, I informed him that: (1) he was required to call me by 9:00 AM on any day he would be calling in sick; and (2) on any sick day, he would be permitted to leave his home only for reasons incidental to his illness. I told him he was required to notify me when leaving and returning home on sick days and that a Sick Investigator may visit his home on sick days.&quot; Miceli aff. 10&#10;&#10;Multiple subsequent violations. Miceli aff. 12-14.&#10;&#10;Miceli didn't know about FMLA. Miceli aff. 15."/>
+      <outline text="Benefits facts (FMLA Admin)" _note="FMLA leave was for hernia surgery, 2 wks, 3/25/2012. Riordan aff. 4.&#10;&#10;FMLA notice was proper &amp; leave was granted. Riordan aff. 5.&#10;&#10;Supervisor notified. Id at 6.&#10;&#10;HR not notified. Id. at 7."/>
+    </outline>
+    <outline text="Precedent">
+      <outline text="Edgar v. JAC Products" _note="&#10;&#10;Elements of interference:&#10;&#10;To prevail on an entitlement claim, an employee must prove that: &#10;(1) she was an eligible employee, &#10;(2) the defendant was an employer as defined under the FMLA, &#10;(3) she was entitled to leave under the FMLA, &#10;(4) she gave the employer notice of her intention to take leave, and&#10;(5) the employer denied the employee FMLA benefits to which she was entitled"/>
+      <outline text="Adams v. Auto Rail Logisitics, Inc." _note="6th Cir. 2012&#10;&#10;π was absent from work for just under two weeks. He claims the first day of which was to care for his daughter, but that his supervisor told him not to come back to work until he had a signed medical certification form. Since he didn't get the form until two weeks later, he didn't come back in. ∂ denies such a conversation occurred &amp; that π only called once during his whole absence. π had previously been tardy &amp; absent.&#10;&#10;π proved the elements of his FMLA claim, but ∂ also proved that they would've fired him anyway."/>
+      <outline text="Jaszczyszyn v. Advantage Health Physician Network" _note="6th Cir. 2012&#10;&#10;While π was on FMLA leave for back problems, pictures of her drinking and partying were posted to FB. Fraud was non-retaliatory basis for termination. SJ was proper.&#10;&#10;Interference claim vs. Retaliation claim&#10;&#10;Honest belief rule (Donald): “so long as the employer honestly believed in the proffered reason given for its employment action, the employee cannot establish pretext even if the employer's reason is ultimately found to be mistaken, foolish, trivial, or baseless.”"/>
+    </outline>
+    <outline text="Argument against SJ">
+      <outline text="Facts:">
+        <outline text="Lack of communication b/w HR ppl">
+          <outline text="Only person who knew of both HR complaints and FMLA request was Paulson's supervisor, Daughtry">
+            <outline text="She wasn't the one to make the decision to terminate"/>
+            <outline text="Instrumental to big project, so Draco wouldn't want to fire"/>
+          </outline>
+        </outline>
+        <outline text="Lots of notice/warning re: violation of sick day policy">
+          <outline text="Warned &amp; notified of sick day requirements &amp; restrictions well in advance of FMLA request."/>
+          <outline text="On warning list even before the FMLA">
+            <outline text="Could have been fired on 3/21/2012, but wasn't."/>
+          </outline>
+          <outline text="Daughtry's warning letter to Paulson was before she was notified of FMLA request"/>
+        </outline>
+      </outline>
+      <outline text="Analysis:">
+        <outline text="Elements of FMLA Interference (from § 2615(a) &amp; Edgar)">
+          <outline text="π was an eligible employee"/>
+          <outline text="∂ was an employer as defined under the FMLA"/>
+          <outline text="π was entitled to leave under the FMLA,"/>
+          <outline text="π gave the employer notice of her intention to take leave"/>
+          <outline text="∂ denied π FMLA benefits to which he was entitled"/>
+        </outline>
+        <outline text="Only dispute as to (5), which Dracon denies (just like in Edgar)."/>
+        <outline text="No entitlement (&amp; hence no interference) when there is a &quot;legitimate, unrelated reason&quot; for termination (Edgar)">
+          <outline text="Absenteeism &amp; failure to comply with company policies re: sick days are legitimate &amp; unrelated to π's FMLA claim.">
+            <outline text="Adams: Absenteeism would be grounds for a jury to determine nondiscriminatory termination."/>
+          </outline>
+        </outline>
+        <outline text="McDonnell Douglas burden-shifting applies in cases where ∂ offers such a rationale (Jaszczyszyn v. Advantage Health Physician Network)">
+          <outline text="Burden is on π to show that there was a causal nexus b/w FMLA claim &amp; termination"/>
+          <outline text="Under the McDonnell Douglas framework, showing temporal proximity of FMLA activity &amp; termination is not sufficient to show interference. Jaszczyszyn.">
+            <outline text="Not even for the purposes of getting past summary judgment. Skrjanc v. Great Lakes Power Service Co. at 317."/>
+          </outline>
+        </outline>
+      </outline>
+      <outline text="Counteranalysis:">
+        <outline text="π has to prove the reason offered by ∂ for termination, i.e. is a pretext:">
+          <outline text="has no basis in fact OR"/>
+          <outline text="did not actually motivate the defendant's challenged conduct OR"/>
+          <outline text="was insufficient to warrant the challenged conduct." _note="Dews v. AB Dick"/>
+        </outline>
+        <outline text="π has shown none">
+          <outline text="There's a long chain of documentation showing π's absenteeism &amp; failure to comply with company policy around absences"/>
+          <outline text="π doesn't allege motivation, but if he did, there's nothing to support such an allegation that he has the burden to show"/>
+          <outline text="Under Ritenour and Adams absenteeism is sufficient to warrant dismissal, especially if π had been previously put on notice."/>
+        </outline>
+        <outline text="Only evidence that absenteeism was a pretext is the proximity in time b.w the termination and the leave request. 6th circuit precedent in Skrjanc says that such proximity by itself is insufficient to show pretext."/>
+      </outline>
+      <outline text="Summary">
+        <outline text="The only element in dispute is whether π was denied benefits to which he was entitled under FMLA. Since under Edgar, he wasn't so entitled if ∂ had a legitimate reason, unrelated to his FMLA claim, and under Adams absenteeism is such a reason, ∂ is not in violation. Further, for the purposes of summary judgment, Donald (see also Jaszczyszyn) held that McDonnell Doulgas burden shifting applies when when a &quot;legitimate, unrelated reason&quot; is given for the termination. π's only real evidence, which is temporal proximity, is insufficient to get past summary judgment, after Jaszczyszyn (see also Skrjanc)."/>
+      </outline>
+    </outline>
+  </body>
+</opml>

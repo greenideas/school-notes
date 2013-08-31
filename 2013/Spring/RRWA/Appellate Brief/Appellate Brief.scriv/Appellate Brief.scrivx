@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ScrivenerProject Version="1.0" Creator="SCRMAC-2.4.1-22817" Modified="2013-08-09 11:35:29 -0400">
+    <Binder>
+        <BinderItem ID="0" Type="DraftFolder" Created="2013-08-08 11:44:33 -0400" Modified="2013-08-08 11:44:33 -0400">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="3" Type="Text" Created="2013-08-08 11:44:33 -0400" Modified="2013-08-08 12:18:54 -0400">
+                    <Title>Statement of Issues Presented</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>106,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="5" Type="Text" Created="2013-08-08 11:53:11 -0400" Modified="2013-08-08 11:54:17 -0400">
+                    <Title>Statement of the Case</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>744,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="7" Type="Text" Created="2013-08-08 11:54:45 -0400" Modified="2013-08-08 11:55:40 -0400">
+                    <Title># Statement of Facts #</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>2629,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="8" Type="Text" Created="2013-08-08 11:55:00 -0400" Modified="2013-08-08 11:55:40 -0400">
+                    <Title># Summary of the Argument #
+
+Drummond contends that Ms. Park's communication was insufficient in content and inadequately timed, and so did not constitute valid notice of intent to take FMLA leave. Because of this, the district court's grant of summary judgment should be affirmed.
+
+An employer only has the burden to gather information on whether an employee's request for time off qualifies for FMLA leave when that request would make a reasonable employer think the employee had a serious medical condition. *Brenneman v. MedCentral Health Sys.*, 366 F.3d 412, 421 (6th Cir. 2004). The Court of Appeals for the Sixth Circuit has said that an employee who communicates severe, debilitating psychological symptoms to her employer has not necessarily given notice of a serious medical condition, even when she has said that those symptoms prevent her from doing her job. *Hammon v. DHL Airways, Inc.*, 165 F.3d 441, 450 (6th Cir. 1999). Given the direct applicability of this standard to the present case, this Court should find that Ms. Park's communication with her supervisor was not sufficient to trigger a duty to get more information about her FMLA status.
+
+Not only was Ms. Park's notice insufficient in its content, but it was also inadequately timed to allow her to qualify for FMLA leave. The regulatory standard for timing is that notice must be "as soon as practicable." 29 C.F.R. § 825.303 (2009). Since Ms. Park's condition was non-acute, and since she knew even before returning to work that she might be unable to do her job, last minute notice was not practicable. Further, examining the Department of Labor's intent in drafting that regulation shows that behavior like Ms. Park's was precisely what it was meant to prohibit.
+
+Since Ms. Park's email to her supervisor did not indicate that she had a serious medical condition, and because that email was not adequately timed, she did not give sufficient notice of her intent to take FMLA-qualifying leave. Thus, this Court should affirm the below grant of summary judgment.
+</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>2041,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="9" Type="Text" Created="2013-08-08 11:55:33 -0400" Modified="2013-08-08 11:55:40 -0400">
+                    <Title># Argument #</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1567,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="6" Type="Text" Created="2013-08-08 11:54:01 -0400" Modified="2013-08-08 11:55:52 -0400">
+                    <Title># Statement of Facts #</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" Type="ResearchFolder" Created="2013-08-08 11:44:33 -0400" Modified="2013-08-08 11:44:33 -0400">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem ID="2" Type="TrashFolder" Created="2013-08-08 11:44:33 -0400" Modified="2013-08-08 11:44:33 -0400">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="4" Type="Text" Created="2013-08-08 11:52:28 -0400" Modified="2013-08-08 11:52:30 -0400">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="173EF29E-F06D-4254-B7A4-B37801961A88" Color="0.784753 0.815752 0.848702">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="E7F3866A-2A82-4778-A607-C2CC994395B6" Color="0.922 0.91 0.98">
+            <Title>Search Results</Title>
+        </Collection>
+    </Collections>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.9 0.92 0.95">Concept</Label>
+            <Label ID="1" Color="0.985 0.875 0.85">Chapter</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">First Draft</Status>
+            <Status ID="2">Revised Draft</Status>
+            <Status ID="3">Final Draft</Status>
+            <Status ID="4">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-08-08 11:44:32 -0400" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2013-08-09 10:49:09 -0400"></PreviousSession>
+    </ProjectTargets>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScrivenerProject>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Covenants and Servitudes</title>
+  </head>
+  <body>
+    <outline text="Real Covenants" _note="- **DEF** - A right or obligation that conveys along with the estate is a *real coventant* aka a *covenant that runs with the land*
+- Remedy for failure to comport with a covenant is monetary damages">
+      <outline text="Elements">
+        <outline text="Intent to bind successors" _note="- Intent must be discernible from the writing
+- &quot;heirs and assigns&quot; or explicit &quot;runs with the land&quot; proves intent">
+        </outline>
+        <outline text="Touch and Concern" _note="- &quot;Only build single-family homes on this parcel&quot; touches and concerns the land.
+- &quot;Pay me money every year&quot; and &quot;Owner must use Clegg's Pest Control&quot; do not.
+
+# Benefits that touch and concern
+- Increases the holder of the covenant's use and enjoyment of the land or the land's value
+- Money benefits may T&amp;C if they go toward maintaining common areas (e.g. HOA fees) or if it is a lien on the land (e.g. a mortgage).">
+        </outline>
+        <outline text="Privity of Estate" _note="# Horizontal privity
+- Grantor and grantee of covenant have to be in privity of estate.
+
+# Vertical privity
+- Unbroken chain of conveyances must connect original covenantor to current owner of burdened land, and original covenantee to current owner of benefitted land.
+- Any adverse possession or non bona fide purchaser (someone who purchased with no notice of title) breaks the chain.">
+        </outline>
+      </outline>
+    </outline>
+    <outline text="Equitable Servitudes" _note="- Equitable servitudes, like real covenants, run with the land.
+- Remedy for failure to comport with a servitude is equitable relief/injunction
+- No writing requirement &#8211; Can be implied in a plat or from general plan of a subdivision (to be residential, to be maintained a certain way, etc.)">
+      <outline text="Elements" _note="- Intent to bind successors
+- Touch and concern
+- Notice">
+        <outline text="Intent to bind successors">
+        </outline>
+        <outline text="Touch and concern">
+        </outline>
+        <outline text="Notice" _note="- Tulk v. Moxhay - Created the equitable servitude&#8212;a new interest in property. Ct said it was inequitable to buy land at a lower price by agreeing to restrict its use, and then to sell it at a higher price to someone who wasn't bound by the covenant. Thus ESs replace the privity requirement with a *notice* requirement.
+- ">
+        </outline>
+      </outline>
+      <outline text="Subdivisions" _note="- Have a *common scheme* or *general plan of development* that imposes burdens and can be used to enforce servitudes.
+- **DEF**  Reciprocal negative covenant - Implied restriction, such as that a business can't go up in a residential subdivision.
+    - Person who wants to build a commercial building has notice of the servitude by looking around and seeing only houses
+- Common scheme gives standing.">
+      </outline>
+    </outline>
+    <outline text="Termination" _note="- Merger - When one person acquires title to all of the land in a subdivision, all covenants/servitudes are extinguished.
+- Abandonment
+     - If a covenant is in an early plan but not later versions, it is presumed to be abandoned.
+   - If the owners consistently violate the covenants such that no general plan is apparent, a court might terminate all covenants
+- Changed circumstances - A covenant may terminate when it no longer serves the purpose for which it was enacted
+     - People arguing that a covenant shd terminate due to changed circumstances can't be the ones who changed them.">
+    </outline>
+  </body>
+</opml>

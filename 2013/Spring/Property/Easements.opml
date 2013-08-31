@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Easements</title>
+  </head>
+  <body>
+    <outline text="Kinds of Easements">
+      <outline text="Appurtenant" _note="* Benefits the owner/possessor of some property
+* O grants the owner of the the adjoining property an easement to park on his lawn
+* Construction preference for easement appurtenant">
+      </outline>
+      <outline text="In gross" _note="* Benefits a person/entity&#8212;not tied to a particular dominant estate
+* O grants E an easement to park on his lawn.
+* O grants P an easement to run power lines over his estate.">
+      </outline>
+    </outline>
+    <outline text="Creating an Easement ">
+      <outline text="Express" _note="- Usually in a deed, but may be oral
+- Majority rule: Can only refer to seller &amp; purchaser
+ - A 3rd party is a &quot;stranger to the deed&quot; and can't have an easement granted or reserved on their behalf.
+- Minority rule: &quot;welcome stranger&quot;
+        - If a deed expressly grants an easement to a third party, respect the grantor's intent. *Willard v. First Church of Christ, Scientist* ">
+        <outline text="Grant" _note="- Grantor sells part of her interest and grants purchaser an easement in the what seller retains">
+        </outline>
+        <outline text="Reservation" _note="- aka &quot;exception&quot;
+- When purchaser gives an easement to seller ">
+        </outline>
+      </outline>
+      <outline text="Implied" _note="- No writing
+- SoF doesn't require ">
+        <outline text="Prior Use" _note="- aka &quot;quasi-easements&quot;
+- When a parcel of land is divided and one of the new parcels benefits one of the old.
+ - i.e. a driveway or sewer line goes from one of the new parcels through another.
+- Elements:
+        1. One person owned the old parcel at the time of severance, but now different people own the new parcels
+     2. The use was in place (and visible) before the severance (Apparent and continuous).
+         - visibility is tough when it's something like a sewer line, but ct may use a std of discoverable through reasonable inspection (infer a sewer line from the presence of a toilet)
+    3. The easement is necessary to the enjoyment of the dominant estate
+          - Most jxns only require reasonable necessity.
+                - Consider cost of building a new road (or driveway, or sewer line) against the cost of the use of the land in the easement.
+          - Granite Properties: Two easements on Manns' property were necessary to get to its retail stores. Ct. agreed.
+- No negative or in gross easements implied by necessity,
+- POLICY: Maximize utility of the land + respect intent of parties at the time of severance.">
+        </outline>
+        <outline text="Necessity" _note="- When a parcel is severed and one of the new parcels is landlocked &amp; now needs access to a public rd.
+- Elements:
+ 1. One person owned the old parcel at the time of severance, but now different people own the new parcels
+     2. One of the new parcels is now landlocked.
+  3. The easement is necessary to get to a public rd.
+           - Most jxns require *strict* necessity for ingress &amp; egress.
+              - Strict necessity means necessary to the use &amp; enjoyment of the land
+- Duration: Easement ends when the necessity does.
+- Waivable
+- POLICY: Maximizes use of the land
+">
+        </outline>
+      </outline>
+      <outline text="Estoppel" _note="- aka &quot;irrevocable license&quot;
+- An oral easement (license) that creates a justified reliance to the detriment of the dominant estate
+- Some jxns will not recognize an easement by estoppel since they say that the SoF requires a writing.">
+      </outline>
+      <outline text="Prescription" _note="- Easement by adverse use
+- Like adverse possession, use must be:
+    1. Actual
+     2. Adverse
+    3. Hostile
+            - Really just means &quot;without permission&quot;
+      4. Open &amp; Notorious
+       5. Continuous &amp; uninterrupted
+             - Use is interrupted if you're sued to stop or if a barrier goes up
+           - Use if continuous as long as it is regular (i.e. seasonal)
+  6. Exclusive
+          - Can let others use it, but can't let anyone prevent her from using it.
+- When the owner doesn't say anything, the burden of proof depends on the jxn:
+      - Adverse jxn: Burden is on the owner to show that use was with permission (hence not hostile, and so not creating the easement)
+      - Permissive jxn: Burden is on the user to show that the use was without permission.">
+      </outline>
+    </outline>
+    <outline text="Easement v. License" _note="- DEF License - Revocable right to use another's land for a particular purpose. 
+- License doesn't require a writing">
+    </outline>
+    <outline text="Scope of Easement">
+      <outline text="Express easements" _note="- Scope is determined by the language of the express grant/reservation + the circumstances of the use.
+        - **CANNOT** be enlarged to cover more land than the original easement.
+               - **UNLESS** the enlargement is prescriptive (e.g. do analysis of adverse use)">
+      </outline>
+      <outline text="Implied easements" _note="- No writing, so just have to look at the circumstances ct used to determine that there was an implied easement in the first place
+    - If implied by use, look at the use
+  - If implied by necessity, scope is determined by the scope of the necessity">
+      </outline>
+      <outline text="Prescriptive easements" _note="- Scope is determined by the use that created the easement
+- Hard to change, but an easement may be enlarged prescriptively if the enlargement satisfies the criteria for adverse use">
+      </outline>
+      <outline text="Benefit on non-dominant land" _note="- Easement for the benefit of one estate can't be used to benefit another.
+    - *Kresge*: Can't use easement for a right-of-way into a barbershop to move merchandise to another property.
+- Easements generally cannot be enlarged
+- Neither can easements be moved from one property to another unless both parties consent.">
+      </outline>
+      <outline text="Floating easement" _note="- Easement whose location is undetermined. Once it is determined, it is no longer floating">
+      </outline>
+    </outline>
+    <outline text="Assigning an Easement" _note="- If the owners of the original dominant and servient estates agree that an easement can be transferred, then they can specify to whom and to what parcel.
+- Otherwise, what happens depends on the kind of easement
+- A burden can't be moved from the servient estate
+- When the servient estate is leased, the tenant is bound by the easement.
+- **When the owner of a dominant estate mis-/overuses an easement, that misuse doesn't terminate the easement, but the owner of the servient estate may seek an injunction to stop the unauthorized use.**
+        - Though the court may terminate the easement in an extraordinary case.">
+      <outline text="Appurtenant easements" _note="- An appurtenant easement transfers when the dominant estate does, even if the deed doesn't mention it.">
+      </outline>
+      <outline text="Easements in gross" _note="- Commercial easements in gross are usually transferrable
+- Noncommercial easements in gross usually are too, as long as the intent of the grantor/grantee isn't violated.">
+      </outline>
+      <outline text="Merger" _note="- When an easement is assigned to the owner of the land, the easement just merges back into the owner's interest (since an owner can't have an easement on his own land)">
+      </outline>
+      <outline text="Abandonment" _note="- An easement can be terminated through prolonged non-use or by a demonstration of intent to abandon it.
+ - *Lindsey*: Non-use of an express easement isn't enough to terminate it. There must be actual abandonment">
+      </outline>
+      <outline text="Estoppel" _note="- If the owner of a servient estate relies to his detriment on a statement by the owner of the dominant estate that she is abandoning her easement, the easement is terminated.">
+      </outline>
+    </outline>
+  </body>
+</opml>

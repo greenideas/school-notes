@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
+  <head>
+    <title>Outline</title>
+    <expansionState>0,2,4,7</expansionState>
+  </head>
+  <body>
+    <outline text="Memorandum in Opposition to Defendant’s Motion to Dismiss.">
+      <outline text="Statement of the Case"/>
+      <outline text="Argument">
+        <outline text="Define negligence" _note="Stein v. Asheville BOE"/>
+        <outline text="Defendant had a duty to warn Plaintiff that her patient intended to harm him, and breached that duty by failing to do so.">
+          <outline text="Special relationship"/>
+          <outline text="Ability to control"/>
+        </outline>
+        <outline text="Defendant's failure to warn Plaintiff was a proximate cause of the harm he suffered.">
+          <outline text="The harm to Plaintiff could have been avoided if Defendant had exercised due care."/>
+          <outline text="A reasonable professional would have foreseen the harm to Plaintiff"/>
+        </outline>
+      </outline>
+      <outline text="Conclusion" _note="For the foregoing reasons, Plaintiff moves that the Defendant’s Motion to Dismiss should be denied."/>
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Concurrent Estates</title>
+  </head>
+  <body>
+    <outline text="Three Kinds">
+      <outline text="Tenancy in Common" _note="* Each party owns a share in an estate.
+* Each has equal right to the whole estate
+* Default rule: proceeds from the estate (rents, sale, etc) are also equal.
+    * Share may be proportional to the amount each co-tenant paid for it. This is a rebuttable presumption.
+* Shares are heritable, devisable, and alienable.">
+      </outline>
+      <outline text="Joint Tenancy with Right of Surviorship" _note="* Joint tenant's interest terminates when she dies. Other joint tenant then owns the entire estate.
+* O -&gt; A, B as joint tenants with right of survivorship and not as tenants in common
+* Alienable, devisable&#8212;not heritable. When an estate conveys to multiple people through intestate succession, they have tenancy in common.
+* When joint tenants die simultaneously, both are treated as having equal interest (as if it were tenancy in common)
+* Presumption in favor of TC unless instrument explicitly creates JT.
+    * **UNLESS** Potential interest holders are married, in which case they are presumed to have a tenancy by the entirety.
+    * **POLICY** Encourage widespread ownership.
+* Contrast with joint life estates, in which case interest dies with the holder of the life estate.">
+        <outline text="Four Unitities" _note="* Each &quot;unity&quot; must obtain in order to establish joint tenancy with right of survivorship
+* Technically, if a unity is broken, joint tenancy becomes tenancy in common, with each co-tenant owning a share proportional to her stake.
+* Unities may be agreed around, as when one tenant agrees the other will take sole possession.">
+          <outline text="Time" _note="* Both joint tenants must get their interest (both interests must vest) at the same time">
+          </outline>
+          <outline text="Title" _note="* Both tenants' interests must convey in the same instrument.
+* Abolished in most states since it was routinely circumvented by straw men. (A sole owner conveys title to a straw man who then conveys it back to the original owner and someone else as joint tenants)
+">
+          </outline>
+          <outline text="Interest" _note="* Both tenants' interests must be the same. Both must have equal shares.">
+          </outline>
+          <outline text="Possession" _note="* Both tenants must take possession at the same time.">
+          </outline>
+        </outline>
+        <outline text="Severance" _note="* When a joint tenant acts unilaterally to break a unity, that tenant loses the right of survivorship, and becomes a tenant in common with the remaining joint tenants.
+* in jxns that don't focus on unities, cts look for an instrument that terminates survivorship
+* Severance may be involuntary. Usu involuntary in cases of foreclosure or bankruptcy.
+* DEF Slayer statute: law preventing a joint tenant from benefitting by killing the other joint tenant. Murderer retains her interest, but loses survivorship&#8212;other half goes to decedent's heirs.">
+          <outline text="Lease" _note="* Joint tenant may grant a short-term lease without severing.
+    * Modern rule is that long-term leases don't sever either.
+* Lease ends if the joint tenant dies.">
+          </outline>
+          <outline text="Mortgage">
+            <outline text="Lien theory" _note="* Majority of jxns.
+* Mortgage is security for a loan.
+* One joint tenant's securing a loan based on her interest in an estate does not sever the joint tenancy.
+    * If that loan is foreclosed on and sold, the joint tenancy is severed.">
+            </outline>
+            <outline text="Title theory" _note="* Minority of jxns.
+* Lender holds borrower's interest in fee simple determinable.
+* In title theory states, mortgage *may* sever.">
+            </outline>
+          </outline>
+        </outline>
+      </outline>
+      <outline text="Tenancy by the Entirety" _note="* 4 unities of JT apply, plus (5) tenants must be married at time of conveyance.
+* Divorce creates TC (or, minority: JT)
+* No unilateral severance (unlike JT)">
+      </outline>
+    </outline>
+    <outline text="Rights of all Concurrent Estate Owners">
+      <outline text="Possession " _note="* Each owners has the right to possess the whole property, so need not pay rent to the other owners.
+    * Unless a co-owner ousts the other
+    * H &amp; W have TC in Blackacre. H leaves W. C, a creditor of H's levies a judgment against Blackacre. C can't get rent from W until C ousts W, by asking for possession of half and being refused.">
+      </outline>
+    </outline>
+    <outline text="Marital Property">
+      <outline text="Dower">
+        <outline text="Common Law" _note="* Wife had a life estate in 1/3 of husband's fee simple state by law.">
+        </outline>
+        <outline text="Modern" _note="* Most states that still have dower give the wife a life estate in the whole of the decedent's property.">
+        </outline>
+      </outline>
+      <outline text="Curtesy" _note="* When a wife gives birth to a living child, her husband gets a life estate in all of his wife's real and property (any freehold, heritable estate)">
+      </outline>
+      <outline text="Homestead" _note="* A family's primary residence can't be foreclosed on to pay off any debt for which the house is not explicit security. E.g. Mortgage, home equity loan, lien for property tax, lien for divorce settlement, etc.
+* Usually a very limited exemption ($1000 in NC, but no limit in TX). Above that, property can be foreclosed on and sold with the money over &amp; above the exemption going to the creditors.">
+      </outline>
+      <outline text="Community v. Separate Property">
+        <outline text="Community" _note="* From Spanish/French law
+* Both spouses have presumptively equal shares of all property
+    * Presumption is rebuttable by showing property was acquired before marriage, or was a gift, devise, or inheritance">
+        </outline>
+        <outline text="Separate " _note="* CL
+* Each spouse owns what s/he paid for.
+">
+        </outline>
+      </outline>
+    </outline>
+  </body>
+</opml>

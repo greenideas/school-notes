@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ScrivenerProject Version="1.0" Creator="SCRMAC-2.4.1-22817" Modified="2013-03-30 15:29:43 -0400">
+    <Binder>
+        <BinderItem ID="0" Type="DraftFolder" Created="2013-01-23 19:11:52 -0500" Modified="2013-01-23 19:11:52 -0500">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="4" Type="Text" Created="2013-01-23 19:08:50 -0500" Modified="2013-02-05 20:18:09 -0500">
+                    <Title>Preliminary Statement</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,358</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="56" Type="Text" Created="2013-01-23 19:35:35 -0500" Modified="2013-02-05 20:45:39 -0500">
+                    <Title>Statement of the case</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1297,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="18" Type="Text" Created="2013-01-23 19:08:50 -0500" Modified="2013-02-05 20:46:17 -0500">
+                    <Title>Argument</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,59</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="59" Type="Text" Created="2013-01-23 21:22:04 -0500" Modified="2013-01-23 21:24:50 -0500">
+                            <Title>SJ Explanation</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>774,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="62" Type="Text" Created="2013-01-23 21:44:14 -0500" Modified="2013-02-05 20:48:02 -0500">
+                            <Title>No Entitlement under Edgar</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,2844</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="63" Type="Text" Created="2013-01-23 22:08:13 -0500" Modified="2013-02-05 20:53:39 -0500">
+                            <Title>Plaintiff has the burden to show cause</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,3584</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="68" Type="Text" Created="2013-02-04 19:34:03 -0500" Modified="2013-02-05 20:53:50 -0500">
+                    <Title>Conclusion</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,10</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="61" Type="Text" Created="2013-01-23 21:37:51 -0500" Modified="2013-02-05 20:55:07 -0500">
+                            <Title>The Court Should Grant Summary Judgment in this Case</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,859</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" Type="ResearchFolder" Created="2013-01-23 19:11:52 -0500" Modified="2013-01-23 19:11:52 -0500">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentIDs>66</SelectedSubdocumentIDs>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="12" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                    <Title>HR Facts</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="13" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                    <Title>Benefits facts (FMLA Admin)</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="17" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                    <Title>Jaszczyszyn v. Advantage Health Physician Network</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="16" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                    <Title>Adams v. Auto Rail Logisitics, Inc.</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="15" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                    <Title>Edgar v. JAC Products</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="2" Type="TrashFolder" Created="2013-01-23 19:11:52 -0500" Modified="2013-01-23 19:11:52 -0500">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="3" Type="Text" Created="2013-01-23 19:11:52 -0500" Modified="2013-01-23 19:11:52 -0500">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="57" Type="Text" Created="2013-01-23 19:35:47 -0500" Modified="2013-01-23 19:35:49 -0500">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="5" Type="Text" Created="2013-01-23 19:08:50 -0500" Modified="2013-01-23 19:22:18 -0500">
+                    <Title>Paulson's argument</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="6" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                            <Title>Termination occurred just before FMLA leave was about to start</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="7" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                            <Title>Interference theory of FMLA violation (29 U.S.C.A. § 2615(a)(1))</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="8" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                                    <Title>Termination occurred 2 days after FMLA request.</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="9" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                            <Title>Legitimate reason was just pretext.</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="10" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                                    <Title>3 bases for establishing pretext &amp; we have to rebut all 3</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="11" Type="Text" Created="2013-01-23 19:08:50 -0500" Modified="2013-01-23 19:08:50 -0500">
+                    <Title>Dracon facts:</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="14" Type="Text" Created="2013-01-23 19:08:50 -0500" Modified="2013-01-23 19:08:50 -0500">
+                    <Title>Precedent</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="58" Type="Text" Created="2013-01-23 21:05:25 -0500" Modified="2013-01-23 21:05:30 -0500">
+                    <Title>Argument</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="60" Type="Text" Created="2013-01-23 21:36:12 -0500" Modified="2013-01-23 21:44:08 -0500">
+                    <Title>No Entitlement Under Edgar</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,1</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="64" Type="Text" Created="2013-01-24 19:13:52 -0500" Modified="2013-01-24 19:41:29 -0500">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="67" Type="Text" Created="2013-01-24 20:42:43 -0500" Modified="2013-01-24 20:42:45 -0500">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="65" Type="Text" Created="2013-01-24 19:38:56 -0500" Modified="2013-01-24 19:39:59 -0500">
+                    <Title>Legit Reason Shifts Burden to </Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="19" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                    <Title>Facts:</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="20" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                            <Title>Lack of communication b/w HR ppl</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="21" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                                    <Title>Only person who knew of both HR complaints and FMLA request was Paulson's supervisor, Daughtry</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="22" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                                            <Title>She wasn't the one to make the decision to terminate</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="23" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                                            <Title>Instrumental to big project, so Draco wouldn't want to fire</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="24" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                            <Title>Lots of notice/warning re: violation of sick day policy</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="25" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                                    <Title>Warned &amp; notified of sick day requirements &amp; restrictions well in advance of FMLA request.</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="26" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                                    <Title>On warning list even before the FMLA</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="27" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                                            <Title>Could have been fired on 3/21/2012, but wasn't.</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem ID="28" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                                    <Title>Daughtry's warning letter to Paulson was before she was notified of FMLA request</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="29" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                    <Title>Analysis:</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="30" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                            <Title>Elements of FMLA Interference (from § 2615(a) &amp; Edgar)</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="31" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                                    <Title>π was an eligible employee</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="32" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                                    <Title>∂ was an employer as defined under the FMLA</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="33" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                                    <Title>π was entitled to leave under the FMLA,</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="34" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                                    <Title>π gave the employer notice of her intention to take leave</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="35" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                                    <Title>∂ denied π FMLA benefits to which he was entitled</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="36" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                            <Title>Only dispute as to (5), which Dracon denies (just like in Edgar).</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="37" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                            <Title>No entitlement (&amp; hence no interference) when there is a "legitimate, unrelated reason" for termination (Edgar)</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="38" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                                    <Title>Absenteeism &amp; failure to comply with company policies re: sick days are legitimate &amp; unrelated to π's FMLA claim.</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="39" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                                            <Title>Adams: Absenteeism would be grounds for a jury to determine nondiscriminatory termination.</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="40" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                            <Title>McDonnell Douglas burden-shifting applies in cases where ∂ offers such a rationale (Jaszczyszyn v. Advantage Health Physician Network)</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="41" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                                    <Title>Burden is on π to show that there was a causal nexus b/w FMLA claim &amp; termination</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="42" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                                    <Title>Under the McDonnell Douglas framework, showing temporal proximity of FMLA activity &amp; termination is not sufficient to show interference. Jaszczyszyn.</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="43" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                                            <Title>Not even for the purposes of getting past summary judgment. Skrjanc v. Great Lakes Power Service Co. at 317.</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="44" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                    <Title>Counteranalysis:</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="45" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                            <Title>π has to prove the reason offered by ∂ for termination, i.e. is a pretext:</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="46" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                                    <Title>has no basis in fact OR</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="47" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                                    <Title>did not actually motivate the defendant's challenged conduct OR</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="48" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 21:36:03 -0500">
+                                    <Title>was insufficient to warrant the challenged conduct. Dews v. AB Dick</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="49" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                            <Title>π has shown none</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="50" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                                    <Title>There's a long chain of documentation showing π's absenteeism &amp; failure to comply with company policy around absences</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="51" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                                    <Title>π doesn't allege motivation, but if he did, there's nothing to support such an allegation that he has the burden to show</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="52" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                                    <Title>Under Ritenour and Adams absenteeism is sufficient to warrant dismissal, especially if π had been previously put on notice.</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="53" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                            <Title>Only evidence that absenteeism was a pretext is the proximity in time b.w the termination and the leave request. 6th circuit precedent in Skrjanc says that such proximity by itself is insufficient to show pretext.</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="54" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                    <Title>Summary</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="55" Type="Text" Created="2013-01-23 19:13:12 -0500" Modified="2013-01-23 19:13:12 -0500">
+                            <Title>The only element in dispute is whether π was denied benefits to which he was entitled under FMLA. Since under Edgar, he wasn't so entitled if ∂ had a legitimate reason, unrelated to his FMLA claim, and under Adams absenteeism is such a reason, ∂ is not in violation. Further, for the purposes of summary judgment, Donald (see also Jaszczyszyn) held that McDonnell Doulgas burden shifting applies when when a "legitimate, unrelated reason" is given for the termination. π's only real evidence, which is temporal proximity, is insufficient to get past summary judgment, after Jaszczyszyn (see also Skrjanc).</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="66" Type="Text" Created="2013-01-24 20:42:38 -0500" Modified="2013-01-24 20:43:10 -0500">
+                    <Title>Summary</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="B503742D-6CE4-4C43-AE1D-7266159DCEC3" Color="0.784753 0.815752 0.848702">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="B7F20700-6132-48C2-9700-C85F66DEDCE9" Color="0.922 0.91 0.98">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">sufficient to</SearchSettings>
+        </Collection>
+    </Collections>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.9 0.92 0.95">Concept</Label>
+            <Label ID="1" Color="0.985 0.875 0.85">Chapter</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">First Draft</Status>
+            <Status ID="2">Revised Draft</Status>
+            <Status ID="3">Final Draft</Status>
+            <Status ID="4">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-01-23 19:11:51 -0500" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2013-03-30 15:28:46 -0400"></PreviousSession>
+    </ProjectTargets>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScrivenerProject>
