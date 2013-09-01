@@ -1,0 +1,74 @@
+# Income Tax
+## Income
+### Gross Income
+
+> **26 USC §61 — Gross Income Defined** Lists many kinds of income that are part of gross income: primarily compensation for services, business income, and investment income[^26-usc-61]
+
+* A longer list of items included in gross income is found in **§§71-90**[^26-usc-71-90]
+* Some kinds of income are **excluded** from gross income (such as unrealized gains from property, gifts, inheritance etc. Listed in **§§101-140**[^26-usc-101-140]).
+    * Exclusions can be used to create incentives (e.g. excluding employer 401(k) contributions)
+* Gains from property transactions are only counted in gross income when they are **realized**.(**§1001(a)**[^26-usc-1001])
+    * A gain realized from a property transaction is the amount received in payment less the **adjusted basis** of the property (i.e. the unrecovered investment **§§1011-1016**[^26-usc-1011-1016])
+    * Realized gains are only included in gross income when they are **recognized**, which they always are unless a specific **nonrecognition rule** applies.**§1001(c)**[^26-usc-1001]
+    * When any gain from property has been previously included in income, it becomes part of the basis. **§1.61-2(d)(2)(i)**[^26-cfr-1.61-2]
+* Income generally: amount consumed + change in wealth.
+
+[^26-usc-61]: http://www.law.cornell.edu/uscode/text/26/61
+
+[^26-usc-71-90]: http://www.law.cornell.edu/uscode/text/26/subtitle-A/chapter-1/subchapter-B/part-II
+
+[^26-usc-101-140]: http://www.law.cornell.edu/uscode/text/26/subtitle-A/chapter-1/subchapter-B/part-III
+
+[^26-usc-1001]: http://www.law.cornell.edu/uscode/text/26/1001
+
+[^26-usc-1011-1016]: http://www.law.cornell.edu/uscode/text/26/subtitle-A/chapter-1/subchapter-O/part-II
+
+[^26-cfr-1.61-2]: http://www.law.cornell.edu/cfr/text/26/1.61-2
+
+### Adjusted Gross Income
+
+> **26 USC §62 – Adjusted Gross Income** is a taxpayer's gross income minus the amounts deductible under §62(a).[^26-usc-62]
+
+* §62(a) deductions are called "above the line" deductions since they are part of the computation of AGI. 
+    * ATL deductions are preferable to below the line since they are deductible no matter how much you make. Below the line deductions may not apply as you make more money.
+
+[^26-usc-62]: http://www.law.cornell.edu/uscode/text/26/62
+
+### Taxable Income
+
+> **26 USC §63 – Taxable income** is AGI - (personal exemptions + the greater of itemized or the std deduction)[^26-usc-63]
+
+* Personal exemptions may be allowed for the taxpayer and for certain members of the TP's household.**§151**[^26-usc-151]
+* The standard deduction allows low- to low-middle-income taxpayers to take a deduction without having to keep track of expenses.
+* Itemized deductions include many things (depreciation of capital assets, home mortgage interest, etc.)
+
+[^26-usc-63]: http://www.law.cornell.edu/uscode/text/26/63
+
+[^26-usc-151]: http://www.law.cornell.edu/uscode/text/26/151
+
+### Tax Rates
+* Tax rates are set out in **§1(a)-(d)**[^26-usc-1]
+* The §1 rates are **progressive**: they increase with income
+* A TP's **marginal rate** is the rate they pay on the last dollar of income (i.e. the highest rate)
+* A TP's **effective rate** is the average rate paid (i.e. total taxable income / total amount paid)
+
+#### Capital Gains
+* A **capital gain** is gain achieved through the sale of a capital asset (stock, investment property, personal use assets).
+* Any capital asset held for >1 year is a long-term asset.
+    * Long-term captial gains are taxed at a lower rate than short-term.
+* Use **Form 1040, Schedule D** to compute rates for capital gains and losses:
+    * Add cap gains on top of ord. inc. If it would be in the 10-15% brackets, no tax. If it would be in 25-35%, it's taxed at 15%. If it would be in the 36.5% bracket, it's taxed at 20%.
+
+#### Marriage Penalty
+* Two-income married couples will pay more in taxes than the two TPs would pay if they were single. 
+    * A single-income family gets a **marriage benefit** since the one earner pays less than (s)he would filing as an individual.
+    * The two-income family incurs a **marriage penalty** since each half of the couple is not able to benefit from the progressivity of the tax rates.
+
+#### Tax Credits
+* Credits are dollar-for-dollar reductions in tax liability (e.g. credit for employer withholding **§31**[^26-usc-31]).
+    * Whereas a $1000 *deduction* would reduce the tax liability of a TP with 35% marginal rate by $350, a $1000 *credit* would reduce the same TP's tax liability by $1000.
+* When a TP's credits > their tax liability, (s)he gets a refund check.
+
+[^26-usc-31]: http://www.law.cornell.edu/uscode/text/26/31
+
+[^26-usc-1]: http://www.law.cornell.edu/uscode/text/26/1
