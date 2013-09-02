@@ -146,3 +146,49 @@ Can be demonstrative or real evidence, depending on whether they show the events
 
 ### Case-by-case
 * Relevance is usually determined case-by-case. In *Sprint*, SCOTUS essentially ruled out per se restrictions  on categorically irrelevant evidence.
+
+## Chapter 7: Prejudice, Confusion, or Waste of Time
+* **Rule 403** Ct *may* exclude relevant evidence if its probative value is *subtantially outweighed* by:
+	* *unfair* prejudice
+	* confusing the issue or misleading the jury
+	* undue delay, wasting time, or needlessly presenting cumulative evidence
+* **403**: counterweight to 401/402's permissiveness.
+* SCOTUS said 403 has to be applied case-by-case
+* 403 rulings are rarely rev'd on appeal.
+* Because of discretion, 403 claims are an opportunity for advocacy
+* "substantially outweighed" == strong presumption of admissibility
+* "unfair" prejudice means leading the jury to a conclusion with proof that isn't specific to the controversy *Old Chief v. U.S.*
+
+### In practice
+* 5 factors may often apply in 403 decisions:
+	1. Extent to which ev will arouse emotion or irrational prejudice in jurors
+	2. Extent to which jurors might overvalue evidence (bad forensic evidence?)
+	3. Strength of connection b/w evidence & elements of the case.
+	4. Is there a less prejudicial/confusing alternative?
+	5. Could the prejudice be mitigated after ev is introduced?
+* Prejudicial != "harmful to my case"
+* Gory photos *may* be okay:
+	* Corpse pics showing the position of the body may be used to dispute ∆'s testimony
+	* Pics of childrens' bloody handprints from trying to help their dead mom are prejudicial
+	* Cts tend to "split the difference" with sets of pics like this.
+* Pics of ∆s' luxurious lifestyle might not be prejudicial in an embezzlement trial if they show motive
+
+#### Flight
+* Ppl have legit reasons to travel, and juries might overvalue evidence that someone tried to flee a jxn after a crime was committed.
+* In US v. Benedetti, the ct excluded evidence of ∆'s flight *until* ∆ brought up the govt's delay in prosecuting (which was due to ∆'s flight). This "opened the door" to testimony re: ∆s flight
+
+#### Stipulations
+* Old Chief:
+	1. 403 balancing has to happen in light of the full record, including stipulations
+	2. Full accounting of a prior conviction has more "descriptive richness" than a stipulation and helps the jury do its job of sitting in moral judgment
+	3. **But** in the specific case of a felon-in-possession statute where any prior felony conviction will do, introducing the record describing the prior conviction may be prejudicial
+* Old Chief has largely been a windfall for prosecutors who get to use its language to show the value of introducing priors.
+	* But it's a small victory for ∆s in the narrow circumstances of felon-in-possession violations.
+
+#### Undue Delay
+* Judge didn't let Scooter Libby spam the jury with tons of docs about terrorist groups they'd never heard of since it would be time-consuming and confusing
+
+#### Bench trials
+* The prejudicial part of 403 doesn't come up when a judge is the fact-finder (since a judge won't say (s)he can't fairly decide a case in light of the proffer)
+	* But litigants still invoke 403 to argue ev will delay or is unduly cumulative
+
