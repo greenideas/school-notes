@@ -1,0 +1,50 @@
+# Benaglia v. Commissioner
+
+* **Year:** 1929
+* **Deciding Judge:** Sternhagen
+* **Court:** BTA (board of tax appeals)
+* **Page in Casebook:** 52-54
+
+## Parties
+
+* **petitioner:** Benaglia & wife
+* **∆/appellee**
+
+## Facts
+
+* π worked for a hotel. He and his wife lived for free in the hotel, and got all of their meals free there, as well.
+* π's income varied widely from year-year and made no accounting for the food & lodging.
+* π was always on duty & the hotel said the food & lodging were for the hotel's convenience only.
+
+## Relevant Law ##
+
+* 
+
+## Issue
+
+* 
+
+## Reasoning
+
+* The nature of hotel management makes it clear that π couldn't have done his job if he didn't live and eat at the hotel.
+* Thus the hotel's providing same didn't constitute income to π. 
+* Any benefit to π is incidental. As long as the benefits are provided to the employee primarily for the good of the employer, they don't constitute income.
+* When the Commissioner says that food & lodging are income, the employee must prove that they are not.
+    * Which π did here, by showing they primarily benefitted the employer.
+
+## Holding
+
+* Reversed. Food & lodging were not income.
+
+## Rule
+
+* Compensation that primarily benefits an employer is not income to the employee.
+ 
+## Dissent
+
+* Food & lodging were terms of the offer letter, which then constituted an employment K
+* Even if employer benefitted primarily, π still benefitted.
+
+## Notes
+
+* §119 was enacted as a remedy to the Benaglia Rule

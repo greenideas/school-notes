@@ -28,3 +28,18 @@
 	* "reasonable prospect" means that a reasonable L would think there was an unreasonable risk of harm to C's objectives or interests. 
 * Rest. may be closer to the actual prof'l std.
 * ABA sez: don't use C's work email for discussing representation, since their work may be reading.
+
+### Exceptions
+* Permissive:
+	* If the client gives informed consent
+	* The disclosure is impliedly authorized
+	* If a disclosure is against C's interest, L shd try to convince C to obviate the need for L to disclose, and L shd make the disclosure as narrow as possible
+	* To prevent death or SBH
+	* To prevent C from commiting a crime or fraud that will injure someone else's finances or property
+	* To get legal advice about complying with the rules
+	* To comply with the law or a ct order
+* Compulsory:
+
+#### Risk of Death or SBH
+* Value of life & bodily integrity > value of confidentiality
+* Some states allow L to disclose C's intent to commit *any* crime

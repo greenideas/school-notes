@@ -98,3 +98,15 @@
 * Re: Joe's motorcycle, 26 C.F.R. § 1.61–2(d)(2)(i):
 
 >  if property is transferred by an employer to an employee or if property is transferred to an independent contractor, as compensation for services, for an amount less than its fair market value, then regardless of whether the transfer is in the form of a sale or exchange, the difference between the amount paid for the property and the amount of its fair market value at the time of the transfer is compensation and shall be included in the gross income of the employee or independent contractor.
+
+#### Meals & Lodging Provided to Employees
+* *Old Colony Trust Co. v. Commissioner* (1929) - Employer's payment of employee's income tax is itself income.
+* Benaglia v. Commissioner: BTA case holding that employee's lodging & food weren't income so long as they *primarily* benefitted the employer
+* [**§119(a)**](http://www.law.cornell.edu/uscode/text/26/119 "26 USC § 119 - Meals or lodging furnished for the convenience of the employer | Title 26 - Internal Revenue Code | U.S. Code | LII / Legal Information Institute") replaced this common law rule & states that:
+	* meals can only be excluded if they are served on the employer's premises
+	* lodging can only be excluded if it's on premises and living there is a condition of employment.
+* Lots of litigation about basic terms in this statute:
+	* Cases go both ways on whether "meals" includes include groceries selected from employer's commissary
+	* "convenience of the employer" means biz interests—not just compensatory interest for securing an employee's service
+* **§119(b)(4)**: Furnished meals are only excludable if they're furnished to > half of employees.
+* [**119-1(a)**](http://www.law.cornell.edu/cfr/text/26/1.119-1 "26 CFR 1.119-1 - Meals and lodging furnished for the convenience of the employer. | Title 26 - Internal Revenue | Code of Federal Regulations | LII / Legal Information Institute") meals are excludable if they're: 1) provided on premises; and 2) furnished for employer's benefit
