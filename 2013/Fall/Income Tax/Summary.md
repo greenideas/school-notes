@@ -72,3 +72,8 @@
 [^26-usc-31]: http://www.law.cornell.edu/uscode/text/26/31
 
 [^26-usc-1]: http://www.law.cornell.edu/uscode/text/26/1
+
+### Present Value and Deferral
+* A dollar received today is worth more than one received tomorrow, and a $1 tax liability deferred for a year is lower than a $1 liability paid now.
+    * This is because a dollar received today (or a dollar not yet paid out) can earn interest.
+* Determine present value of a future liability or the future value of a present amount based on the interest rate (discount rate) and the number of years.
