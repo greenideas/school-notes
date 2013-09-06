@@ -9,5 +9,24 @@
 * 1.6 never *requires* disclosure. It's only permissive.
 * Disclosure has to be the least info possible to achieve the purpose of the disclosure.
 * Disclosure shouldn't cause someone to look for something they wouldn't otherwise look for, *even if that something is public record*
-* 1.6(b):
-	* 
+
+## September 3, 2013
+### Problem 3.3
+* Ct. appointments are hard to decline.
+
+* 4.1 is subservient to 1.6 since it **requires** disclosure.
+
+## September 4, 2013
+* Distinguish privilege from confidentiality:
+    * Privilege has to be a convo with yr client w/ nobody else present (except and interpreter, etc.)
+    * Confidentiality is a much broader concept & includes everything related to the representation
+* Upjohn: convos are privileged, and if yr interlocutor is in the "control group" of an entity/corp
+* Subject matter test: things observed at work & performing yr duties
+* Nature of the convo vs identity of the person talking:
+    * "control group" is over & underinclusive
+    * If someone is talking to a lawyer seeking counsel, it should be privileged
+    * When a lawyer approaches an employee to investigate something the emp'ee did to determine legal consequences, it's privileged.
+* 1.2(d) buttresses 1.6 exceptions by requiring L not to aid C when you know C is doing something criminal or fraudulent
+* "noisy withdrawal:" don't disclose C info, but make yr withdrawal known
+* 4.1 c 3: sometimes L may have to disclose client info to show they didn't assist C's crime or fraud
+* Start by advising C, then noisy withdrawal, then disclose as a last resort

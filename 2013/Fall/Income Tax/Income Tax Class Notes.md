@@ -1,6 +1,5 @@
 # Income Tax Class Notes
 ## August 26, 2013
-
 * What is income?
 * Goal of inc. tax is to raise revenue.
 * Capitation would be more efficient, but equity prevents such a tax.
@@ -10,7 +9,6 @@
 	* Y = C + ∆W
 
 ## August 27, 2013
-
 * Taxable Income x Rate = Tax
 * Tax - Credits = Tax owed
 * Tax owed - Tax withheld = Refund/check
@@ -97,3 +95,51 @@
 * 1.61-2(d)(2)(i): Once you've included an amount in income, it becomes part of basis.
 * Splitting income over different years or different TPs in a family keeps the marginal rate down.
 * Benefit of deferring a tax liability depends on the present value of the amount owed.
+
+## September 3, 2013
+### Present value cont'd
+* IRAs are one way the IRS lets you defer tax liability.
+* Two variables: 1) length of time; 2) discount rate
+* PV of $100 to be paid in 5 years at 3% interest is 100 * .863 = $86.30
+* As length of time or the interest rate increases, PV decreases (you have to invest less to get to the target amount at the end)
+* Depreciation is another way to give the benefit of deferral, since the amount you can deduct each year, it reduces the tax you pay when you sell the asset since you can invest the amount you deduct.
+
+### Fringe Benefits
+* Money paid by the employer for the benefit of the employee, it's essentially compensation
+
+## September 4, 2013
+* FBs included *unless* you can find a specific exclusion
+* §119, §132, §1.132-1
+* Tax regs are promulgated by Treasury.
+	* Not law, since they're not passed by congress
+	* But have strong precedential value
+	* Moreso when a law says "IRS shall create implementing regs"
+* Alt. rule suggested by Benaglia dissent: include the cost to live & eat elsewhere.
+* Whether §119 applies is a fact question
+* §132: other FBs
+	* No additional cost:§132(b)
+		* Offered by emp'er to emp'ee
+		* Service
+		* Svc offered for sale to customers
+		* In the line of biz in which the emp'ee works
+		* no add'l cost to emp'er (incl. foregone revenue)
+		* not offered on a discrim. basis
+	* *Qualified* employee discounts §132(c)(1)
+		* Goods: gross profit percentage
+		* services: 20% off full freight
+	* De Minimis §1.132-6
+	* Working condition
+
+## September 5, 2013
+* If an in-kind benefit *isn't* excluded, it's usually taxed at FMV.
+* Discrimination rule, 132(j)(1): The §132(a)(2)-(2) only apply to highly compensated employees if they're available to all employees.
+* §132(c)(2)(A) Gross profit percentage = (i) / (ii) = (Price - Cost)/ Price
+* 1.132-3(e): Excess discount beyond what's excludable can be taxed.
+* Working condition
+* 1.136-6(d)(2): Occasional meal money, cab fare
+* 1.132-7 URLs was de minimis if Y! covered their costs.
+* 132(j)(4) on-premisis gym is excludable
+* Working condition:
+	* Emp'er pays for something on behalf of emp'ee, and emp'ee would've been able to deduct it if she paid for it herself, then emp'er can exclude it.
+	* Expenses incurred in the course of business. §162
+	* Makes more sense after studying §67

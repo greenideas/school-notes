@@ -192,3 +192,74 @@ Can be demonstrative or real evidence, depending on whether they show the events
 * The prejudicial part of 403 doesn't come up when a judge is the fact-finder (since a judge won't say (s)he can't fairly decide a case in light of the proffer)
 	* But litigants still invoke 403 to argue ev will delay or is unduly cumulative
 
+
+## Chapter 8 — Fitting the Rules Together
+* 401 is a net with a very wide mesh. It's at the mouth of the river and lets a ton of fish through
+* 403 is at the end of the river, has a slightly tighter mesh than 401/402, and is the judge's last opporunity to keep the fish away from the jury (ocean?)
+
+## Chapter 9 - Subsequent Remedial Mesaures
+* 407-411 all exclude different types of evidence but have two kinds of goals in common:
+	1. *Promoting socially valuable activity* (plea bargaining or buying insurance) by protecting ppl who do them from having certiain evidence used against them
+	2. *Preventing unfair prejudice* that would result from the kinds of evidence covered. Juries would likely overweight these kinds of ev.
+* Require L to state the purpose of introing the evidence since it might be excluded for one purpose but admitted for another
+* **Rule 407 - Subsequent Remedial Measures** π can't introduce evidence that ∆ took subsequent measures that would have made an injury less likely to occur as evidence of:
+	* Negligence
+	* Culpable conduct
+	* Defective product design or mfg
+	* Need for warning/instruction
+* **But** those measure can be introduced for:
+	* impeachment 
+	* or if disputed (to show ownership or control, or feasability of the remedial measures)
+
+### In the courtroom
+* **"Measure?"**: Overt act, pulling product from market, policy change
+* **"Subsequent?:"** Only covers acts taken after the injury. Measures taken after the sale of a product but before π's injury dont count.
+	* Fixing problems before they hurt someone (thus avoiding litigation altogether) is enough of an incentive
+* **Nonparties**: even though 407 doesn't distinguish b/w measures taken by (non)parties, cts usually only exclude evidence of measures by parties b/c that's who the incentive policy applies to.
+
+### Ownership & control
+* If π claims not to control the cause of the accident, but then takes remedial steps, ∆ can introduce evidence of the measures to show π has control. (opening the door)
+
+### Feasibility
+* Same as ownership. π can't claim remedial measures weren't feasible but then go and do them.
+* But what's feasible may change, so this can be litigated.
+* Also, like O&C has to be disputed by ∆ before π can introduce.
+
+### Impeachment
+* Interpreted narrowly to keep the exception from swallowing the rule
+* Needs to be a close fit between the testimony to be impeached and the measures taken
+	* Witness makes specific statement that conflicts w/ measures taken
+	* Witness makes absolute statement (the product was perfectly safe)
+	* The witness was personally involved with the measure
+* ∆ should avoid calling witnesses that were involved in the measures.
+	* Or keep witnesses from making absolute statements (the original design was the best and safest)
+
+### Rules 105 & 403
+* 105 (lim. instr.) & 403 (unfair prejudice) compliment 407.
+* If ev is allowed for showing O&C or feasibility, π can request a lim. instr. to keep it from being considered as showing liability.
+* If π thinks lim. instr. won't be sufficient, he can argue the ev would be prejudicial under 403.
+
+## Settlements and Offers to compromise
+* Settling is efficient, so we don't want to create incentives against it.
+* Also super prejudicial.
+* **Rule 408(a)** Below are not admissible *by any party*
+	* (1) Giving, offering, or promising (or accepting any of same) value as a compromise
+	* (2) Conduct or statement during negotiation of the compromise except in a criminal case or when the claim is by a public office exercising its regulatory, investigative or enforcement authority
+* **408(a)** Not admissible to (dis)prove an amount of a disputed claim or to impeach a prior inconsistent statement
+* 408 only applies when the dispute has matured into a "claim"
+* Exclusion is limited to those purposes mentioned
+* **408(b)** Exceptions: This evidence can be admitted to:
+	* Prove a witness's bias or prejudice
+	* negate a contention of undue delay
+	* prove effort to obstruct a criminal investigation or prosecution
+* Civil settlements may be introduced as evidence in *some* criminal trials but only when the civil proceeding involved a public office acting in an investigative, regulatory, or enforcement powers.
+* Flow chart on pg. 115.
+
+### In the courtroom
+* Is there a claim? Yes, when a party hires an atty and threatens to sue.
+* Have there been compromise negotiations? Unilateral approach of one party != negotiation
+* Showing intent to continue talking can be evidence of continuing negotiation
+* Settlements with 3rd parties are excluded, too
+* Settlements can be used to show bias. If a witness got a lot of money by settling with a party, she might be biased towards that party
+	* Impeachments for bias != impeachments for inconsistency. Only the former are admissible.
+* 408 doesn't cover plea bargaining.

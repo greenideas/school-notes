@@ -121,7 +121,7 @@
 * depends on substantive loaw & each party's theory of the case
 * Relavance changes as facts and arguments change
 * Tightly linked to culture
-* 402: Exclude ev if any of the following say so:  const, fed law, other FRE, other SCOTUS
+* 402: Exclude ev if any of the following say so: const, fed law, other FRE, other SCOTUS
 * "any tendency" + "more or less probable" == very low bar
 * Relevance is the first net ev has to pass through, and it has huge holes
 * Not inherent to a piece of evidence
@@ -163,3 +163,120 @@
 	* Limited purpose
 	* Limiting instruction
 	* Curative
+
+## September 3, 2013
+### 403
+* Weigh probative value against: unfair prejudice, confusion, undue delay, misleading the jury, waste of time, needless duplication
+* Scale is tilted way in favor of probative value
+* "substantially outweighs" is essentially a synonym for "improper"
+* advocacy can make or break a 403 claim
+* Key words: **"may"** (discretion is built in), **substantially outweigh**, **wasting, undue, needlessly**
+* ∆ attempts suicide when the bodies are found:
+	* 401: Relevant when goes to consciousness of guilt
+	* alternatives: might fear dustin, doesn't trust the justice system
+	* It's coming in under 401, but the alternatives go into 403 analysis to show prejudice
+	* 403:
+		* Admit
+		* Exclude:
+			* Penalty phase: argue that she should get death b/c she doesn't value her own life
+* Civil fraud case, π wants to introduce evidence of ∆'s gambling & going to strip clubs.
+	* 401: might be excluded by another rule (bad character/propensity)
+		* motive: either ∆ is out of money & had to commit fraud to pay gambling debts, or he loves gambling and strippers so much that he will commit fraud to fund his habit
+	* 403: worried about bad character value
+		* misleads jury
+* 403 is bread & butter. You always go to it.
+* Murder dream hypo:
+	* 401:
+		* Admit: almost a confession, consciousness of guilt
+		* Exclude: It was a dream. Maybe a joke.	
+			* Lie-detectors are so bad that Fed. Cts. accept that ppl don't want to submit to them for fear of false positive.
+* Driving past the graveyard w/ 10k headed to Canada.
+	* 403:
+		* Feeling bad about wife's death. Panic. He started close the border.
+		* $10k means different things depending on who's carrying it.
+	* Bottom line: admit the ATM slips for the 10k, but not flight or suicidality
+
+## September 4, 2013
+### Stipulations
+* Extension of 403
+
+#### Old Chief
+* ∆ offered to stipulate fact of prior conviction
+* Ev of prior conviction was still relevant
+* Given the offer to stipulate, ev beyond mere fact of conviction was unfairly prejudicial
+* Really bad for ∆s:
+	* Even if stipulated, still relevant since π has burden.
+	* ? shifts to 403, and it is unfairly prejudicial
+* Narrative relevance (storytelling model): "a brick is not a wall, but many bricks build a wall"
+	* *How* we tell stories matters
+	* Offer to stipulate goes to prejudice
+	* ∆'s stipulation 
+	* In most cases, offer to stipulate has little effect under 403
+* Factors cts consider:
+	* Evidence in the context of the record as a whole
+	* Is there less unfairly prejudicial ev avail that each purpose
+	* [[ check slides ]]
+* Diff b/w child porn & felon-in-possession is that in the latter case, cts will actually allow the stipulation. 
+* Part of the right to a jury trial is the jury's right to act as the community's moral arbiter, and juries need a story/narrative to make that call
+
+#### Gory pics
+* When there's a highly prejudicial photo, the judge might still want to let it in.
+* Is there a less inflammatory/prejudicial option? (crime scene photo v. autopsy photo)
+
+### Other accident/lack of accident
+* 401/403 balancing
+* Other accidents: (ex: lots of accidents at one intersection)
+* Modern rule: Proof of other accidents is admissible if it's sufficiently probative of issues in dispute
+* Key factors:
+	* Degrees of *similarity* (same speeds? same time of day? same tree in the way?)
+	* *Remoteness*: how long ago (20 accidents in 1970 and 1 in 2013?)
+* Come up in negligence & products liability
+* Knowledge/notice (∆ knew or should've known)
+
+* Lack of accidents:
+	* Is there any reason we shd think that if there were incidents, π would know about them?
+		* Prod. liability: is there a known customer complaint line?
+		* Accident: city call center to report accidents?
+	* Hard for a jury to weigh lack of accidents
+
+## September 5, 2013
+* when 401/403 balancing, ask: Is ev unfairly prej **AND** is there a less prej alternative
+* Cts give weight to narrative b/c pros. has such a high burden, so they should have some discrection in how they prove their case
+* Always start with the 401 question (is it relevant)
+* Establish similarities
+* Eliminate possible dissimilarities/rule out other explanations
+	* The calculus changes when there are more incidents.
+* Changing the theory of the case changes a lot about what might be admissible. 
+
+### Subsequent Remedial Measures
+* 407
+* 407-411 are clustered around similar policy considerations
+	* Often interfere with the goal of accuracy
+* Shield ppl who engage in socially valuable acts by prohibiting use of ev of those acts at trial
+* Tend to be high on prej (403) & low on probative value (401)
+* Admissible for *other* purposes (besides showing liability/fault)(*except* 410)
+* Rule 407:
+	* Subs. measures aren't admissible to prove:
+		* Negligence
+		* Culpable conduct
+		* Design/mfg defect
+		* Need for warning/instruction
+	* Above essentially boil down to fault
+	* But can be intro'd to 
+		* Impeach
+		* show ownership/control/feasibility *if disputed*
+* Doesn't replace 403
+
+#### What is a measure?
+* Putting salt on an icy sidewalk, product recall, putting up a warning, etc.
+* Any act making harm less likely to occur
+* Limited to measures taken by a party to the suit (not to 3rd parties)
+
+#### Subsequent
+* After the injury or harm
+* Applies to each ∆ in a multi-∆ suit
+
+#### Policy goals
+* promotes beneficial social activity
+* Avoid perverse incentives
+* Avoids jurors giving too much weight to evidence.

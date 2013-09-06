@@ -95,7 +95,7 @@
 * §61 (& §1.61-1(a))def of gross income doesn't distinguish b/w (non)cash benefits
 * Not taxing noncash benefits would encourage noncash payment, which would favor some jobs/industries/sectors over others, and would create inefficiencies in the labor market.
 * But enforcement of IRC around noncash benefits is difficult
-* Re: Joe's motorcycle, 26 C.F.R. § 1.61–2(d)(2)(i):
+* Re: Joe's motorcycle, [**26 C.F.R. § 1.61–2(d)(2)(i)**](http://www.law.cornell.edu/cfr/text/26/1.61-2 "26 CFR 1.61-2 - Compensation for services, including fees, commissions, and similar items. | Title 26 - Internal Revenue | Code of Federal Regulations | LII / Legal Information Institute"):
 
 >  if property is transferred by an employer to an employee or if property is transferred to an independent contractor, as compensation for services, for an amount less than its fair market value, then regardless of whether the transfer is in the form of a sale or exchange, the difference between the amount paid for the property and the amount of its fair market value at the time of the transfer is compensation and shall be included in the gross income of the employee or independent contractor.
 
@@ -110,3 +110,40 @@
 	* "convenience of the employer" means biz interests—not just compensatory interest for securing an employee's service
 * **§119(b)(4)**: Furnished meals are only excludable if they're furnished to > half of employees.
 * [**119-1(a)**](http://www.law.cornell.edu/cfr/text/26/1.119-1 "26 CFR 1.119-1 - Meals and lodging furnished for the convenience of the employer. | Title 26 - Internal Revenue | Code of Federal Regulations | LII / Legal Information Institute") meals are excludable if they're: 1) provided on premises; and 2) furnished for employer's benefit
+	* Limited time for lunch break,
+	* On emergency call
+	* Shift meal before or after shift
+
+### Other Fringe Benefit Statutes
+* Some FBs were excluded through act or omission: parking, flights, health ins.
+* [**132**](http://www.law.cornell.edu/uscode/text/26/132 "26 USC § 132 - Certain fringe benefits | Title 26 - Internal Revenue Code | U.S. Code | LII / Legal Information Institute") makes a lot of FBs excludable
+	* No add'l cost svcs (free standby flights for airline employees (and their parents! **§132(h)(3)**))
+	* Discounts on goods employer sells
+	* working condition (company car, free journal subscriptions)
+	* de minimis fringes (incl meals if served on premises and employer doens't make money from selling food §132(e)(2))
+	* transportation (transit passes, parking) §131(f)
+	* moving expenses
+	* retirement planning
+	* on-premises gym
+* Job has to relate to the line of biz where benefit is given: Can't get discount on Virgin phone service *and* free standby flights on Virgin planes
+* [**1.61-21(b)**](http://www.law.cornell.edu/cfr/text/26/1.61-21 "26 CFR 1.61-21 - Taxation of fringe benefits. | Title 26 - Internal Revenue | Code of Federal Regulations | LII / Legal Information Institute"): valuation of FBs.
+	* Incl. fair market value
+* Cafeteria plan: employees can pick among benefits or take a cash equivalent. Expressly authorized by §125.
+* Have to be "use it or lose it"
+* Frequent flyer miles: though clearly a FB, too hard to value, so IRS threw in the towel & said they wouldn't count as income or taxable FBs.
+* Employer deduction: If a FB is too hard to value, the IRS might deny the employer a deduction to make up for lost revenue from the employees.
+* Benefits from other than the employer (review copies of books, etc.) are income if sold or if donated to charity and claimed as a deduction
+* [**§162(a)**](http://www.law.cornell.edu/uscode/text/26/162 "26 USC § 162 - Trade or business expenses | Title 26 - Internal Revenue Code | U.S. Code | LII / Legal Information Institute"): Biz expenses may be deductible
+
+### Health Insurance
+* [**§106(a)**](http://www.law.cornell.edu/uscode/text/26/106 "26 USC § 106 - Contributions by employer to accident and health plans | Title 26 - Internal Revenue Code | U.S. Code | LII / Legal Information Institute") Health Insurance provded by an employer is excluded from gross income
+* This usually causes employees to "trade up" on their health plan
+
+###  Valuating FBs
+#### Turner v. Commissioner
+* How much of steamship tickets should π declare as income?
+* π declared $520, but ∆ said it should be $2200 (retail price)
+* π traded the two first-class tix (plus $12.50) for 4 tourist tickets
+* Tix weren't transferrable & π didn't want/intend to purchase them, so they were worth less than FMV. 
+	* Still, there was substantial benefit. Let's call it $1400 worth.
+* Taxing the fan who catches the ball
