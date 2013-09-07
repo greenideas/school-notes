@@ -6,7 +6,9 @@ latex input:        mmd-article-begin-doc
 latex footer:       mmd-memoir-footer
 
 # Evidence Summary
+
 ## Course Basics
+
 ### Types of evidence
 * There are six basic kinds of evidence. Though this is not a legally recognized taxonomy, these are the ways practictioners describe evidence:
     1. **Oral testimony**
@@ -129,3 +131,50 @@ When determining relevance, ask these questions:
 [^fre-401]: http://www.law.cornell.edu/rules/fre/rule_401
 
 [^fre-402]: http://www.law.cornell.edu/rules/fre/rule_402
+
+## Prejudice
+> **Rule 403** Ct *may* exclude relevant evidence if its probative value is *subtantially outweighed* by: *unfair* prejudice; confusing the issue or misleading the jury; undue delay, wasting time, or needlessly presenting cumulative evidence[^fre-403]
+
+* 5 factors may often apply in 403 decisions:
+    1. Extent to which ev will arouse emotion or irrational prejudice in jurors
+    2. Extent to which jurors might overvalue evidence (bad forensic evidence?)
+    3. Strength of connection b/w evidence & elements of the case.
+    4. Is there a less prejudicial/confusing alternative?
+    5. Could the prejudice be mitigated after ev is introduced?
+* Nutshell: Is the evidence unfairly prejudicial **and** is there a less prejudicial alternative
+
+### Stipulations
+* Prosecution can typically introduce evidence to prove a prior conviction even if ∆ wants to stipulate the fact of the conviction.
+    * Prosecution has a high burden of proof and should get to meet that burden in the way it chooses.
+    * Only time stipulation is sufficient is when the prior conviction is an element of the current charged offense (e.g. felon-in-possession *Old Chief*)
+    * Old Chief creates one narrow ∆-friendly circumstance, but is otherwise a huge boon to prosecutors.
+
+### Other Accident/Lack of Accident
+* Modern rule: Proof of other accidents is admissible if it's sufficiently probative of issues in dispute
+* Key factors:
+    * Degrees of *similarity* (same speeds? same time of day? same tree in the way?)
+    * *Remoteness*: how long ago (20 accidents in 1970 and 1 in 2013?)
+* Come up in negligence & products liability
+* Knowledge/notice (∆ knew or should've known)
+* Lack of accidents:
+    * Is there any reason we shd think that if there were incidents, π would know about them?
+        * Prod. liability: is there a known customer complaint line?
+        * Accident: city call center to report accidents?
+    * Hard for a jury to weigh lack of accidents
+
+### Subsequent Remedial Measures
+* 407-411 all exclude different types of evidence but have two kinds of goals in common:
+    1. *Promoting socially valuable activity* (plea bargaining or buying insurance) by protecting ppl who do them from having certiain evidence used against them
+    2. *Preventing unfair prejudice* that would result from the kinds of evidence covered. Juries would likely overweight these kinds of ev.
+
+>**Rule 407 - Subsequent Remedial Measures** π can't introduce evidence that ∆ took subsequent measures that would have made an injury less likely to occur as evidence of: *Negligence; Culpable conduct; Defective product design or mfg; Need for warning/instruction*
+> **BUT** those measure can be introduced for: *impeachment; or if disputed* (to show ownership or control, or feasability of the remedial measures)[^fre-407]
+
+* Subsequent: Remedial measures taken before the injury are admissible.
+    * Ex: ∆ makes a design change, π is injured, ∆ institutes a recall. The design change is admissible, but the recall isn't.
+* Opening the door: If ∆ disputes ownership, control, or feasability, π can introduce evidence of the subsequent measures
+    * Or if ∆ makes an absolute statement: "the product was perfectly safe"
+
+[^fre-403]: http://www.law.cornell.edu/rules/fre/rule_403
+
+[^fre-407]: http://www.law.cornell.edu/rules/fre/rule_407
