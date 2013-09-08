@@ -77,3 +77,56 @@
 * A dollar received today is worth more than one received tomorrow, and a $1 tax liability deferred for a year is lower than a $1 liability paid now.
     * This is because a dollar received today (or a dollar not yet paid out) can earn interest.
 * Determine present value of a future liability or the future value of a present amount based on the interest rate (discount rate) and the number of years.
+* Gain or loss from selling property is the amount realinzed minus the adjusted basis. **§1001(a)**[^26-usc-1001], **§1.1001-1(a)**[^26-cfr-1.1001-1]
+* **Realization**: Exchange for cash or "exchange of property for other property differing materially either in kind or in extent" **§1.1001-1(a)**.
+* When realized gain is of a like kind, it is not recognized.**§1031(a)**[^26-usc-1031]
+* As length of time or the interest rate increases, PV decreases (you have to invest less to get to the target amount at the end)
+
+[^26-usc-1001]: http://www.law.cornell.edu/uscode/text/26/1001
+
+[^26-cfr-1.1001-1]: http://www.law.cornell.edu/cfr/text/26/1.1001-1
+
+[^26-usc-1031]: http://www.law.cornell.edu/uscode/text/26/1031
+
+### Noncash Benefits
+* **§61** doesn't distinguish b/w cash & noncash income.
+* **§ 1.61–2**[^26-cfr-1.61-2]: When goods are sold for less than fair market value, the difference is income.
+
+[^26-cfr-1.61-2]: http://www.law.cornell.edu/cfr/text/26/1.61-2
+
+#### Meals & Lodging
+* **§119**[^26-usc-119]: Meals and lodging provided by employer may be excluded if: 
+    * food is served on premises 
+    * lodging is a requirement for the job
+* "convenience of the employer" means biz interests—not just compensatory interest for securing an employee's service
+* **§119** replaced the *Benaglia* rule that M&L were excludable if they were primarily for emp'ee's benefit. 
+
+[^26-usc-119]: http://www.law.cornell.edu/uscode/text/26/119
+
+#### Other Fringe Benefits
+* **§132**[^26-usc-132] makes a lot of FBs excludable
+    * No add'l cost svcs (free standby flights for airline employees (and their parents! **§132(h)(3)**))
+    * Qualified discounts on goods employer sells
+    * working condition (company car, free journal subscriptions)
+        * Emp'er pays for something on behalf of emp'ee, and emp'ee would've been able to deduct it if she paid for it herself, then emp'er can exclude it.
+        * Expenses incurred in the course of business. **§162**[^26-usc-162]
+    * de minimis fringes (incl meals if served on premises and employer doens't make money from selling food **§132(e)(2)**) **§1.132-6**[^26-cfr-1.132-6]
+    * transportation (transit passes, parking) **§132(f)**
+    * moving expenses
+    * retirement planning
+    * on-premises gym **132(j)(4)**
+* Qualified employee discounts (**§1.132-3**)[^26-cfr-1.123-3] require:
+    * Goods: discount not to exceed gross profit percentage
+        * **§132(c)(2)(A)** *Gross profit percentage* = (i) / (ii) = (Price - Cost)/ Price
+    * Services to be discounted by no more than 20%
+* If an in-kind benefit *isn't* excluded, it's usually taxed at FMV.
+* Discrimination rule, **132(j)(1)**: §132(a)(1)-(2)(no additional cost, qualified employee discount) only apply to highly compensated employees if they're available to all employees.
+* If only part of a benefit is excluded, the remainder is taxed **1.132-3(e)**
+
+[^26-usc-132]: http://www.law.cornell.edu/uscode/text/26/132 
+
+[^26-usc-162]: http://www.law.cornell.edu/uscode/text/26/162
+
+[^26-cfr-1.132-6]: http://www.law.cornell.edu/cfr/text/26/1.132-6
+
+[^26-cfr-1.123-3]: http://www.law.cornell.edu/cfr/text/26/1.132-3
