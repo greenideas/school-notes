@@ -239,7 +239,7 @@ Can be demonstrative or real evidence, depending on whether they show the events
 * If ev is allowed for showing O&C or feasibility, π can request a lim. instr. to keep it from being considered as showing liability.
 * If π thinks lim. instr. won't be sufficient, he can argue the ev would be prejudicial under 403.
 
-## Settlements and Offers to compromise
+## Chapter 10: Settlements and Offers to compromise
 * Settling is efficient, so we don't want to create incentives against it.
 * Also super prejudicial.
 * **Rule 408(a)** Below are not admissible *by any party*
@@ -263,3 +263,71 @@ Can be demonstrative or real evidence, depending on whether they show the events
 * Settlements can be used to show bias. If a witness got a lot of money by settling with a party, she might be biased towards that party
 	* Impeachments for bias != impeachments for inconsistency. Only the former are admissible.
 * 408 doesn't cover plea bargaining.
+
+## Chapter 11: Medical Expenses
+* **Rule 409** Paying, or offering or promising to pay medical expenses (or similar) is not admissible for the purpose of showing liability.
+* **409** doesn't require a dispute in order to bar introduction (contrast **408**).
+* Doesn't exclude anything said along with the payment (or offer, etc.
+* "medical expenses" includes things like PT, and maybe therapy, but not any economic or property damage
+
+## Chapter 12: Criminal Plea Bargaining
+* Gov't has an interest in promoting plea bargains, but judicial system has inteterest in protecting ∆s from prosecutorial overreach
+* **Rule 410**
+	* **Prohibited uses**: In a civil or criminal case, the following isn't admissible against ∆ who participated in plea negotiations or entered the plea
+		* (i.e. ∆ can still introduce anything from the process against others)
+	* **Excluded evidence:**
+		* A guilty plea subsequently withdrawn
+		* Nolo contendre plea (even if entered)
+		* A statement made during either of the above pleas (either in or out of court)
+		* A statement made during plea *discussions with an attorney* if those discussions didn't result in an entered & finalized plea
+	* **Exceptions:** Statements made during negotiations for a nolo plea or a guilty plea that is not entered or is subsequently withdrawn may be admitted if:
+		* another statement from the same plea/discussion have been admitted, and the statements should be considered together out of fairness
+			* (i.e. if ∆ introduces something from those talks, might be able to as well, per the judge's discretion)
+		* **OR** in a criminal trial for perjury or false statement, and ∆ made the statement: under oath, on the record, **AND** with counsel present
+			* (limited exception, since this isn't ususally how plea negotiations happen)
+			* Might apply if ∆ is responding in court to questions from the judge after entering the plea
+* 410 **does not** exclude final guilty pleas. Pleas entered have the same status as criminal convictions.
+* Neither does it exclude discussions/statements during the bargaining for a guilty plea that is subsequently entered
+* Talks with prosecutors might be "plea discussions;" statements to police with no prosecutor present usually aren't
+* Statements may be considered part of a "plea discussion" if:
+	* ∆ *manifested* a subjective belief that he was negotiating a plea **AND**
+	* That understanding was reasonable
+* ∆ **may** waive his rights under 410, and a prosecutor can ask him to do so as a condition for negotiations
+
+#### 403
+* Statements from negotiations can be excluded from use against the prosecution under 403 (e.g. if ∆ tries to intro π's willingness to negotiate as showing weakness of π's case)
+
+## Chapter 13: Liability Insurance
+* We want people to have insurance so they can compensate people they harm
+* And insurance is an efficient way to spread cost & pool risk
+* **Rule 411** Ev that ∆ was(n't) insured against liability **is not** admissible to prove that ∆ acted wrongly but **is** admissible to prove:
+	* Witness bias/prejudice
+	* Agency, ownership, control
+* Health ins. isn't liability ins (or life or disability)
+* Whether indemnity agreements count depends on the judge	
+
+## Chapter 14: Putting a Witness on the Stand
+* Art VI of the Rules deals with who can testify at trial.
+
+### 601
+* **Rule 601** Everyone is competent to be a witness *unless* a specific rule prohibits them.
+	* State law re: competency applies in a civil case where state law supplies the elements of the claim or defense
+
+### 605 Judges' competence
+* **Rule 605** A presiding judge can't testify as a witness. Parties don't have to object to preserve this issue.
+	* This includes commentary from the bench that amounts to testimony
+
+### 606 Jurors' competence
+* **Rule 606** (a) A juror can't testify as a witness at trial
+	* (b) if a juror is called, opposing counsel has to have an opportunity to object w/o the jury present
+
+### 602 Personal knowledge
+* **Rule 602** Witness has to have personal knowdlege of the matter about which they're testifying (witness can show personal knowledge through her own testimony)
+	* This doesn't apply to expert testimony
+* May sometime be used to rein in 601's broadness.
+
+### 603 Oath requirement
+* **Rule 603** Witnesses have to make some kind of statement or affirmation that they intend to give accurate testimony
+
+### 604 Interpreters
+* **Rule 604** An interpreter has to be qualified and affirm that she intends to translate faithfully

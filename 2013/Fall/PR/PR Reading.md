@@ -78,4 +78,33 @@
 
 ### Conflict of interest
 * **1.8(b)** L can't use C's info to C's detriment w/o informed consent.
-	   
+
+## Chapter 5: Relationship between L&C
+* [**Rule 1.1**](http://www.law.cornell.edu/ethics/aba/current/ABA_CODE.HTM#Rule_1.1 "Model Rules of Professional Conduct (2004)"): L must provide competent representation
+	* Comment 2: L doesn't have to know anything about the area of the law where C needs help as long as L has time to learn about it.
+* L can bill for time it takes to "get up to speed" on law or other subj. matter, but not too much, and should communicate that ahead of time
+* L generally has discretion in which clients to take and what work he'll do for those clients, but [**6.1**](http://www.law.cornell.edu/ethics/aba/current/ABA_CODE.HTM#Rule_6.1 "Model Rules of Professional Conduct (2004)") says Ls should try to do 50 hrs/yr of pro bono work, and preferably for unpopular ppl (c1)
+* [**6.2**](http://www.law.cornell.edu/ethics/aba/current/ABA_CODE.HTM#Rule_6.2 "Model Rules of Professional Conduct (2004)") L can't turn down an appointment to defend an indigent client, unless it would: (a) violate a rule; (b) cause under financial burden; or (c) C's crime was so repugnant to L that L's representation would suffer.
+* **Legal malpractice std**:
+	1. L&C had an atty-client relationship
+	2. L acted negligently or in breach of K
+	3. L's act was a proximate cause of harm to C
+	4. L's act was an actual (but for) cause of harm to C
+
+### Strickland & IAC:
+* On appeal, ∆ has to show orig. L was egregiously bad (L didn't meet 6A requirement for counsel) **AND** that a better lawyer would've affected the outcome below (L's deficiency was prejudicial)
+* KY v Padilla: IAC to fail to disclose immigration consequences.
+
+### Diligence
+* [**Rule 1.3**](http://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_3_diligence.html "Rule 1.3: Diligence | The Center for Professional Responsibility"): L shall represent C w/ reasonable *diligence* & *promptness*
+* C3: Zealous advocacy
+* 1.2(c) L can limit the scope of his representation if C gives incformed consent
+	* L can help with part of a case or at one stage of litigation: "unbundled services"
+
+### Truthfulness
+* 3.3(a) & 4.1 say L can't lie to tribunals or non-clients, but nothing explicitly says L can't lie to clients.
+* 8.4(c) says L can't commit fraud or misrepresentation
+* 1.4 imposes a duty to keep client informed in matters involving: informed consent; a decision by C; re: status; and about things C asked about
+
+### Candor
+* 2.1: L should give candid advice based not just on the law but moral, social, economic & political factors

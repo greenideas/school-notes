@@ -147,3 +147,68 @@
 * Tix weren't transferrable & π didn't want/intend to purchase them, so they were worth less than FMV. 
 	* Still, there was substantial benefit. Let's call it $1400 worth.
 * Taxing the fan who catches the ball
+
+### Windfalls & Gifts
+* [**§74**](http://www.law.cornell.edu/uscode/text/26/74 "26 USC § 74 - Prizes and awards | Title 26 - Internal Revenue Code | U.S. Code | LII / Legal Information Institute"): Gross income generally includes prizes and awards.
+* [**§1.61-14**](http://www.law.cornell.edu/cfr/text/26/1.61-14 "26 CFR 1.61-14 - Miscellaneous items of gross income. | Title 26 - Internal Revenue | Code of Federal Regulations | LII / Legal Information Institute"): Damage awards, prizes, treasure trove & illegal gains all count as gross income.
+
+#### Commissioner v. Glenshaw Glass
+* Settlement payments and damage awards are income for purposes of §61.
+	* Doesn't matter that ∆ realized those gains due to a 3rd party's culpable conduct. 
+	* All that matters is that ∆'s gain was fully realized and in ∆'s possession
+* Case was the decisive end of the *Macomber* Era narrow conception of income.
+
+### Imputed Income
+* **Imputed income** is gained outside of a commercial transaction (e.g. the rental value of an owner-occupied home)
+* A person investing in a personal residence relies on:
+	* The nontaxation of imputed income; and
+	* the deductibility of mortgage interest
+
+#### Services
+* When you work OT to make money to paint your house, you have to pay tax on the extra $ you make.
+	* If you spent that time painting it yourself, you wouldn't be taxed on the imputed income from your sweat equity
+* Nontaxation of imputed income from homemaker services may create incentives that keep valuable laborers out of the workforce.
+	* This is part of why there is a credit for child-care [**§21**](http://www.law.cornell.edu/uscode/text/26/21 "26 USC § 21 - Expenses for household and dependent care services necessary for gainful employment | Title 26 - Internal Revenue Code | U.S. Code | LII / Legal Information Institute")
+
+#### Revenue Ruling 79-24
+* Lawyer & housepainter who trade services: each's benefit is includable at FMV
+* Artist paid 6 months of rent with a painting: FMV of art and apartment are includable
+
+### Gifts
+* [**§102**](http://www.law.cornell.edu/uscode/text/26/102 "26 USC § 102 - Gifts and inheritances | Title 26 - Internal Revenue Code | U.S. Code | LII / Legal Information Institute"): Gifts are excludable
+	* No real consequence for revenue since gifts aren't deductible by the donor
+* Tips are ordinary income--not gifts. [**1.61-2(a)(1)**](http://www.law.cornell.edu/cfr/text/26/1.61-2 "26 CFR 1.61-2 - Compensation for services, including fees, commissions, and similar items. | Title 26 - Internal Revenue | Code of Federal Regulations | LII / Legal Information Institute")
+* Scholarships to degree-granting schools are excluded to the extent they pay for tution, fees, and books. [**117**](http://www.law.cornell.edu/uscode/text/26/117 "26 USC § 117 - Qualified scholarships | Title 26 - Internal Revenue Code | U.S. Code | LII / Legal Information Institute")
+* Welfare and resititution aren't income under the **§61**.
+
+#### Commissioner v. Duberstein
+* Berman (Mohawk) gave ∆ a Cadillac as payment for services
+* ∆ tried to refuse it.
+* ∆ thought it was a gift, but Mohawk deducted it as payment for services rendered
+* Caddy wasn't a gift
+* Question of gift vs. payment is fact-intensive
+
+### Transfer of Unrealized G/L (inter vivos)
+* §61(a)(3) includes gains from property txns in GI.
+* **§1001(a)** says that the amount of the gain is the amount realized less the adjusted basis
+* §1012 defines the adjusted basis as the cost of the property (adjusted according to §1016)
+* [**§1015**](http://www.law.cornell.edu/uscode/text/26/1015 "26 USC § 1015 - Basis of property acquired by gifts and transfers in trust | Title 26 - Internal Revenue Code | U.S. Code | LII / Legal Information Institute") In the case of a gift, the donee's basis is the same as the donor's basis (i.e. a "transferred basis" [**§7701(a)(43)**](http://www.law.cornell.edu/uscode/text/26/7701 "26 USC § 7701 - Definitions | Title 26 - Internal Revenue Code | U.S. Code | LII / Legal Information Institute"))
+	* **Unless** the donor's basis at the time of the transfer > the property's FMV, in which case the carryover basis is just the FMV **§1015(a)**,[**§1.1015-1(a)**](http://www.law.cornell.edu/cfr/text/26/1.1015-1 "26 CFR 1.1015-1 - Basis of property acquired by gift after December 31, 1920. | Title 26 - Internal Revenue | Code of Federal Regulations | LII / Legal Information Institute")
+* [**§165**](http://www.law.cornell.edu/uscode/text/26/165 "26 USC § 165 - Losses | Title 26 - Internal Revenue Code | U.S. Code | LII / Legal Information Institute")
+	* (a) Losses are deductible when not offset by insurance
+	* (c) But only when losses are from biz, non-biz profit seeking, or catastrophe or theft
+
+#### Taft v. Bowers
+* A purchased 100 shares of stock for $1000. 7 years later, the value of the shares doubled to $2000. A gave the 100 shares to B who sold them during the same year for $5000.
+* Is B's basis in the sale A's initial basis ($1000) or is it the value at the time A gave the shares to B ($2000)?
+* B voluntarily assumed the position of the donor. She got the whole initial investment plus the appreciation.
+
+### Transfers at Death
+#### Inheritance
+* [**§1014**](http://www.law.cornell.edu/uscode/text/26/1014 "26 USC § 1014 - Basis of property acquired from a decedent | Title 26 - Internal Revenue Code | U.S. Code | LII / Legal Information Institute") basis in property transferred at death is FMV at the time of death
+	* **OR** an executor can choose to have the valuation occur 6 months after death [**§2032**](http://www.law.cornell.edu/uscode/text/26/2032 "26 USC § 2032 - Alternate valuation | Title 26 - Internal Revenue Code | U.S. Code | LII / Legal Information Institute")
+* In practice, this usually means the basis increases at the time of death (hence less of the donee's gain is taxable)
+* **1014(e)** If A gives a gift to B within a year before B's death, and the property returns to A on B's death, the basis is whatever basis B held in the property at the time of death.
+
+#### Income in respect of the decedent
+* Income earned by decedent but not yet paid at time of death is taxable. **§696**

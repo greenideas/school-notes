@@ -136,10 +136,114 @@
 * §132(c)(2)(A) Gross profit percentage = (i) / (ii) = (Price - Cost)/ Price
 * 1.132-3(e): Excess discount beyond what's excludable can be taxed.
 * Working condition
-* 1.136-6(d)(2): Occasional meal money, cab fare
+* 1.132-6(d)(2): Occasional meal money, cab fare
 * 1.132-7 URLs was de minimis if Y! covered their costs.
 * 132(j)(4) on-premisis gym is excludable
 * Working condition:
 	* Emp'er pays for something on behalf of emp'ee, and emp'ee would've been able to deduct it if she paid for it herself, then emp'er can exclude it.
 	* Expenses incurred in the course of business. §162
 	* Makes more sense after studying §67
+
+## September 9, 2013
+### Prizes 
+* Presumption that FMV of prize is includable
+* Glenshaw Glass:
+	* Income is any gain of wealth that is realized over which TP has dominion
+		* Even if it didn't come through labor, investment, or capital gain
+* **§74** prizes & windfalls are includable
+* Customary deviations: things that are excludable in practice, even though there's technically no exclusion (frequent flier miles, extreme home makeover)
+
+### Imputed Income
+* Consumption isn't covered in the gross income formula b/c there's no observable market transaction
+* Ppl paying high marginal rates benefit more from excluding imputed income because at those high marginal rates, they get more benefit from each dollar they can exclude
+
+## September 10, 2013
+* 1.61-1(a) services received are included in gross income when 
+* **RR 79-24**
+	* Normally, value the artist creates in creating art are not taxable (sweat equity)
+	* But once the artist uses the property to pay off a debt, the gain on the property is taxable
+
+### Gifts	
+* Mom earns $100k, gives $30k to son. 3 alternatives for taxing:
+	1. S has $30k of income, M deducts $30k (GI is $70k)
+	2. S has $30k, M has $100k
+		* Not nececssarily unfair. Unlike §162, in that M isn't using the 30k to generate revenue
+	3. S gets no income, M deducts nothing.
+		* Administratively easiest, and generates more revenue than (1) since more is taxed at a higher MR.
+* Part of how we resolve questions like this is whether we look at M&S as an economic unit.
+* **§162** Employers can deduct costs of earning money, incl. wages paid out
+
+### Procedure
+* TP doesn't pay, can't pay IRS assessement, goes to tax ct.
+* Tax ct. 1 judge, no juries.
+* Alternatively, you can pay the tax and sue in dist. ct.
+
+### Duberstein
+* D said the car was a gift, not GI
+* IRS said it was income
+* Tax ct agrees
+* Ct. App. said it was a gift
+* SCOTUS
+	* If the std for gifts is generous impulse, then this can't be a gift (since Berman deducted the cost of the Caddy as a biz expense)
+	* Absence of legal or moral obligation doesn't nec. mean gift.
+	* Not a gift if given for services rendered or expected to be rendered in the future.
+	* Depends on donor's intent.
+		* Donor's labeling isn't dispositive
+	* Congressional intent was to bar $ being both excluded and deducted as a biz expense.
+
+## September 11, 2013
+* The same money can't be both deducted and excluded.
+	* *Stanton*: e'er-e'ee
+	* *Duberstein*: informal nonemployment
+	* Formal nonemployment (ind. contractor)
+		* Payor might have an obligation to report payment to IRS, but doesn't have to give payee W2, withhold taxes, etc.
+
+### Employer-Employee
+* §162: Payment is made in conj. with trade or biz.
+
+#### Employee
+* Presumption is that e'ee must include
+	* Unless
+		* Exclusion
+			* §102(c): 132 can apply, because some incentive bonus or de minimis fringes may be excludable
+		* Child/family
+
+#### Employer
+* §162 Is the expeniture made in conj. with trade or biz.?
+* Some FBs (e.g. health insurance (for policy reasons), de minimis fringes (for administrative reasons)), even if excluded to the e'ee, can also be deducted by e'er.
+
+### Independent Contractor
+#### Payor
+* If payment is compensation for services, it's deductible §274(b)
+* 274(b) never applies to limit an e'er deduction since an e'er can't give a gift (unless it's an employee-relatative)
+	* Limits how much of a gift can be deducted to $25.
+
+## September 12, 2013
+### Basis of Gifts
+* Tax consequences of gift of property when the property is subsequently sold.
+* 61(a)(3) includes gains from property txns in GI
+	* (i.e. after a realization event, like a sale)
+* 1001(a) G&L are computed by comparing the amount realized with the basis
+* 1011 basis is essentially cost
+* If there's a realized gain, the presumption is that it's included
+	* Intermediate step: Is the gain recognized?
+		* 1001(c) entire amount realized shall be recognized unless there's a specific nonrecognition rule
+* Is the character of the gain capital gain? if so, long/short term?
+* Same for loss.
+	* Is it realized? Recognized? ("sustained" in 165(a))
+	* Is it allowed? There has to be a specific section that allows the loss to be deducted (this is different from gains)
+		* 165(a) allowed losses are not compensated by insurance
+		* Allowed losses are generally above the line
+		* 165(c) limited to losses from biz or trade, or from profit-seeking, or from property loss due to casualty
+			* Allowed: stock losses, loss on sale of mfg plant
+			* Not allowed: Selling your car at a loss. Presumption is that you *consumed* the value.
+
+#### Taft v. Bowers
+* Treating the donee the same way as the donor is just the way that congress is able to collect income tax. It's not a tax on the donee's property
+* Taxing donees for their realized gains on sale (instead of taxing it as income when the gift is received) allows the donee to defer the tax and invest it (maybe save the money to pay the tax)
+
+#### 1015
+* 7701(a)(42) Substituted basis ("carryover basis") is the basis the donor conveys along with the gift.
+* We're never going to tax the donee's gain unless it's more than the donor's basis
+	* And we're never going to allow her a loss if she sells it for more than then FMV at time of transfer
+	* So if she sells it for more than FMV but less than the donor's basis, no loss and no gain

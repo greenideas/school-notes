@@ -280,3 +280,159 @@
 * promotes beneficial social activity
 * Avoid perverse incentives
 * Avoids jurors giving too much weight to evidence.
+
+## September 9, 2013
+### Settlements
+* **408** offers to settle are inadmissible. so are statements made during settlement negotiations.
+* Eliminates disincentives to negotiate freely
+	* Help come to settlement
+* High risk of unfair prejudice:
+	* Lots of reasons to settle, but jurors are likely to assume fault
+
+#### When 408 applies 
+* "**any** party"
+	* Even a party no longer involved in the suit/dispute
+* Parties can't introduce: 
+	* settlement/statements of other parties
+	* their own settlement/statements
+	* settlement/statements of 3rd parties
+* Not to prove or disprove
+* "disputed": 408 doesn't apply when parties agree on liability **and** amount of damages
+* "claim":
+	* A complaint has been filed
+	* A lawyer has been filed **and** threatened to sue
+	* Otherwise cts distinguish b/w biz discussions & claims
+		* Fed cts lean heavily towards claim. If there's a way to read facts as establishing a claim, it's probably in
+* Unlike 407, you **cannot** intro statements to impeach prior inconsistent statement or contradiction 
+
+#### What 408 excludes
+* Furnishing, promising or offering
+* Accepting, promising to accept, or offering to accept
+* As long as there is valuable consideration
+	* But there is **always** valuable consideration
+* Compromising or attempting to compromise, compromise negotiations	
+* One party (unilateral) discussions **don't count**
+* Formal phrasing: "w/o prejudice to the claim;" some kind of language showing intent to engange in formal legal discussion
+* "conduct" **or** "statement"--basically anything
+* Policy:
+	* Fed rules want to promote accuracy, and these negotiations do meet that goal, so there has to be a high bar to excluding
+
+#### But not if
+* Criminal case, or public office (SEC, IRS, EPA, FDA) acting in its reg, investigative, or enforcement authority (but only if it's the agency that initiated the suit)
+	* Criminal case exception doesn't apply when the suit was b/w two private parties
+* Or, for any purpose than showing liability or impeaching a witness
+	* So not for showing witness bias or prejudice
+		* Because accuracy is important, and eliminating bias helps accuracy **AND** we're getting into unfair prejudice when bias is involved
+	* Not to negate a contention of undue delay
+		* Don't want parties to claim undue delay in bad faith when they've been involved in negotiation
+* This exception to 408 applies to statements or conduct
+	* But not to offers, acceptances, promises
+
+#### 403
+* If/when you lose on 408, there's always money in 403.
+* Ppl bring 408 together with 403.
+
+## September 10, 2013
+* 409 (medical expenses) often comes up in 408 discussions.
+* **409** excludes payment and offers to pay medical expenses for the purposes of showing liability
+* Incentivizes paying med. exp.
+* Risk of unfair prejudice
+* Promotes biz interests
+* Promotes settlement
+* Key phrases
+	* Furnishing, promising to pay or offering to pay
+		* Expansively interpreted.
+		* No response from injured pty necessary
+		* Admitting responsibility concurrently with offer is *not* excluded
+	* Medical hospital or similar expenses
+		* Rehab, rx costs, are med costs
+		* Lost wages, property dmg aren't
+	* To prove liability
+		* Admissible for any other purpose
+		* Fall-mart hypo: to negate claim that harm didn't occur
+* 408: limited to "claims" and "compromise negotiations"
+* 409: Applies to all situtations, no claim necessary
+* 403 still applies as a backstop, as usual
+	* But bc 409 is straightforward, it doesn't come up very often
+
+## September 11, 2013
+* 409 doesn't cover statements made along with payment of med exps, but those are often covered by 408
+
+### 410 Plea Bargains
+#### Rationale
+* Almost 19/20 crim trials plead out.
+* Asymmetrical bargaining power
+	* A little less expansive than 408 to remedy this a little bit (∆ has more latitude than π)
+* Crim pleas are even more prejudicial than civil settlements
+
+#### Exceptions
+* Doesn't apply to finalized guilty pleas
+	* Or statements flowing from finalized guilty pleas (/occur during negotiations)
+	* Mostly irrelevant exception, since what's mainly relevant is the fact of guilt
+* Doesn't matter what purpose you want to intro ev for (liability, impeachment, bias, whatever)
+	* Risk of prejudice is just too high.
+* Statements made during police interrogations don't count (not negotiation)
+	* AGK: Confessions are an unmitigated good
+* If ∆ introduces a statement, ct can allow other statements in *fairness* to add context.
+	* Factors:
+		* How misleading is the statement w/o context
+		* Other evidence in the case
+		* Harm to ∆
+	* Usually litigated in limine
+* In a trial for perjury or false statement, statements can be introduced if ∆ made them:
+	* under oath
+	* on the record
+	* **and** with counsel present
+
+#### Opening
+* Applies in civil or criminal case (410 follows the ∆ from case where he pleads to any future civ or crim case)
+* Only applies to ev being introduced against ∆ (only the ∆ who entered the plea)
+
+#### What's excluded?
+* Guilty plea, later withdrawn:
+	* ∆ can withdraw a plea anytime before judge accepts
+	* b/w acceptance and sentencing w/ "fair & just reason"
+		* Not impossible, but not easy
+* Nolo contendre plea
+	* Conede guilt just for sentencing purposes
+	* No preclusion effect (since it didn't really establish guilt)
+	* Nolos are rare b/c πs can ususally get a guilty plea
+* Statements made during proceedings leading to either of the above
+	* "proceeding" has a broad meaning: basically anytime π is involved
+	* "statement" includes conduct (nodding, etc.)
+* Statements during plea negotiations that don't result in a plea.
+* Two steps to determining whether there are negotiations (vs just interrogation):
+	* ∆ has to have an *actual subjective* expectation that he is negotiating a plea
+	* That expectation has to be *reasonable*
+* Factors suggesting negotiation:
+	* Attorneys present
+		* Really hard to say 410 applies when π isn't present
+	* Charges already filed
+	* Specific terms discussed
+	* Gov't expressed interest in ∆'s offer
+	* Absence of caveat statement
+* Main factor is whether π is involved in discussion
+
+#### Waiver
+* Most USAs require ∆ waive 410 before discussing a plea
+	* State attys *do not* always require this
+* Allows gov't to enforce ∆s' promisies to cooperate
+* But strips ∆ of 410 protections
+* Cynical view: if there's no waiver, it's not a plea session
+
+#### 403
+* Either side can rely on 403 there.
+
+## September 12, 2013
+* Police can intentionally mislead suspects into thinking they're empowered to cut deals, but when suspect gives up info it's still just a confession
+
+### Liabilty Insurance
+* **Rule 411** Basically nobody can talk about liability insurance in the courtroom.
+* Rationale:
+	* Incentivize buying insurance
+	* Low probative value & high unfair prejudice
+		* Prejudice is more against ins cos, since juries assume they have deep pockets & it's no big deal to have them pay out
+* What's liabilty insurance?
+	* Compensates policyholder for specific kinds of damages that the policy holders owes to the injured party
+* Can be introduced to show bias/prejudice, or agency, ownership, or control
+* Again, 403 can keep it out even if an exception applies

@@ -30,3 +30,21 @@
 * "noisy withdrawal:" don't disclose C info, but make yr withdrawal known
 * 4.1 c 3: sometimes L may have to disclose client info to show they didn't assist C's crime or fraud
 * Start by advising C, then noisy withdrawal, then disclose as a last resort
+
+## September 10, 2013
+* In cases where you think you need to disclose something, you still have to think through the form the disclosure will take and to whom you will disclose
+* 1.8(b) can't use info from rep to disadvantage C w/o C's informed consent
+* Very easy to establish a L-C relationship
+
+## September 11, 2013
+* **1.2(a)** It's *always* up to the client whether to settle
+* Washing machine hypo: competence requires L to investigate any possible defenses to the contract/collection.
+* **Competence**: No L shd approach a task w/o knowledge of the ct rules, statutes & case law, esp. in an area L isn't intimately familiar with.
+
+### Strickland & IAC
+* Even if representation isn't constitutionally inadequate (IAC), defense lawyer might still be subject to discipline
+
+### Diligence
+* Fiduciary held to a higher std of care
+    * Ls are held to the highest SoC--even among fiduciaries
+* Reasonably consult w/ C about means used to achieve C's goals
