@@ -436,3 +436,115 @@
 	* Compensates policyholder for specific kinds of damages that the policy holders owes to the injured party
 * Can be introduced to show bias/prejudice, or agency, ownership, or control
 * Again, 403 can keep it out even if an exception applies
+
+## September 16, 2013
+* Personal knowledge & Oath requirements are how we really get to competency
+* The 600s boil down to capacity for: 
+	* memory (personal knowledge), 
+	* perception (pk), 
+	* veracity (oath & affirmation), 
+	* narration (structure of direct & cross)
+* 3yo who doesn't know diff b/w truth and lies doesn't have capacity for veracity
+* Person who didn't observe controversy doesn't have the capacity for perception
+* Person who had a stroke & can't talk or gesture doesn't have the capacity to narrate
+
+### 601: Competency to testify
+* **Rule 601** Everyone is competent unless the rules explicitly say otherwise
+* Exceptions:
+	* In a civil case where state law governs, the state rule on competence controls (but is usually the same as the fed rule)
+	* Presiding judge can't testify
+		* Parties don't have to object in order to preserve the issue
+		* Incl. statements from the bench that amount to testimony (putting facts into the record as if she was a witness)
+	* A sitting juror can't testify
+		* and the objecting party has to have the opportunity to object w/o the jury present
+
+### 602: Personal Knowledge
+* **Rule 602** A witness can testify if there is evidence supporting a finding that she has personal knowledge of the matter
+* Personal knowdlege just has to be of a fact of consequence (i.e. can be circumstantial)
+	* Witness has to have seen, heard, or otherwise sensed
+		* Even if sensory capacity is severely diminished, the testimony may be impeached, but it probably won't be excluded
+	* No speculation
+		* This doesn't apply to experts, though
+* "Laying the foundation" — Establishing that witness has personal knowledge of the matter
+	* "I saw" "I heard"
+	* If there's any possiblity that the witness has personal knowledge, even if unlikely, it goes to the jury
+	* If it's impossible that a person could have personal knowledge 
+* Witness has to have the capacity to perceive, understand & remember events
+* Must understand duty to tell the truth
+	* Judges sometimes exclude testimony of very young children and others w/o mental competence relying on the above
+
+### 603: Oath or Affirmation
+* **Rule 603** *Before* testifying, a witness has to swear or affirm to testify truthfully in a form designed to impress that duty on the witness's conscience
+	* Exclusions:
+		* Very young children
+		* Severely mentally infirm
+
+## September 17, 2013
+### Examining a witness
+#### Judge calling a witness
+* 614: Judges can call a witness (rare)
+	* Or question witnesses (less rare)
+	* Must object as soon as jury isn't present (recess, bench conference, etc.)
+
+#### Sequestration
+* 615
+* If *either* pty requests W sequestration, J must order W excluded (no discretion).
+* J can also do this sua sponte
+* Rationale: Don't want Ws polluting each others' testimony.
+* Except: 
+	* parties
+	* representiative of parties who aren't natural persons
+	* witnesses essential for preparation (experts who need to hear other witnesses' testimony b/c they have to respond to it later)
+
+#### Mode & order of calling witnesses
+* 611
+
+##### Direct
+* Intro W to jurors
+* Lay the fdn: establish personal knowledge
+* Allow witness to tell her story
+* Leading q: "you were at the gas station when the clerk was shot, right?"
+* Open-ended q: "where were you on 10/20/12 at 8pm?"
+* Continuum—degrees of open-endedness
+* clarifying a fact that W brought up (making answer more concrete) isn't leading.
+* Rationale: W should tell the story—not L
+	* Also worry that Ws will defer to Ls.
+* **Permissible leading**: 
+	* establish W background info
+	* Establish witness bg info
+	* Hestiant or confused witness
+		* Usually ask J for permission to lead a little (temporary)
+	* Hostile Ws
+		* Likely to resist party's position (adverse pty or strongly associated w/ adverse party)
+		* Evasive
+		* Uncooperative
+* **Control by the court**:
+	* Lots of common ways to characterize objections to qs:
+		* Argumentative, Asked & Answered, Compound Question, Leading, Vague, etc.
+
+##### Cross
+* Can't ask a question about something that wasn't brought up on direct
+	* You *can* recall W for a direct when it's your turn to call Ws.
+	* Or J can allow you ask about other topics
+	* Except: you're always allowed to ask questions for impeachment/credibility
+
+## September 18, 2013
+* On direct, pty can give a multiple choice. It's not leading as long as no particular answer is suggested.
+	* On cross, the other party can bring out alternatives.
+
+### Refreshing recollection
+* **612**: A doc or other object can be used to refresh W's memory.
+* Rationale: trials occur way after incidents occur & human memory is fallible
+* In practice doesn't always have to be a doc W created or has seen before
+* Three conditions:
+	1. W has to say she doesn't remember
+	2. W has to say that seeing the doc would help
+	3. W has to say her memory was refreshed
+* Opposing counsel can:
+	* Inspect the doc
+	* Cross-x
+	* Introduce any related part of the doc into evidence  
+
+#### How-to
+* Establish W doesn't recall
+* Describe the doc & ask if it'll help

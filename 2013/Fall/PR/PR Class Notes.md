@@ -48,3 +48,25 @@
 * Fiduciary held to a higher std of care
     * Ls are held to the highest SoC--even among fiduciaries
 * Reasonably consult w/ C about means used to achieve C's goals
+
+## September 17, 2013
+* Waterboarding hypo: 1.1, 1.4 (communicate w/ client), 2.1 (duty to advise C even if C doesn't want to hear)
+* 5.2: A subordinate L is still bound by the rules, but there's some latitude if the sr. L's position is defensible.
+* [[ WE spent a lot of time on the waterboarding hypo ]]
+* Limiting services under 1.2(c)
+    * You may, but it has to be reasonable, and C has to give informed consent
+    * Good to get this in writing since it's a frequent source of misunderstanding
+
+### Who calls the shots
+* 1.2: L has to abide by C's decision re: objectives.
+    * Not a clear demarcation b/w means & ends
+    * L shall abide by C's decision to settle or plead out
+* 1.14: If C has diminished capacity, try to have as normal a relationship as possible
+    * Unless C is going to endanger herself bodily or financially or otherwise
+
+#### Unabomber Case
+* Opt 1: 2.1, 1.1, 1.2(a)
+* Opt 3: 1.4 (lying to C goes against getting informed consent), 1.2(d) (engaging in misrepresentation)
+
+## September 18, 2013
+*  

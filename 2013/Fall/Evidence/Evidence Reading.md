@@ -331,3 +331,78 @@ Can be demonstrative or real evidence, depending on whether they show the events
 
 ### 604 Interpreters
 * **Rule 604** An interpreter has to be qualified and affirm that she intends to translate faithfully
+
+## Chapter 15: Examining Witnesses
+* Sequence of examination:
+	* Direct, by L who called the witness
+	* Cross, by L for other side
+	* Redirect by L who called the witness (if necessary)
+	* Recross by other side (if necessary)
+	* More rounds of redirect & recross
+
+### Rule 611: Mode & Order of Examining Witnesses
+* **Control by ct.:** Ct shd exercise reasonable control over the mode & order of examining witnesses to
+	* Make the process effective for getting at truth
+	* Avoid wasting time
+	* Protect witnesses from harassement/undue embarrassment
+* **Scope of cross:** cross shd be limited to subj. matter of the direct and matters of credibility. Ct's discretion to let it go further.
+* **Leading questions:** Discouraged on direct except as necessary to develop testimony
+	* Shd be allowed on:
+		* Cross
+		* Hostile witnesses or an adverse party
+
+#### Direct examination
+* L who calls witness will "lay the foundation" for W's testimony, establishing personal knowledge
+
+### Rule 614: Court's calling/examining a witness
+* Ct can call a witness on its own, but each pty has an opportunity to cross-examine
+	* Ct can examine any witness regardless of who calls her
+	* L can object to ct's calling a witness at the time or at the next opportunity when the jury isn't present
+
+### Rule 615: Excluding witnesses
+* *On a party's request*, the court *shall* order Ws to be excluded from the court when another W is testifying, or the ct can do so on its own.
+	* The following may not be excluded under this rule
+		* A party
+		* An officer or e'ee of a party that isn't a natural person (as long as that person is designated as the party's representative by L)
+		* A person who is essential to a party's claim or defense
+		* Anyone authorized by statute to be there
+
+### Common 611 Objections
+* Argumentative
+* Asked and answered
+* Assumes a fact not in evidence
+* Beyond scope
+* Calls for narrative
+* Calls for speculation
+* Compound question
+* Harrasing/Badgering W
+* Misstating testimony
+* Leading Q
+* Non-responsive Answer - Usually on cross
+* Vague
+
+## Chapter 16: Refreshing W's Memory
+* 612 lets L refresh W's memory using a document or other item
+* May be more persuasive to jury than using leading qs.
+* **Rule 612**: 
+	* (a) When an adverse party uses a writing to refresh W's memory
+		* While W is testifying
+		* Or before if J decides it's necessary
+	* (b) 
+		* J is entitled to look at the doc & delete irrelevant info
+			* Anything deleted over objection has to be preserved for the record
+		* The other party is entitled to:
+			* Have the writing produced
+			* Inspect it
+			* Cross-examine W about it
+			* Introduce any part of it into evidence that relates to W's testimony
+	* (c) If party refuses to produce a doc being used to refresh, J can order. In a crim case, J must strike W's testimony or declare a mistrial
+* 612 lets writings that would not otherwise be admissible be used to refresh
+	* But only for the purposes of assessing credibility
+
+### 5 steps to refreshing
+1. Show W doesn't remeber the answer to q.
+2. Describe the writing to W & ask if it wd help her remember
+3. Show it to W
+4. Ask whether it helped W remember
+5. Give a copy to opposing counsel

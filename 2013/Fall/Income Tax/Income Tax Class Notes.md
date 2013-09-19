@@ -247,3 +247,82 @@
 * We're never going to tax the donee's gain unless it's more than the donor's basis
 	* And we're never going to allow her a loss if she sells it for more than then FMV at time of transfer
 	* So if she sells it for more than FMV but less than the donor's basis, no loss and no gain
+
+## September 16, 2013
+* 1015: Three factors are: 
+	* Donor's basis, 
+	* gift fair market value, 
+	* donee's amount realized
+* If donee incurs a loss, the loss is calculated based on the gift FMV
+* **§1015(a)**: For a domino gift, the basis is that of whomever was the last person to acquire the property not as a gift
+* **1015(e)** Gifts b/w spouses just use a straight carryover basis (i.e. rest of 1015 doesn't apply)
+
+### 1014
+* **§102**: GI doesn't include income from inheritance or devise
+* Better to sell inherent loss property on yr deathbed, but hold onto the inherent gain property
+* Basis in a devise is the FMV at the time of death **OR** at 6mo after death if the executor chooses
+* Estate tax was repealed for 1 year in 2010, and so was §1014. Step-up basis was limited, too. Both are back, though.
+* "Kiddie tax" child's (<19 or full-time students <24) unearned income (dividends, interest, gains from sales) over $2000 is taxed at the *parent's rate*
+	* there's benefit to the economic unit of a family to taxing child's gains at the child's rate, so this keeps families from gaming that system too much
+
+### Recovery of capital
+* A way to correctly measure gain by subtracting from basis
+	* Depreciation - Some basis in an asset is recovered every year as the asset's utility is used up
+	* annuities
+
+## September 17, 2013
+* Basis is a way of making sure you get credit for income you've already been taxed on: you use income you've been taxed on to buy property, so you shouldn't be taxed on that amount (i.e. the basis) again when you sell it
+* §1012 basis is the amount you pay
+	* Exceptions
+		* §1015 gift: taking donor's basis
+		* §1014
+* §1011 Adjusted basis
+	* §1016 depreciation as adjustment to basis
+* Allocating more basis to 1st property sold, there's less basis and more gain in the remainder of the property
+	* (obv. only when TP has a choice in how to apportion basis)
+* When TP sells stock, IRS lets TP designate which block of shares were the ones sold for the purposes of determining basis
+
+### Annuities
+* As have a big advantage whether they're paid in a lump sum or in installments: Interest isn't taxed to anyone (policyholder or ins co) as it accumulates
+	* No tax until the gain is realized
+	* Annuitant can choose how interest is invested (e.g. put it into a mutual fund), even though she isn't taxed on it at the time
+* Life-expectancy matters:
+	* Annuities are a great deal if you live a long time, but can be a bad deal if you die right after they purchase the annuity
+* Taxing the annuitant:
+	* A buys a $120000 annuity that pays $9000 a year
+	* (Excluded amt / Amount Received) = (Initial investment / Expected return)
+	* The exclusion ratio * the amount received is the amount of basis you recover each time there's a payment
+
+## September 18, 2013
+* §72: Exclusion ratio.
+* The amount of an annuity payment included in gross income is ordinary income
+	* Not cap gain b/c: it's not from a sale or exchange, and an annuity payment isn't a capital asset
+* (so are dividends, apparently, but the Bush tax cuts treat dividends as cap gains)
+* Once the full amount of the annuity is recovered, any future payments are fully included
+* Executor files one final return for the year a decedent passes
+	* She gets a deduction in the amount of the total excluded so far, subtracted from her initial investment in the annuity (i.e. her unrecovered investment)
+	* This amount is considered a Net Operating Loss (72(b)(C)(3)) which can be carried back to offset older income.
+
+### Tangent on Depreciation & Capital Expenditures
+#### Capital Expenditures
+* Cash method accounting: include amt in income when you get cash or cash equiv
+	* Deductions come when you pay
+* Accrual method: include amt in income when you get the right to receive
+	* Deductions come when you incur the obligation to pay
+* Both allow TP to deduct in connection w/ trade or biz (§162, §212)
+* **Capital expenditure**: Outlay to purchase or construct a long-lived asset (*doesn't have to be a capital asset*) or a long-lived benefit (**§263**)
+* If I buy a bldg that has a 20-yr life for $100k.
+	* Cost of using the bldg to produce income over that time is the amt the bldg goes down in value (depreciation)
+	* Cost of purchasing a asset isn't deductable immediately, but rather is deducted as it depreciates
+* Substantial payments to realtor in purchasing bldg are also part of the C expenditures
+* A *capital asset* is only ever really a thing when you sell it, and is a totally separate idea from capital expenditures.
+* Depreciation isn't allowed for personal use assets—just for assets that produce income
+
+#### Depreciation
+* Buy a machine for $100k. Machine is going to produce $ for 5 years.
+	* The $100k a capital expenditure & isn't deductible in Y1.
+	* Allocate basis over the lifespan of the asset
+* Wasting asset: any asset that loses value through use—basically anything except land and corporate stock
+* Assets are divided into classes, and objects of the same class are assumed to have the same useful life
+* ACRS allows much greater depreciation in Y1 than it would in a straightline method (more basis up front)
+	* Congress enacted the ACRS as a stimulus

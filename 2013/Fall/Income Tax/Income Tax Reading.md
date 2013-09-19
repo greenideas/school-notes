@@ -212,3 +212,45 @@
 
 #### Income in respect of the decedent
 * Income earned by decedent but not yet paid at time of death is taxable. **§696**
+
+### Recovery of capital
+* §1.61-6(a) g/l has to be apportioned according to the portion of the property sold. When a depreciation was allowed, that amount becomes part of the gain (as it's no longer part of the basis)
+	* When a part is sold, it's a separate txn, and g/l has to be calculated for each part
+
+#### Annuities & Pensions
+* §72(a) annuity payments are presumed to be included in GI
+* §72(b) exclusion ratio: Investment in the K / Expected return on K at the annuity's start date
+	* Amount under that ratio is excluded annually as recovery of investment, and the rest is treated as income
+		* If the expected return depends on life expectancy, use Treasury's actuarial tables
+	* If annuitant dies before the full amount is paid, the remainder is deductible
+	* If not, 
+* §72(c)(1) investment in K is the some of all premiums & other consideration
+
+#### Depreciation & Capital Expenditures
+* When TP is using cash accounting method:
+	* Cost of capital expenditures can't be deducted when you make them (e.g. purchasing a farm)—just when you use, sell, exchange, or abandon them
+	* When the capital has a limited useful life, some of the cost may be deducted every year as depreciation
+* Depreciation ([**§167(a)**](http://www.law.cornell.edu/uscode/text/26/167 "26 USC § 167 - Depreciation | Title 26 - Internal Revenue Code | U.S. Code | LII / Legal Information Institute")): deduction for amount of a capital asset "wasted" every year
+	* Deducting the full cost of a capital asset in the year it's purchased would understate income, since TP had additional income from the use of the asset
+	* But allowing no deduction would make TP overstate income
+* Three parts of deprecitation value:
+	1. Useful life of the asset
+	2. Salvage value
+	3. Allocation of cost above salvage value
+* Tangible assets are now assumed to have a zero salvage value
+* Basis is adjusted according to how much depreciation is allowed. [**1016(a)(2)**](http://www.law.cornell.edu/uscode/text/26/1016 "26 USC § 1016 - Adjustments to basis | Title 26 - Internal Revenue Code | U.S. Code | LII / Legal Information Institute")
+
+#### Net Operating Losses
+* [**§172(a)**](http://www.law.cornell.edu/uscode/text/26/172 "26 USC § 172 - Net operating loss deduction | Title 26 - Internal Revenue Code | U.S. Code | LII / Legal Information Institute"): Net operating losses (carried forward or back) can be deducted
+	* (b) A loss can be carried back 2 years or forward 20 years
+	* (b)(3) Carrybacks can be waived
+
+##### Burnet v. Sanford & Brooks Co.
+* US tax system uses annual accounting
+	* Otherwise costs & returns of each txn would have to be separated & allocation of overhead costs (salaries, etc.) among every txn.
+
+#### Tax Benefit Rule
+* TP deducts a loss in one year (b/c of debts, taxes, theft) and then recovers that loss in a later year.
+	* If TP didn't actually pay less taxes as a result of the deduction **and** any applicable loss carryovers have expired, the recovery is excludable **§111(a)**
+	* If TP did reduce his liability as a result of the deduction, the amount deducted is includable
+* Increase in carryover reduces the amount owed if this rule applies.

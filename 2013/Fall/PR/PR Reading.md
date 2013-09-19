@@ -108,3 +108,31 @@
 
 ### Candor
 * 2.1: L should give candid advice based not just on the law but moral, social, economic & political factors
+
+### Who calls the shots?
+* [**Rule 1.2**](http://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_2_scope_of_representation_allocation_of_authority_between_client_lawyer.html "Rule 1.2: Scope of Representation & Allocation of Authority Between Client & Lawyer | The Center for Professional Responsibility")
+* 1.2 & 1.4 work together to make L keep C informed and let C make informed decisions
+* Technical legal matters are up to the lawyer
+
+#### Jones v. Barnes
+* L does not have to raise every issue C wants to raise
+
+#### Cs w/ diminished capacity
+* [**Rule 1.14**](http://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_14_client_with_diminished_capacity.html "Rule 1.14: Client with Diminished Capacity | The Center for Professional Responsibility")
+	* L has to try to have as normal a L-C relationship as possible
+	* If L thinks C is at risk of substantial harm (of any kind) she can consult w/ others to protect C or possibly even seek to appoint a guardian
+		* L is impliedly auth'd to disclose info for this purpose
+* Comment 6 instructs Ls how to assess capacity
+
+#### Juveniles
+* Kids may have opinions that need to be respected
+* Kids have the same legal autonomy as adults in criminal and delinquency proceedings
+* If L is appointed as a guardian ad litem, L doesn't have to respect C's preferences
+
+### Terminating the relationship
+* L has to show C a copy of any docs related to the representation
+* L has to deliver docs promptly after representation ends
+* L can refuse if she hasn't been paid unless the refusal would unreasonably harm C
+* [**Rule 1.16**](http://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_16_declining_or_terminating_representation.html "Rule 1.16: Declining or Terminating Representation | The Center for Professional Responsibility") covers termination of L-C relationship before the work is done
+* L can fire C if continued representation would constitute a crime
+* L can withdraw if it wouldn't materially adversely affect C's interests 
